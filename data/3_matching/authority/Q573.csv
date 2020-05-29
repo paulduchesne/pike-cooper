@@ -1,0 +1,382 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1971717,Alan Hale,61,Q7766024,The Sporting Lover,53
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1971717,Alan Hale,61,Q2412450,The Leatherneck,44
+Q573,Gerald M. Hayle,Q242,Environment,Q1971717,Alan Hale,61,Q7375822,Rubber Tires,35
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q433945,Alan Hale,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q433945,Alan Hale,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q433945,Alan Hale,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1380406,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1380406,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1380406,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q85692,Alfred Halm,64,Q7774510,The White Horse Inn,63
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q85692,Alfred Halm,64,Q21869551,Love in the Snow,43
+Q573,Gerald M. Hayle,Q242,Environment,Q85692,Alfred Halm,64,Q7774510,White Horse Inn,38
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q15069922,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q15069922,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q15069922,Harry W. Gerstad,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549330,Gerald Lawrence,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549330,Gerald Lawrence,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549330,Gerald Lawrence,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q7491680,Shayle Gardner,64,Q7722554,The Chinese Bungalow,50
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q7491680,Shayle Gardner,64,Q7713163,The Alley Cat,40
+Q573,Gerald M. Hayle,Q242,Environment,Q7491680,Shayle Gardner,64,Q7722554,The Chinese Bungalow,32
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q273402,Georgia Hale,69,Q1970911,The Great Gatsby,38
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q273402,Georgia Hale,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q273402,Georgia Hale,69,Q1970911,Great Gatsby,26
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3178815,Jim Gérald,61,Q4163944,The Prey of the Wind,50
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3178815,Jim Gérald,61,Q3821616,Father and Son,54
+Q573,Gerald M. Hayle,Q242,Environment,Q3178815,Jim Gérald,61,Q4163944,Proie du vent,42
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549512,Gerald Rawlinson,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549512,Gerald Rawlinson,60,Q7764219,The Silent House,43
+Q573,Gerald M. Hayle,Q242,Environment,Q5549512,Gerald Rawlinson,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549203,Gerald Grove,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549203,Gerald Grove,62,Q4656245,Démon des tropiques,40
+Q573,Gerald M. Hayle,Q242,Environment,Q5549203,Gerald Grove,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1731248,Karl Gerhard,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1731248,Karl Gerhard,62,Q10641236,Prov utan värde,31
+Q573,Gerald M. Hayle,Q242,Environment,Q1731248,Karl Gerhard,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3133142,Henry W. Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3133142,Henry W. Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3133142,Henry W. Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3112993,Grace Hayle,72,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3112993,Grace Hayle,72,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3112993,Grace Hayle,72,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q7964835,Walter Fitzgerald,65,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q7964835,Walter Fitzgerald,65,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q7964835,Walter Fitzgerald,65,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q20810980,Bernadene Hayes,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q20810980,Bernadene Hayes,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q20810980,Bernadene Hayes,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3103904,Gerald Oliver Smith,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3103904,Gerald Oliver Smith,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3103904,Gerald Oliver Smith,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q959120,Gerald Mohr,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q959120,Gerald Mohr,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q959120,Gerald Mohr,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q4951986,Gerd Hagman,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q4951986,Gerd Hagman,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q4951986,Gerd Hagman,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q640093,"Alan Hale, Jr.",62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q640093,"Alan Hale, Jr.",62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q640093,"Alan Hale, Jr.",62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16013206,Gordon Hales,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16013206,Gordon Hales,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16013206,Gordon Hales,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1675887,Alfred Hayes,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1675887,Alfred Hayes,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1675887,Alfred Hayes,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549424,Gerald Moss,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549424,Gerald Moss,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549424,Gerald Moss,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q98407,Gerard Heinz,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q98407,Gerard Heinz,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q98407,Gerard Heinz,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q444867,Mary Hayley Bell,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q444867,Mary Hayley Bell,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q444867,Mary Hayley Bell,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q740649,Gerald Thomas,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q740649,Gerald Thomas,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q740649,Gerald Thomas,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3103897,Gerald Mayer,77,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3103897,Gerald Mayer,77,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3103897,Gerald Mayer,77,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1995154,Gerald Kersh,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1995154,Gerald Kersh,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1995154,Gerald Kersh,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q6083334,Münir Hayri Egeli,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q6083334,Münir Hayri Egeli,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q6083334,Münir Hayri Egeli,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q89996,Gerard Tichy,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q89996,Gerard Tichy,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q89996,Gerard Tichy,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q228650,Geraldine Page,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q228650,Geraldine Page,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q228650,Geraldine Page,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549551,Gerald S. O'Loughlin,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549551,Gerald S. O'Loughlin,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549551,Gerald S. O'Loughlin,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3103879,Gerald Harper,74,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3103879,Gerald Harper,74,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3103879,Gerald Harper,74,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q24206068,Gerold Wanke,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q24206068,Gerold Wanke,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q24206068,Gerold Wanke,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q264648,Geraldine McEwan,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q264648,Geraldine McEwan,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q264648,Geraldine McEwan,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q11699688,Gerard Zalewski,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q11699688,Gerard Zalewski,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q11699688,Gerard Zalewski,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549581,Gerald Sim,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549581,Gerald Sim,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549581,Gerald Sim,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q451363,Bernard Haller,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q451363,Bernard Haller,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q451363,Bernard Haller,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5368042,Elvi Hale,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5368042,Elvi Hale,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5368042,Elvi Hale,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5548249,Georgina Hale,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5548249,Georgina Hale,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5548249,Georgina Hale,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q4963995,Brian Hayles,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q4963995,Brian Hayles,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q4963995,Brian Hayles,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q336801,Lew Grade,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q336801,Lew Grade,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q336801,Lew Grade,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5681118,Gerardo Vallejo,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5681118,Gerardo Vallejo,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5681118,Gerardo Vallejo,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1374400,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1374400,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1374400,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2274006,Gerima Haile,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2274006,Gerima Haile,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2274006,Gerima Haile,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q90847,Günther Maria Halmer,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q90847,Günther Maria Halmer,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q90847,Günther Maria Halmer,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q722629,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q722629,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q722629,Gerald Green,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549557,Gerald Savory,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549557,Gerald Savory,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549557,Gerald Savory,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q440926,Geraldine James,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q440926,Geraldine James,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q440926,Geraldine James,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5640770,Hal Geer,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5640770,Hal Geer,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5640770,Hal Geer,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2920702,Ali Salem,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2920702,Ali Salem,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2920702,Ali Salem,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1963814,Gerald Okamura,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1963814,Gerald Okamura,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1963814,Gerald Okamura,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549457,Gerald Olson,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549457,Gerald Olson,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549457,Gerald Olson,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1509996,Gerald Schaale,79,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1509996,Gerald Schaale,79,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1509996,Gerald Schaale,79,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q463132,Gerald Scarfe,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q463132,Gerald Scarfe,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q463132,Gerald Scarfe,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q29167768,Gerald L. Monford,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q29167768,Gerald L. Monford,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q29167768,Gerald L. Monford,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5550058,Gerard Lee,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5550058,Gerard Lee,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5550058,Gerard Lee,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q325687,Gerald McRaney,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q325687,Gerald McRaney,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q325687,Gerald McRaney,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2242274,Gerard Thoolen,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2242274,Gerard Thoolen,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2242274,Gerard Thoolen,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5550023,Gerard Horan,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5550023,Gerard Horan,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5550023,Gerard Horan,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q890421,Mr. Lee Grant,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q890421,Mr. Lee Grant,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q890421,Mr. Lee Grant,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q896795,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q896795,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q896795,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1193027,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1193027,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1193027,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1509978,Gerald Pichowetz,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1509978,Gerald Pichowetz,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1509978,Gerald Pichowetz,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1385337,Gerald R. Molen,71,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1385337,Gerald R. Molen,71,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1385337,Gerald R. Molen,71,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2524925,Michael St. Gerard,65,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2524925,Michael St. Gerard,65,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2524925,Michael St. Gerard,65,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5660984,Harold Hayes,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5660984,Harold Hayes,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5660984,Harold Hayes,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q4947416,Helle Fagralid,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q4947416,Helle Fagralid,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q4947416,Helle Fagralid,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q6138004,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q6138004,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q6138004,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3144772,Hélène Girard,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3144772,Hélène Girard,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3144772,Hélène Girard,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q19776633,Gerd Haag,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q19776633,Gerd Haag,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q19776633,Gerd Haag,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3161102,James Gerard,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3161102,James Gerard,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3161102,James Gerard,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1285191,Gerhard Hahn,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1285191,Gerhard Hahn,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1285191,Gerhard Hahn,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q23720120,Gerda Ghanim,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q23720120,Gerda Ghanim,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q23720120,Gerda Ghanim,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1433160,Glenn Fitzgerald,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1433160,Glenn Fitzgerald,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1433160,Glenn Fitzgerald,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1510060,Geraldine O'Rawe,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1510060,Geraldine O'Rawe,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1510060,Geraldine O'Rawe,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3440692,Romain Le Grand,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3440692,Romain Le Grand,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3440692,Romain Le Grand,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3123684,Géraldine Maillet,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3123684,Géraldine Maillet,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3123684,Géraldine Maillet,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q6830317,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q6830317,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q6830317,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q508225,Thom Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q508225,Thom Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q508225,Thom Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1889482,Matt Gerald,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1889482,Matt Gerald,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1889482,Matt Gerald,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q1512059,Gerhard Liebmann,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q1512059,Gerhard Liebmann,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q1512059,Gerhard Liebmann,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2476169,Gerald Henderson,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2476169,Gerald Henderson,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2476169,Gerald Henderson,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q10289083,Geraldo Moraes,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q10289083,Geraldo Moraes,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q10289083,Geraldo Moraes,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q670108,Gerald Seymour,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q670108,Gerald Seymour,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q670108,Gerald Seymour,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16204788,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16204788,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16204788,Brad Hall,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q47476890,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q47476890,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q47476890,Michael Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3123626,Gérald Hustache-Mathieu,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3123626,Gérald Hustache-Mathieu,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3123626,Gérald Hustache-Mathieu,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549308,Gerald Kyd,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549308,Gerald Kyd,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549308,Gerald Kyd,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3103919,Geraldine Hughes,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3103919,Geraldine Hughes,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3103919,Geraldine Hughes,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5702721,Helen M. Grace,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5702721,Helen M. Grace,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5702721,Helen M. Grace,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16132373,Gera Sandler,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16132373,Gera Sandler,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16132373,Gera Sandler,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16185198,Gaëlle Macé,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16185198,Gaëlle Macé,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16185198,Gaëlle Macé,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549758,Geraldine Keams,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549758,Geraldine Keams,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549758,Geraldine Keams,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549437,Gerald N. Lund,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549437,Gerald N. Lund,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549437,Gerald N. Lund,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5550812,Geri Hall,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5550812,Geri Hall,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5550812,Geri Hall,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16025030,Paul Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16025030,Paul Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16025030,Paul Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q726170,Erlend Øye,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q726170,Erlend Øye,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q726170,Erlend Øye,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2087790,Georg Hólm,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2087790,Georg Hólm,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2087790,Georg Hólm,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q332591,Ronald Wayne,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q332591,Ronald Wayne,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q332591,Ronald Wayne,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q18610194,Gerald Koll,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q18610194,Gerald Koll,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q18610194,Gerald Koll,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q24035278,Gerald Kerkletz,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q24035278,Gerald Kerkletz,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q24035278,Gerald Kerkletz,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q74690974,Gerald Thompson,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q74690974,Gerald Thompson,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q74690974,Gerald Thompson,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q59388460,Gerald Salmina,71,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q59388460,Gerald Salmina,71,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q59388460,Gerald Salmina,71,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549473,Gerald Peary,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549473,Gerald Peary,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5549473,Gerald Peary,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q892115,Bernard Chazelle,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q892115,Bernard Chazelle,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q892115,Bernard Chazelle,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q42309289,Ged Haney,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q42309289,Ged Haney,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q42309289,Ged Haney,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q21074821,Gerald Webb,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q21074821,Gerald Webb,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q21074821,Gerald Webb,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q64519501,Hayley Grodt,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q64519501,Hayley Grodt,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q64519501,Hayley Grodt,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3144773,Hélène Giraud,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3144773,Hélène Giraud,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3144773,Hélène Giraud,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q21062699,Paul Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q21062699,Paul Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q21062699,Paul Gerrard,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q23903025,Mónica Esmeralda León,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q23903025,Mónica Esmeralda León,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q23903025,Mónica Esmeralda León,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q17386074,Jamie Gray Hyder,60,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q17386074,Jamie Gray Hyder,60,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q17386074,Jamie Gray Hyder,60,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q47009394,Haley Goldin,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q47009394,Haley Goldin,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q47009394,Haley Goldin,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q61006630,Skye Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q61006630,Skye Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q61006630,Skye Fitzgerald,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q16006999,Jim Gerald,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q16006999,Jim Gerald,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q16006999,Jim Gerald,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q47183824,Gerda Holmes,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q47183824,Gerda Holmes,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q47183824,Gerda Holmes,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5549357,Gerald M. Hayle,100,Q7761876,The Rushing Tide,100
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5549357,Gerald M. Hayle,100,Q7801422,Tiger Island,100
+Q573,Gerald M. Hayle,Q242,Environment,Q5549357,Gerald M. Hayle,100,Q5381006,Environment,100
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q5757646,Ali Ghalem,67,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q5757646,Ali Ghalem,67,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q5757646,Ali Ghalem,67,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q88366,Gerald Kargl,69,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q88366,Gerald Kargl,69,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q88366,Gerald Kargl,69,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q2137210,Gerrard Verhage,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q2137210,Gerrard Verhage,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q2137210,Gerrard Verhage,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q26914814,Gerald Williams,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q26914814,Gerald Williams,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q26914814,Gerald Williams,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q27055271,Eli Hayes,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q27055271,Eli Hayes,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q27055271,Eli Hayes,61,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q4104590,Gerard Vasilyev,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q4104590,Gerard Vasilyev,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q4104590,Gerard Vasilyev,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3123638,Gérald Larose,62,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3123638,Gérald Larose,62,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3123638,Gérald Larose,62,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q3195962,Khaled Ghorbal,64,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q3195962,Khaled Ghorbal,64,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q3195962,Khaled Ghorbal,64,,,0
+Q573,Gerald M. Hayle,Q243,The Rushing Tide,Q4119326,Hatem Ali,61,,,0
+Q573,Gerald M. Hayle,Q261,Tiger Island,Q4119326,Hatem Ali,61,,,0
+Q573,Gerald M. Hayle,Q242,Environment,Q4119326,Hatem Ali,61,,,0

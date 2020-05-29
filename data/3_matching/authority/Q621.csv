@@ -1,0 +1,715 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q621,Leslie Norman,Q347,The Shiralee,Q5078322,Charles Gorman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5078322,Charles Gorman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q235918,Mabel Normand,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q235918,Mabel Normand,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q11309123,Emilie Sannom,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q11309123,Emilie Sannom,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3829379,Lee Moran,73,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3829379,Lee Moran,73,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q267528,Maurice Norman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q267528,Maurice Norman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5078330,Charles Gorman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5078330,Charles Gorman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1603313,Nora Cecil,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1603313,Nora Cecil,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052600,Norman McKinnel,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052600,Norman McKinnel,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16025054,Charles Horan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16025054,Charles Horan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1748282,Norman Kerry,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1748282,Norman Kerry,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q66498072,Norman H. Lee,80,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q66498072,Norman H. Lee,80,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21067384,Alice Mann,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21067384,Alice Mann,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2065986,Leslie Stuart,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2065986,Leslie Stuart,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3568847,Bill Nolan,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3568847,Bill Nolan,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6547477,Lila Leslie,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6547477,Lila Leslie,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2016891,Spider Woman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2016891,Spider Woman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3195849,Kewpie Morgan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3195849,Kewpie Morgan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3836483,Lois Moran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3836483,Lois Moran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12956115,Amand Alliger,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12956115,Amand Alliger,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3336296,Nat Levine,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3336296,Nat Levine,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531105,Leslie Rowson,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531105,Leslie Rowson,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1971705,Norman Z. McLeod,64,Q7257494,Public Pigeon No. 1,20
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1971705,Norman Z. McLeod,64,Q1090022,Ein Schuß und 50 Tote,36
+Q621,Leslie Norman,Q347,The Shiralee,Q3241478,Line Noro,64,Q3235933,Les Truands,35
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3241478,Line Noro,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q104898,Norman Foster,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q104898,Norman Foster,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q455116,Helen Morgan,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q455116,Helen Morgan,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3878463,Norman Chaney,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3878463,Norman Chaney,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16930217,Nora Lane,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16930217,Nora Lane,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3236654,Lesieur,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3236654,Lesieur,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3786349,Holmes Zimmermann,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3786349,Holmes Zimmermann,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2409726,Norman Foster,69,Q3019195,Flußpiraten,45
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2409726,Norman Foster,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q55849302,Norman Dix,70,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q55849302,Norman Dix,70,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343798,Norman Lee,87,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343798,Norman Lee,87,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q199327,Leslie Norman,100,Q7763858,The Shiralee,100
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q199327,Leslie Norman,100,Q3012988,Summer of the Seventeenth Doll,100
+Q621,Leslie Norman,Q347,The Shiralee,Q3236716,Leslie Pearce,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3236716,Leslie Pearce,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15994590,Norman Long,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15994590,Norman Long,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q20707235,Norman Loudon,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q20707235,Norman Loudon,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q919642,Norman Krasna,62,Q3208871,The Ambassador's Daughter,43
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q919642,Norman Krasna,62,Q1462145,Indiscreet,25
+Q621,Leslie Norman,Q347,The Shiralee,Q15452671,Frank Cellier,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15452671,Frank Cellier,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3830917,Leslie Perrins,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3830917,Leslie Perrins,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3269588,Lynne Overman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3269588,Lynne Overman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3640017,Billie Thomas,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3640017,Billie Thomas,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3159674,Jacques Normand,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3159674,Jacques Normand,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1351564,Eric Portman,64,Q5097852,Child in the House,53
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1351564,Eric Portman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q334983,Jules Romains,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q334983,Jules Romains,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q716552,Norman McLaren,67,Q3148578,Chairy Tale,52
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q716552,Norman McLaren,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q28758786,Herman Gellin,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q28758786,Herman Gellin,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3742203,Felice Romano,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3742203,Felice Romano,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3345941,Noëlle Norman,80,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3345941,Noëlle Norman,80,Q3223194,"Le grand chef (film, 1959)",26
+Q621,Leslie Norman,Q347,The Shiralee,Q7052764,Norman S. Hall,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052764,Norman S. Hall,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q22299700,Elaine Ryan,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q22299700,Elaine Ryan,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1999461,Norman Burnstine,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1999461,Norman Burnstine,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052596,Norman McCabe,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052596,Norman McCabe,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q529209,Dolores Moran,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q529209,Dolores Moran,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1999640,Norman Lloyd,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1999640,Norman Lloyd,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q19976847,Eric Nordemar,62,Q10717150,Vägen genom Skå,24
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q19976847,Eric Nordemar,62,Q10548380,Kostervalsen,29
+Q621,Leslie Norman,Q347,The Shiralee,Q6187812,Jessie Rindom,62,Q6416864,Schabernack der Liebe,42
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6187812,Jessie Rindom,62,Q12340856,Vi er allesammen tossede,41
+Q621,Leslie Norman,Q347,The Shiralee,Q6531194,Leslie Vincent,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531194,Leslie Vincent,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3240836,Liliane Maigné,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3240836,Liliane Maigné,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1200630,Desider Friedmann,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1200630,Desider Friedmann,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6530542,Lesley Storm,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6530542,Lesley Storm,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q11859458,Felix Forsman,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q11859458,Felix Forsman,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1251336,Norman Corwin,62,Q7044795,No Place to Hide,43
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1251336,Norman Corwin,62,Q1407653,The Naked Maja,32
+Q621,Leslie Norman,Q347,The Shiralee,Q7052201,Norman Evans,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052201,Norman Evans,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6044922,Norma Giménez,64,Q16593503,Los torturados,23
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6044922,Norma Giménez,64,Q16492305,El festín de Satanás,42
+Q621,Leslie Norman,Q347,The Shiralee,Q3343441,Nora Coste,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343441,Nora Coste,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1885160,Maidie Norman,69,Q1842845,The Opposite Sex,57
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1885160,Maidie Norman,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q29113342,Bruce Gilbert Norman,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q29113342,Bruce Gilbert Norman,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6082533,Orhan Erçin,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6082533,Orhan Erçin,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q28553079,Eddie Moran,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q28553079,Eddie Moran,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4768976,Annelise Hovmand,62,Q5256530,Den store gav-tyv,34
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4768976,Annelise Hovmand,62,Q6439191,Krudt og klunker,26
+Q621,Leslie Norman,Q347,The Shiralee,Q6101328,Neriman Köksal,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6101328,Neriman Köksal,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q76895,Lee Marvin,61,Q2759345,The Rack,60
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q76895,Lee Marvin,61,Q3988351,The Missouri Traveler,31
+Q621,Leslie Norman,Q347,The Shiralee,Q927542,Les Tremayne,64,Q670045,Meteora infernale,55
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q927542,Les Tremayne,64,Q3988380,The Monster of Piedras Blancas,43
+Q621,Leslie Norman,Q347,The Shiralee,Q14767574,Leslie McFarlane,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q14767574,Leslie McFarlane,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16204401,Leo Lieberman,69,Q3660457,Carnival Rock,32
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16204401,Leo Lieberman,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16916431,Jacqueline Roman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16916431,Jacqueline Roman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21469248,Eric Gorman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21469248,Eric Gorman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6697306,Lucille Norman,74,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6697306,Lucille Norman,74,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q839358,László Ranódy,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q839358,László Ranódy,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q185197,Eleonora Morana,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q185197,Eleonora Morana,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1872260,Loulie Jean Norman,71,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1872260,Loulie Jean Norman,71,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q714728,Norman Fell,75,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q714728,Norman Fell,75,Q3047084,La gloire et la peur(Pork Chop Hill),31
+Q621,Leslie Norman,Q347,The Shiralee,Q15921760,Gerrie Snyman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15921760,Gerrie Snyman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2067465,Leslie H. Martinson,65,Q12060548,Hot Rod Girl,42
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2067465,Leslie H. Martinson,65,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15973029,Felice Orlandi,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15973029,Felice Orlandi,67,Q3630697,Never Love a Stranger,43
+Q621,Leslie Norman,Q347,The Shiralee,Q3343783,Norman Hudis,64,Q16947101,The Crooked Sky,44
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343783,Norman Hudis,64,Q1674808,collège s'en va-t-en guerre,50
+Q621,Leslie Norman,Q347,The Shiralee,Q261735,Åke Lindman,61,Q4356001,1918,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q261735,Åke Lindman,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343754,Norman Campbell,64,Q4768924,Anne of Green Gables,31
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343754,Norman Campbell,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q82786,Leslie Nielsen,67,Q1842845,The Opposite Sex,57
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q82786,Leslie Nielsen,67,Q1372212,The Sheepman,38
+Q621,Leslie Norman,Q347,The Shiralee,Q3157771,Jacqueline Morane,60,Q225553,Gervaise,30
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3157771,Jacqueline Morane,60,Q1170536,The Doctor's Horrible Experiment,52
+Q621,Leslie Norman,Q347,The Shiralee,Q6531094,Leslie Rees,67,Q24905844,The Sub-Editor's Room,36
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531094,Leslie Rees,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16612232,Nora Massi,61,Q3210370,The House of the Angel,47
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16612232,Nora Massi,61,Q3272380,En la ardiente oscuridad,41
+Q621,Leslie Norman,Q347,The Shiralee,Q255967,Lena Nyman,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q255967,Lena Nyman,61,Q6942659,Musik ombord,19
+Q621,Leslie Norman,Q347,The Shiralee,Q5005284,Bülent Oran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5005284,Bülent Oran,61,Q6045125,The Broken Disk,40
+Q621,Leslie Norman,Q347,The Shiralee,Q7052590,Norman Maurer,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052590,Norman Maurer,62,Q1313452,The Angry Red Planet,40
+Q621,Leslie Norman,Q347,The Shiralee,Q6044709,Nora Cullen,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6044709,Nora Cullen,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16089971,Leslie Randall,74,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16089971,Leslie Randall,74,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15487822,Norman Bird,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15487822,Norman Bird,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q979428,Norman Alden,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q979428,Norman Alden,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q22101659,Leslie Winik,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q22101659,Leslie Winik,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3587764,Élie Pressmann,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3587764,Élie Pressmann,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12132027,Aleksei Nagornyj,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12132027,Aleksei Nagornyj,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q309214,Norman Jewison,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q309214,Norman Jewison,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q13034716,Emsie Schoeman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q13034716,Emsie Schoeman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052078,Norman Cohen,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052078,Norman Cohen,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q462197,Norma Blum,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q462197,Norma Blum,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q456952,Norma Bengell,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q456952,Norma Bengell,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q534925,Leslie Uggams,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q534925,Leslie Uggams,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q26673,Li Moran,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q26673,Li Moran,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q240885,Sylvie Vartan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q240885,Sylvie Vartan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q449118,Brian Blessed,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q449118,Brian Blessed,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q14933734,Norman Leavitt,74,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q14933734,Norman Leavitt,74,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1270283,Norman Lear,75,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1270283,Norman Lear,75,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052227,Norman Foster,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052227,Norman Foster,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1670787,Norman Kaye,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1670787,Norman Kaye,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15808983,Eve Newman,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15808983,Eve Newman,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1566970,Norman Felton,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1566970,Norman Felton,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6964661,Naomi Levine,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6964661,Naomi Levine,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q266451,Elizabeth Hartman,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q266451,Elizabeth Hartman,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052613,Norman Mitchell,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052613,Norman Mitchell,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q454156,Elaine May,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q454156,Elaine May,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q28532661,Norman Carlisle,79,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q28532661,Norman Carlisle,79,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343750,Norman Claridge,71,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343750,Norman Claridge,71,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7051988,Norman Bogner,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7051988,Norman Bogner,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5484984,Frank Alesia,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5484984,Frank Alesia,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4355418,Norman Briski,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4355418,Norman Briski,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5442007,Felipe Marino,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5442007,Felipe Marino,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q180962,Norman Mailer,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q180962,Norman Mailer,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1281080,Erin Moran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1281080,Erin Moran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1242604,Norman Eshley,85,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1242604,Norman Eshley,85,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q18154342,Nora Katseli,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q18154342,Nora Katseli,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1414222,Leo Normet,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1414222,Leo Normet,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q371710,Cliff Gorman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q371710,Cliff Gorman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3403159,Leslie Thomas,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3403159,Leslie Thomas,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1496599,Norman Hill,75,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1496599,Norman Hill,75,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343748,Norman Bowler,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343748,Norman Bowler,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q23616039,Lee Madden,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q23616039,Lee Madden,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q28466448,Norma López Monet,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q28466448,Norma López Monet,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5973374,Leonor Manso,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5973374,Leonor Manso,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4916237,Birger Norman,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4916237,Birger Norman,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q558837,Lars Norén,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q558837,Lars Norén,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q25437987,Roman Oleksiv,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q25437987,Roman Oleksiv,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1934185,Milan Beli,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1934185,Milan Beli,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21451832,Norma Kastel,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21451832,Norma Kastel,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5354209,Eleanor,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5354209,Eleanor,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21416304,Norman Coombes,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21416304,Norman Coombes,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7816569,Tom Lester,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7816569,Tom Lester,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052053,Norman Chappell,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052053,Norman Chappell,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531204,Leslie Waller,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531204,Leslie Waller,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3445824,James Workman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3445824,James Workman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q57322318,Pan Lei,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q57322318,Pan Lei,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3236800,Lester Novros,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3236800,Lester Novros,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7051959,Norman Beaton,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7051959,Norman Beaton,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12318155,Ilse Rande,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12318155,Ilse Rande,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15837048,Norman Gay,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15837048,Norman Gay,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q122936,Nora von Collande,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q122936,Nora von Collande,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531043,Leslie Newman,85,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531043,Leslie Newman,85,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1131750,Lenke Lorán,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1131750,Lenke Lorán,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5397172,Norman Erlich,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5397172,Norman Erlich,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q941960,Sherman Hemsley,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q941960,Sherman Hemsley,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1820801,Leslie Malton,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1820801,Leslie Malton,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q444410,Lesley Manville,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q444410,Lesley Manville,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q9018829,Lelde Vikmane,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q9018829,Lelde Vikmane,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16193212,Lorna Lesley,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16193212,Lorna Lesley,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343710,Norma Bailey,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343710,Norma Bailey,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1573549,Ramona Leiß,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1573549,Ramona Leiß,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3051229,Elizabeth Hoffman,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3051229,Elizabeth Hoffman,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1933397,Mike Moran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1933397,Mike Moran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3357111,Ellen Horn,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3357111,Ellen Horn,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531118,Leslie Sarony,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531118,Leslie Sarony,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1618232,Hilde Lermann,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1618232,Hilde Lermann,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q452722,Alice Hoffman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q452722,Alice Hoffman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q518437,Ranee Lee,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q518437,Ranee Lee,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q18353238,Elizabeth Norment,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q18353238,Elizabeth Norment,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531071,Leslie Peterson,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531071,Leslie Peterson,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q229305,Joan Allen,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q229305,Joan Allen,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q64080421,Leslie Rosenthal,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q64080421,Leslie Rosenthal,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2326575,Leslie Wing,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2326575,Leslie Wing,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15436459,Norman Hacker,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15436459,Norman Hacker,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q66041,Sönke Wortmann,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q66041,Sönke Wortmann,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q235754,Kellie Martin,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q235754,Kellie Martin,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q220548,Zoran Perisic,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q220548,Zoran Perisic,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q545362,Marsha Norman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q545362,Marsha Norman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5338029,Edie Mirman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5338029,Edie Mirman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1820814,Leslie Knox Munro,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1820814,Leslie Knox Munro,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q449734,Elaine Morgan,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q449734,Elaine Morgan,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6530603,Leslie Ann Powers,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6530603,Leslie Ann Powers,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6050502,Omar Lefosse,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6050502,Omar Lefosse,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3177700,Jessie Nelson,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3177700,Jessie Nelson,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3236717,Leslie Rain,83,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3236717,Leslie Rain,83,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16631862,Ellie Raab,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16631862,Ellie Raab,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q29168395,Norman Hollyn,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q29168395,Norman Hollyn,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052018,Norman Buckley,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052018,Norman Buckley,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531252,Leslie Woodhead,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531252,Leslie Woodhead,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4588667,Stoyan Aleksiev,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4588667,Stoyan Aleksiev,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q65971164,Lucien Morgan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q65971164,Lucien Morgan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1319793,Elise Neal,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1319793,Elise Neal,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6530994,Leslie Mah,78,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6530994,Leslie Mah,78,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q736123,Norman Maclean,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q736123,Norman Maclean,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052133,Norman D. Golden II,65,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052133,Norman D. Golden II,65,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343865,Normand Lévesque,79,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343865,Normand Lévesque,79,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1907247,Mason Lee,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1907247,Mason Lee,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q17089132,Leslie Walker,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q17089132,Leslie Walker,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1231066,Elio Germano,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1231066,Elio Germano,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q19276753,Leslie Megahey,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q19276753,Leslie Megahey,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2125725,Cliff Dorfman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2125725,Cliff Dorfman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q37876,Natalie Portman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q37876,Natalie Portman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q659027,Ariel Dorfman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q659027,Ariel Dorfman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q431874,Leslie Stefanson,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q431874,Leslie Stefanson,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343779,Norman Helms,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343779,Norman Helms,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q229011,Leslie Mann,83,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q229011,Leslie Mann,83,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3811115,Julie Moran,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3811115,Julie Moran,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q373325,Lee Norris,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q373325,Lee Norris,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q444417,Callie Thorne,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q444417,Callie Thorne,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q921601,Ron Lester,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q921601,Ron Lester,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q589846,Beenie Man,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q589846,Beenie Man,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5091950,Cherie Nowlan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5091950,Cherie Nowlan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3721800,Eleonora Mazzoni,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3721800,Eleonora Mazzoni,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1677153,Norman Forsey,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1677153,Norman Forsey,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3343792,Norman Issa,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3343792,Norman Issa,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3625640,Loren Lester,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3625640,Loren Lester,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1110287,Elisabeth Romano,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1110287,Elisabeth Romano,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6530975,Leslie Libman,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6530975,Leslie Libman,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q727331,Sherman Alexie,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q727331,Sherman Alexie,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3488256,Norman Lovett,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3488256,Norman Lovett,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2960330,Charles Tordjman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2960330,Charles Tordjman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15485799,Denis Forman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15485799,Denis Forman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7051884,Norman A. Kent,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7051884,Norman A. Kent,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3286867,Manuel Le Lièvre,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3286867,Manuel Le Lièvre,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4568942,Morgan Alling,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4568942,Morgan Alling,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q42313691,Anneliese Goldman,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q42313691,Anneliese Goldman,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15808023,Emile Sherman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15808023,Emile Sherman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4704818,Al Silverman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4704818,Al Silverman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5364963,Ellen Nyman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5364963,Ellen Nyman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7362117,Roman Osin,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7362117,Roman Osin,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q42344731,Ashley Nolan,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q42344731,Ashley Nolan,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1820821,Leslie Silva,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1820821,Leslie Silva,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1670116,Nora Heschl,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1670116,Nora Heschl,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1524887,Will Workman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1524887,Will Workman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16990242,Helena Rängman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16990242,Helena Rängman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5640844,Hal Lieberman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5640844,Hal Lieberman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052450,Norman Korpi,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052450,Norman Korpi,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5703095,Helen Ryan,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5703095,Helen Ryan,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q78836315,Leslie Small,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q78836315,Leslie Small,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2563053,Norm Van Lier,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2563053,Norm Van Lier,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1429642,Florian Drechsler,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1429642,Florian Drechsler,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12033020,Leos Noha,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12033020,Leos Noha,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3440748,Romain Redler,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3440748,Romain Redler,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q465406,Nelson Lee,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q465406,Nelson Lee,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q22348425,Laurie Nolan,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q22348425,Laurie Nolan,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4261944,Rain Li,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4261944,Rain Li,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531191,Leslie Urdang,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531191,Leslie Urdang,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6075906,Ege Tanman,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6075906,Ege Tanman,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2195410,Leslie Streit,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2195410,Leslie Streit,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q661004,Leonor Martín,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q661004,Leonor Martín,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7052195,Norman England,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7052195,Norman England,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1394456,Lincoln Lewis,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1394456,Lincoln Lewis,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3183675,Jordan Belfi,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3183675,Jordan Belfi,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q167900,Li Xiaoran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q167900,Li Xiaoran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6524211,Leo Scherman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6524211,Leo Scherman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5364882,Ellen Hollman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5364882,Ellen Hollman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12254277,Asier Hormaza,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12254277,Asier Hormaza,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3833181,Lionel Lorans,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3833181,Lionel Lorans,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6514486,Lee Mason,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6514486,Lee Mason,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3830067,Lele Nucera,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3830067,Lele Nucera,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4250343,Max Lee,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4250343,Max Lee,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2672932,Rosie Malek-Yonan,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2672932,Rosie Malek-Yonan,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3453769,Ryan Eslinger,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3453769,Ryan Eslinger,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q2120623,Ron Leshem,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q2120623,Ron Leshem,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4459253,Lusine Tovmasyan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4459253,Lusine Tovmasyan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q43024351,Leslie Seiler,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q43024351,Leslie Seiler,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q540631,Céline Tran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q540631,Céline Tran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1200735,Desirée Noferini,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1200735,Desirée Noferini,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6094422,Orhan Eskiköy,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6094422,Orhan Eskiköy,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3830916,Leslie Morgenstein,65,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3830916,Leslie Morgenstein,65,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q58212495,Florian Deyle,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q58212495,Florian Deyle,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q443777,Orlando Letelier,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q443777,Orlando Letelier,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q42175518,Roman Kälin,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q42175518,Roman Kälin,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q438499,Allie Grant,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q438499,Allie Grant,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1093347,Ryan Lee,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1093347,Ryan Lee,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q160163,Norman Finkelstein,65,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q160163,Norman Finkelstein,65,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3830066,Lele Mora,73,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3830066,Lele Mora,73,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1999482,Norman Cöster,72,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1999482,Norman Cöster,72,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q8074452,Zoren Legaspi,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q8074452,Zoren Legaspi,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q42720481,Norman Misura,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q42720481,Norman Misura,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q235310,Alexis Jordan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q235310,Alexis Jordan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1890500,Jordan Gelber,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1890500,Jordan Gelber,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6531135,Leslie Shaw,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6531135,Leslie Shaw,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4886463,Ben Silverman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4886463,Ben Silverman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7416687,Sandra Luesse,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7416687,Sandra Luesse,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21725299,Toan Le,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21725299,Toan Le,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15221243,Nolwenn Lemesle,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15221243,Nolwenn Lemesle,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q257980,Lisa Leslie,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q257980,Lisa Leslie,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21403390,Elie Wajeman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21403390,Elie Wajeman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q48954611,Aleksey Andrianov,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q48954611,Aleksey Andrianov,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q18089198,Leslie Odom Jr.,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q18089198,Leslie Odom Jr.,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q26922262,Won Lee,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q26922262,Won Lee,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q24809545,Ian Collie,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q24809545,Ian Collie,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q83844398,Emine Korkmaz,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q83844398,Emine Korkmaz,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6284282,Rahman Ali,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6284282,Rahman Ali,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q21208660,Lela Loren,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q21208660,Lela Loren,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q62964299,Morgan T. Lee,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q62964299,Morgan T. Lee,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q17087037,Lee Si-won,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q17087037,Lee Si-won,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16856365,Roman Rien,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16856365,Roman Rien,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q77912393,Jean-François Elie,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q77912393,Jean-François Elie,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q23633914,Julie Yorn,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q23633914,Julie Yorn,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5353301,Elaine Tan,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5353301,Elaine Tan,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q439972,Madison Leisle,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q439972,Madison Leisle,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q461132,Rose Leslie,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q461132,Rose Leslie,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q19517859,Luke Moran,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q19517859,Luke Moran,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5686854,Hayley Marie Norman,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5686854,Hayley Marie Norman,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q11873072,Kristina Norman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q11873072,Kristina Norman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16249734,Emilia Zoryan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16249734,Emilia Zoryan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q20649212,Corey Norman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q20649212,Corey Norman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q19961999,Romain Gelin,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q19961999,Romain Gelin,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q66004003,Norma Alvarez,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q66004003,Norma Alvarez,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q69978562,Denise Newman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q69978562,Denise Newman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q17417475,Jace Norman,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q17417475,Jace Norman,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q64596779,Ellen Furman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q64596779,Ellen Furman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q28922674,Norma Atallah,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q28922674,Norma Atallah,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q704443,Lesley Nicol,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q704443,Lesley Nicol,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q22279433,Ester Noronha,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q22279433,Ester Noronha,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3649926,Norman Leto,75,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3649926,Norman Leto,75,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q53858109,Linde van der Storm,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q53858109,Linde van der Storm,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q23659573,Roman Lutskyi,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q23659573,Roman Lutskyi,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q29364222,Nora Boeckler,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q29364222,Nora Boeckler,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q61363249,Scott Leslie,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q61363249,Scott Leslie,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q59332152,Herman Flesvig,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q59332152,Herman Flesvig,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q26255900,Nariman Aliev,69,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q26255900,Nariman Aliev,69,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q18173445,Leïla Slimani,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q18173445,Leïla Slimani,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q67206041,Grant Esler,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q67206041,Grant Esler,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q22109187,Ioan Allen,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q22109187,Ioan Allen,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q12182704,Eman Alsaied,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q12182704,Eman Alsaied,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7360761,Rolf Leslie,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7360761,Rolf Leslie,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q5079127,Charles Horan,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q5079127,Charles Horan,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q46998853,Claude Le Lorrain,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q46998853,Claude Le Lorrain,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q3159673,Jacques Normand,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q3159673,Jacques Normand,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q6576386,Norman Chui,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q6576386,Norman Chui,67,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q15912122,Norman Law,70,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q15912122,Norman Law,70,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q72881532,Arlene Bowman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q72881532,Arlene Bowman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q237473,Helen Sharman,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q237473,Helen Sharman,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q4414060,Jon Allie,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q4414060,Jon Allie,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q490905,Lee Wan,60,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q490905,Lee Wan,60,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q7048457,Noman Ijaz,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q7048457,Noman Ijaz,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1087858,Li Man,63,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1087858,Li Man,63,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q40635903,Ramón Esono,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q40635903,Ramón Esono,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q24708143,Nick Norman-Butler,65,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q24708143,Nick Norman-Butler,65,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q1335159,Inoran,63,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q1335159,Inoran,63,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q16709098,Noa Levin,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q16709098,Noa Levin,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q23229865,Noaz Deshe,61,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q23229865,Noaz Deshe,61,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q27056615,Leslie Rodriguez,62,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q27056615,Leslie Rodriguez,62,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q26831093,Norman Hull,75,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q26831093,Norman Hull,75,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q26832722,Jessie Minor,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q26832722,Jessie Minor,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q56867367,Ozan Çelik,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q56867367,Ozan Çelik,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q35415690,Ashley Nyman,64,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q35415690,Ashley Nyman,64,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q23767055,Leslie Olivan,77,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q23767055,Leslie Olivan,77,,,0
+Q621,Leslie Norman,Q347,The Shiralee,Q11434382,Ellie Omiya,67,,,0
+Q621,Leslie Norman,Q353,Summer Of The Seventeenth Doll,Q11434382,Ellie Omiya,67,,,0

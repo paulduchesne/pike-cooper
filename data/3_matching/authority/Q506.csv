@@ -1,0 +1,707 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q15982893,Harriet Hartley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q15982893,Harriet Hartley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q15982898,Sarah Whitley,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q15982898,Sarah Whitley,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6306182,Julia Arthur,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6306182,Julia Arthur,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q460799,Shirley Mason,67,Q21869385,Great Diamond Mystery,46
+Q506,Arthur Shirley,Q232,The Sealed Room,Q460799,Shirley Mason,67,Q8857891,The Talker,56
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624290,Arthur Mackley,71,Q3521340,The Hurricane Kid,41
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624290,Arthur Mackley,71,Q3521340,The Hurricane Kid,50
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798060,Arthur Bourchier,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798060,Arthur Bourchier,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708870,Arthur Charles Miller,63,Q3986366,The Coming of Amos,53
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708870,Arthur Charles Miller,63,Q3986366,The Coming of Amos,48
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2333177,Arthur Hotaling,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2333177,Arthur Hotaling,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q44331,Arthur Schnitzler,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q44331,Arthur Schnitzler,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710106,Arthur Kahane,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710106,Arthur Kahane,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2400001,Arthur Tavares,64,Q59304923,The Making of O'Malley,53
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2400001,Arthur Tavares,64,Q59304923,The Making of O'Malley,49
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799676,Arthur Maude,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799676,Arthur Maude,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624308,Arthur Ripley,81,Q63256286,His Marriage Wow,33
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624308,Arthur Ripley,81,Q2515935,The Strong Man,48
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1421566,Arthur Hoyt,72,Q1219785,La mondo perdita,37
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1421566,Arthur Hoyt,72,Q3861315,Dreams of Monte Carlo,44
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q11838603,Helen Carruthers,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q11838603,Helen Carruthers,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624275,Arthur Hoops,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624275,Arthur Hoops,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q329613,Arthur Hill,80,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q329613,Arthur Hill,80,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6669082,Arthur Ellery,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6669082,Arthur Ellery,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798246,Arthur Chesney,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798246,Arthur Chesney,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800277,Arthur Shirley,100,Q7752899,The Mystery of a Hansom Cab,100
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800277,Arthur Shirley,100,Q7762815,The Sealed Room,100
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865139,Arthur Henry Gooden,61,Q25205593,Hearts of the West,44
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865139,Arthur Henry Gooden,61,Q25205593,Hearts of the West,36
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q85204,Artur Berger,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q85204,Artur Berger,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708647,Arthur Bernède,67,Q15714043,Mandrin,18
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708647,Arthur Bernède,67,Q3233877,Miserables,48
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2864993,Arthur Berthelet,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2864993,Arthur Berthelet,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q119650,Arthur Schröder,79,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q119650,Arthur Schröder,79,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800166,Arthur Rooke,69,Q27590521,The Gay Corinthian,44
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800166,Arthur Rooke,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q15122645,Harry Harvey,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q15122645,Harry Harvey,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16031658,Sidney Ainsworth,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16031658,Sidney Ainsworth,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q15044912,Harry Carter,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q15044912,Harry Carter,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1859875,Robert Shirley,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1859875,Robert Shirley,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q87283,Arthur Bergen,67,Q7832617,Tragedy in the House of Habsburg,47
+Q506,Arthur Shirley,Q232,The Sealed Room,Q87283,Arthur Bergen,67,Q22000964,The Song of Life,45
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7983849,Wesley Barry,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7983849,Wesley Barry,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q25873640,Harry Carter,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q25873640,Harry Carter,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1606448,Henry Arthur Jones,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1606448,Henry Arthur Jones,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q351838,Arthur Kennedy,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q351838,Arthur Kennedy,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800426,Arthur Tauchert,62,Q7730168,The Digger Earl,33
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800426,Arthur Tauchert,62,Q7752407,The Moth of Moonbi,48
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799064,Arthur Higgins,64,Q7720732,The Bushwhackers,42
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799064,Arthur Higgins,64,Q7720732,The Bushwhackers,45
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q605989,Arthur B. Reeve,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q605989,Arthur B. Reeve,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800383,Arthur Stringer,69,Q3844586,Manhandled,27
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800383,Arthur Stringer,69,Q8030766,Womanhandled,44
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799124,Arthur Hopkins,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799124,Arthur Hopkins,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q610539,Arthur Weigall,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q610539,Arthur Weigall,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3101687,George K. Arthur,62,Q3989125,The Salvation Hunters,46
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3101687,George K. Arthur,62,Q581770,The Boob,52
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q18018484,Arthur Günsburg,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q18018484,Arthur Günsburg,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q66823630,Arthur J. Flaven,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q66823630,Arthur J. Flaven,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q100295,Arthur Kraußneck,62,Q2605006,Chronicles of the Gray House,55
+Q506,Arthur Shirley,Q232,The Sealed Room,Q100295,Arthur Kraußneck,62,Q14954286,The Blue Danube,47
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798651,Arthur F. Statter,60,Q3976949,Sun-Up (film 1925),23
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798651,Arthur F. Statter,60,Q3976949,Sun-Up (film 1925),26
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q28839352,Arthur Ashley,89,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q28839352,Arthur Ashley,89,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799097,Arthur Hoerl,77,Q27957914,Counsel for the Defense,48
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799097,Arthur Hoerl,77,Q27957914,Counsel for the Defense,47
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798280,Arthur Cleave,67,Q7083473,Old Bill Through the Ages,42
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798280,Arthur Cleave,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q265021,Anne Shirley,69,Q3986998,The Fast Set,46
+Q506,Arthur Shirley,Q232,The Sealed Room,Q265021,Anne Shirley,69,Q3986998,The Fast Set,52
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5297859,Dorinea Shirley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5297859,Dorinea Shirley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6209068,Arthur Thorell,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6209068,Arthur Thorell,71,Q5256507,Den nye lensmannen,36
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800038,Arthur Pusey,77,Q17101168,Father Voss,32
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800038,Arthur Pusey,77,Q17101168,Father Voss,31
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16031042,Riley Hatch,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16031042,Riley Hatch,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q29261525,Joseph-Arthur Homier,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q29261525,Joseph-Arthur Homier,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799246,Arthur Jasmine,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799246,Arthur Jasmine,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q229338,Jean Arthur,64,Q16864672,Bringin' Home the Bacon,49
+Q506,Arthur Shirley,Q232,The Sealed Room,Q229338,Jean Arthur,64,Q7749328,The Mad Racer,57
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800101,Arthur Reeves,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800101,Arthur Reeves,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q66763857,Arthur H. Sawyer,62,Q2168449,Sandra,18
+Q506,Arthur Shirley,Q232,The Sealed Room,Q66763857,Arthur H. Sawyer,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799728,Arthur Millett,71,Q4795654,Around the World in 18 Days,41
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799728,Arthur Millett,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6266258,Johnny Arthur,67,Q7752078,The Monster,47
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6266258,Johnny Arthur,67,Q7752078,The Monster,54
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710059,Arthur Johns,62,Q657846,"Sally, Irene and Mary",34
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710059,Arthur Johns,62,Q657846,Tre grazie,48
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q17621709,Arturo Forte,62,Q28663035,El organito de la tarde,40
+Q506,Arthur Shirley,Q232,The Sealed Room,Q17621709,Arturo Forte,62,Q28663035,El organito de la tarde,32
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q19868192,Arthur Stone,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q19868192,Arthur Stone,69,Q6877199,Miss Nobody,23
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q327493,Arthur Lubin,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q327493,Arthur Lubin,62,Q786394,Bardelys the Magnificent,41
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q52162294,Arthur Gregor,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q52162294,Arthur Gregor,67,Q52151289,The Count of Luxembourg,42
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q21192228,Arthur Varney,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q21192228,Arthur Varney,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865317,Arthur Roberts,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865317,Arthur Roberts,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16067349,Dinah Shurey,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16067349,Dinah Shurey,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16390,Humphrey Bogart,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16390,Humphrey Bogart,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498816,Shirley Palmer,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498816,Shirley Palmer,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708878,Arthur Caesar,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708878,Arthur Caesar,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3528592,Arthur Hilton,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3528592,Arthur Hilton,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709168,Arthur Duarte,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709168,Arthur Duarte,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q462769,Arthur Lake,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q462769,Arthur Lake,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711731,Arthur Treacher,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711731,Arthur Treacher,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798923,Arthur Guy Empey,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798923,Arthur Guy Empey,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q383858,Arthur Lange,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q383858,Arthur Lange,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798965,Arthur Hammerstein,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798965,Arthur Hammerstein,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498757,Shirley Grey,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498757,Shirley Grey,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q27850008,Arthur Howell,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q27850008,Arthur Howell,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865177,Arthur Kober,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865177,Arthur Kober,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799504,Arthur Lever,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799504,Arthur Lever,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q19654684,Arthur Ellis,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q19654684,Arthur Ellis,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709019,Arthur Crabtree,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709019,Arthur Crabtree,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799640,Arthur Margetson,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799640,Arthur Margetson,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798971,Arthur Hardy,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798971,Arthur Hardy,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q19882658,Harry Hervey,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q19882658,Harry Hervey,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865150,Arthur Hohl,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865150,Arthur Hohl,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708804,Arthur Byron,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708804,Arthur Byron,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709558,Arthur Grant,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709558,Arthur Grant,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q441910,Arthur Jensen,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q441910,Arthur Jensen,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1052321,Cecil Arthur Lewis,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1052321,Cecil Arthur Lewis,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711105,Arthur Reinhardt,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711105,Arthur Reinhardt,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865072,Arthur Devère,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865072,Arthur Devère,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q712055,Arthur Wimperis,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q712055,Arthur Wimperis,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624303,Arthur Pierson,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624303,Arthur Pierson,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2493657,Shirley Jean Rickert,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2493657,Shirley Jean Rickert,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800140,Arthur Riscoe,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800140,Arthur Riscoe,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865182,Arthur L. Jarrett,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865182,Arthur L. Jarrett,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709913,"Arthur Hornblow, Jr.",62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709913,"Arthur Hornblow, Jr.",62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q80596,Arthur Miller,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q80596,Arthur Miller,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q340007,Arthur P. Schmidt,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q340007,Arthur P. Schmidt,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2958418,Charles Arnt,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2958418,Charles Arnt,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865316,Arthur Rigby,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865316,Arthur Rigby,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865080,Arthur Davis,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865080,Arthur Davis,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7341609,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7341609,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709413,Arthur Freed,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709413,Arthur Freed,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5669543,Harry Harvey,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5669543,Harry Harvey,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5731409,Arthur Fischer,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5731409,Arthur Fischer,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q372241,Arthur Blake,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q372241,Arthur Blake,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865001,Arthur Blake,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865001,Arthur Blake,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799547,Arthur Loft,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799547,Arthur Loft,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865347,Arthur T. Horman,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865347,Arthur T. Horman,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799577,Arthur Lucan,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799577,Arthur Lucan,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498838,Shirley Ross,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498838,Shirley Ross,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711109,Arthur Reppert,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711109,Arthur Reppert,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800291,Arthur Sinclair,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800291,Arthur Sinclair,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865308,Arthur Q. Bryan,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865308,Arthur Q. Bryan,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865169,Arthur Kay,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865169,Arthur Kay,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800487,Arthur Tracy,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800487,Arthur Tracy,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q151307,Arthur Young,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q151307,Arthur Young,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q103754,Arthur Pohl,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q103754,Arthur Pohl,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708479,Arthur Askey,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708479,Arthur Askey,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865338,Arthur Shields,79,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865338,Arthur Shields,79,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16533100,Arturo Sánchez,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16533100,Arturo Sánchez,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q20679184,Shirley Deane,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q20679184,Shirley Deane,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16153158,Henry Arthur,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16153158,Henry Arthur,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2627406,Arthur Dreifuss,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2627406,Arthur Dreifuss,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q718752,Arthur Gardner,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q718752,Arthur Gardner,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800341,Arthur St. Claire,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800341,Arthur St. Claire,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5460781,Florence Shirley,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5460781,Florence Shirley,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865130,Arthur Hambling,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865130,Arthur Hambling,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6077216,Artur Rolén,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6077216,Artur Rolén,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800331,Arthur Space,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800331,Arthur Space,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1290006,Artúr Somlay,64,Q19796494,Everybody's Woman,27
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1290006,Artúr Somlay,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q712030,Arthur Wiesner,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q712030,Arthur Wiesner,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2903350,Bill Shirley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2903350,Bill Shirley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709942,Arthur Hunnicutt,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709942,Arthur Hunnicutt,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5675105,Hartney Arthur,79,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5675105,Hartney Arthur,79,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498819,Shirley Patterson,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498819,Shirley Patterson,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711593,Arthur Stein,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711593,Arthur Stein,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q738911,Arthur Phillips,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q738911,Arthur Phillips,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711473,Arthur Schwartz,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711473,Arthur Schwartz,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1741956,Turi Vasile,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1741956,Turi Vasile,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3186180,José Artur,61,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3186180,José Artur,61,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865155,Arthur Hoérée,80,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865155,Arthur Hoérée,80,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q123164,Arthur Honegger,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q123164,Arthur Honegger,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800271,Arthur Sheekman,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800271,Arthur Sheekman,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1937199,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1937199,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5806206,Arthur Hilton,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5806206,Arthur Hilton,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q20685041,Arthur E. Orloff,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q20685041,Arthur E. Orloff,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q38402919,Arthur Christiansen,61,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q38402919,Arthur Christiansen,61,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709633,Arthur H. Nadel,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709633,Arthur H. Nadel,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710334,Arthur Laurents,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710334,Arthur Laurents,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709403,Arthur Franz,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709403,Arthur Franz,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709978,Arthur Ibbetson,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709978,Arthur Ibbetson,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7341608,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7341608,Robert Arthur,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6185785,Arthur Spjuth,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6185785,Arthur Spjuth,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865920,Artur Semedo,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865920,Artur Semedo,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799546,Arthur Loew Jr.,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799546,Arthur Loew Jr.,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q253308,Shirley Booth,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q253308,Shirley Booth,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q458290,Barbara Shelley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q458290,Barbara Shelley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708595,Arthur Batanides,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708595,Arthur Batanides,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q516683,Faith Hubley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q516683,Faith Hubley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q468435,Sheree North,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q468435,Sheree North,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q434900,Shirley Eaton,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q434900,Shirley Eaton,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q325700,Arthur Lowe,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q325700,Arthur Lowe,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q95026,Shirley MacLaine,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q95026,Shirley MacLaine,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708260,Arthur Heinz Lehmann,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708260,Arthur Heinz Lehmann,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q249544,Arthur Hailey,89,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q249544,Arthur Hailey,89,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1346126,John Shirley,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1346126,John Shirley,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q455043,Arthur Hiller,81,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q455043,Arthur Hiller,81,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q18640993,Arthur Stevens,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q18640993,Arthur Stevens,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16009504,Arthur Mayer,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16009504,Arthur Mayer,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q41136,Arthur Penn,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q41136,Arthur Penn,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709361,Arthur Fiedler,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709361,Arthur Fiedler,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q17537063,John Shirley,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q17537063,John Shirley,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q138576,Bea Arthur,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q138576,Bea Arthur,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798173,Arthur C. Pierce,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798173,Arthur C. Pierce,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q545368,Katherine Squire,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q545368,Katherine Squire,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q774517,Shirley Clarke,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q774517,Shirley Clarke,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q238884,Shirley Knight,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q238884,Shirley Knight,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799132,Arthur Howard,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799132,Arthur Howard,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q124474,Arthur Cohn,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q124474,Arthur Cohn,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5707335,Arturo López,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5707335,Arturo López,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865207,Arthur Lipsett,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865207,Arthur Lipsett,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3379247,Philippe Arthuys,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3379247,Philippe Arthuys,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q460062,Shirley Douglas,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q460062,Shirley Douglas,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800635,Arthur Weiss,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800635,Arthur Weiss,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q20670070,Arthur La Bern,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q20670070,Arthur La Bern,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865227,Arthur Malet,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865227,Arthur Malet,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708662,Arthur Binder,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708662,Arthur Binder,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6027385,Indus Arthur,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6027385,Indus Arthur,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16009640,Arthur Lovegrove,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16009640,Arthur Lovegrove,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1587909,Harvey Hart,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1587909,Harvey Hart,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710863,Arthur Omre,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710863,Arthur Omre,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798998,Arthur Haynes,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798998,Arthur Haynes,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800245,Arthur Schneider,73,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800245,Arthur Schneider,73,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709509,Arthur Godfrey,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709509,Arthur Godfrey,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1195368,Arthur Kennedy,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1195368,Arthur Kennedy,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3193092,Karen Arthur,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3193092,Karen Arthur,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6792645,Maureen Arthur,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6792645,Maureen Arthur,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q71452,Mireille Mathieu,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q71452,Mireille Mathieu,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q212692,Arthur Sullivan,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q212692,Arthur Sullivan,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q47087,Arthur C. Clarke,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q47087,Arthur C. Clarke,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q435195,Arthur M. Schlesinger,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q435195,Arthur M. Schlesinger,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q417054,Arthur Brown,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q417054,Arthur Brown,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708782,Arthur Brown,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708782,Arthur Brown,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5701997,Helen Carter,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5701997,Helen Carter,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3482355,Shirley Jaffe,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3482355,Shirley Jaffe,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710010,Arthur Jaschke,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710010,Arthur Jaschke,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3660510,Carol Arthur,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3660510,Carol Arthur,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q472350,Arthur Rowe,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q472350,Arthur Rowe,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4796868,Art Hindle,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4796868,Art Hindle,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4801767,Arturo Maly,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4801767,Arturo Maly,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16846079,Arthur Marks,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16846079,Arthur Marks,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799148,Arthur Hughes,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799148,Arthur Hughes,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q272519,Arthur Lewis,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q272519,Arthur Lewis,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799056,Arthur Hewlett,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799056,Arthur Hewlett,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711241,Arthur Rowe,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711241,Arthur Rowe,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1521718,Isolde Barth,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1521718,Isolde Barth,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3295213,Marthe Thiéry,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3295213,Marthe Thiéry,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1587559,Hartmut Schreier,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1587559,Hartmut Schreier,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2269667,Arthur English,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2269667,Arthur English,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16239356,Brett Smiley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16239356,Brett Smiley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q9631800,Artur Semedo,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q9631800,Artur Semedo,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q213748,Arthur Rosenberg,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q213748,Arthur Rosenberg,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3658026,Arthur Haggerty,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3658026,Arthur Haggerty,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3490836,Sophie Artur,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3490836,Sophie Artur,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q711370,Arthur Schmidt,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q711370,Arthur Schmidt,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q22018750,Arthur Jeffreys,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q22018750,Arthur Jeffreys,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799347,Arthur Kent,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799347,Arthur Kent,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3827166,Larry Riley,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3827166,Larry Riley,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1806108,Larry Riley,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1806108,Larry Riley,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800288,Arthur Simms,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800288,Arthur Simms,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865190,Arthur Lamothe,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865190,Arthur Lamothe,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q239657,Shirley Chisholm,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q239657,Shirley Chisholm,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q11975337,Hilde Grythe,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q11975337,Hilde Grythe,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798754,Arthur French,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798754,Arthur French,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q434844,Sheila McCarthy,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q434844,Sheila McCarthy,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16899531,Arthur Johansen,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16899531,Arthur Johansen,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4801740,Arturo Gil,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4801740,Arturo Gil,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q75622,Elizabeth Hurley,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q75622,Elizabeth Hurley,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q23062886,Arthur Wooster,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q23062886,Arthur Wooster,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q9631337,Arthur Howes,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q9631337,Arthur Howes,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q9335930,Sharlene Martin,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q9335930,Sharlene Martin,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q270893,Shirley Horn,77,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q270893,Shirley Horn,77,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q770566,Arthur Kopit,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q770566,Arthur Kopit,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865151,Arthur Holden,74,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865151,Arthur Holden,74,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q63379049,Barry Shils,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q63379049,Barry Shils,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q17418216,Gerhard Schirlo,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q17418216,Gerhard Schirlo,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q232889,Shirley Henderson,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q232889,Shirley Henderson,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q9160488,Arthur Reinhart,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q9160488,Arthur Reinhart,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3490839,Sophie Aubry,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3490839,Sophie Aubry,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710766,Arthur J. Nascarella,61,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710766,Arthur J. Nascarella,61,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7147840,Patrick Whitley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7147840,Patrick Whitley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498695,Shirley Barrett,76,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498695,Shirley Barrett,76,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2484903,Sidney Armus,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2484903,Sidney Armus,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498897,Shirly Brener,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498897,Shirly Brener,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799119,Arthur Hopcraft,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799119,Arthur Hopcraft,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624519,Arturo Cirillo,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624519,Arturo Cirillo,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q1265800,Marty McSorley,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q1265800,Marty McSorley,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4797772,Arthur A. Wilson,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4797772,Arthur A. Wilson,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865044,Arthur Cheysson,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865044,Arthur Cheysson,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q8001625,Wiley Harker,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q8001625,Wiley Harker,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4797905,Arthur Baker,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4797905,Arthur Baker,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2635241,Gareth Hale,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2635241,Gareth Hale,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798758,Arthur Friedman,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798758,Arthur Friedman,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798134,Arthur Burghardt,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798134,Arthur Burghardt,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3482347,Shirley Bousquet,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3482347,Shirley Bousquet,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624322,Arthur Taxier,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624322,Arthur Taxier,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q990256,Bart Sibrel,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q990256,Bart Sibrel,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q22249826,Sjur Aarthun,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q22249826,Sjur Aarthun,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q9160796,Artur Więcek,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q9160796,Artur Więcek,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6219467,John Arthur,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6219467,John Arthur,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q561670,Arthur Young,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q561670,Arthur Young,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q15485324,Ray Arthur Wang,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q15485324,Ray Arthur Wang,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799831,Arthur Nichols,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799831,Arthur Nichols,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q22978779,Matthew Smiley,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q22978779,Matthew Smiley,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5522998,Gareth Wiley,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5522998,Gareth Wiley,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7498718,Shirley Cheechoo,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7498718,Shirley Cheechoo,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3494501,Shiney Ahuja,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3494501,Shiney Ahuja,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q432728,Arthur Golden,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q432728,Arthur Golden,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710121,Arthur Kane,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710121,Arthur Kane,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3482339,Shirley and Dino,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3482339,Shirley and Dino,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865232,Arthur Mazet,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865232,Arthur Mazet,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q543545,Arthur Lee,75,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q543545,Arthur Lee,75,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6836904,Michelle Arthur,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6836904,Michelle Arthur,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710164,Arthur Klemt,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710164,Arthur Klemt,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865350,Arthur Tarnowski,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865350,Arthur Tarnowski,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q891522,Arthur H,73,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q891522,Arthur H,73,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q285193,Ashley Argota,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q285193,Ashley Argota,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q58198520,Martin Shore,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q58198520,Martin Shore,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16212201,Arthur Fogel,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16212201,Arthur Fogel,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q24849212,Arthur F. Repola,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q24849212,Arthur F. Repola,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16494236,Arthur Kohl,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16494236,Arthur Kohl,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3490844,Sophie Barthes,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3490844,Sophie Barthes,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q325099,Arthur Blessitt,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q325099,Arthur Blessitt,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6376061,Kath Shelper,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6376061,Kath Shelper,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6939368,Murray McArthur,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6939368,Murray McArthur,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q27885150,Arthur Karapetyan,65,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q27885150,Arthur Karapetyan,65,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q710366,Arthur Leipzig,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q710366,Arthur Leipzig,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q125942,Arthur Darvill,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q125942,Arthur Darvill,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4159890,Artur Janibekyan,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4159890,Artur Janibekyan,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q21330671,Arthur Nightingale,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q21330671,Arthur Nightingale,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3490835,Sophie Arthuys,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3490835,Sophie Arthuys,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q188929,Arthur Evans,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q188929,Arthur Evans,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3624253,Arthur Bowen,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3624253,Arthur Bowen,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5881936,Holly Carter,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5881936,Holly Carter,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q971174,Matt Shively,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q971174,Matt Shively,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q234104,Shirley Manson,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q234104,Shirley Manson,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708955,Arthur Cohn,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708955,Arthur Cohn,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3240946,Lily Carter,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3240946,Lily Carter,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16370855,Arthur Darbinyan,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16370855,Arthur Darbinyan,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q24008552,Arthur Igual,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q24008552,Arthur Igual,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q64692355,Arthur Cloquet,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q64692355,Arthur Cloquet,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7298104,Ray Shirley,72,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7298104,Ray Shirley,72,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q12338204,Shirley,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q12338204,Shirley,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q21031198,Arthur Lambert,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q21031198,Arthur Lambert,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2864966,Arthur,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2864966,Arthur,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3234937,Sophie Raworth,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3234937,Sophie Raworth,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q66026948,Arthur Lee,75,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q66026948,Arthur Lee,75,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q56786649,Sushree Rath,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q56786649,Sushree Rath,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q708548,Arthur Baker,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q708548,Arthur Baker,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q28834853,Sarah McArthur,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q28834853,Sarah McArthur,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q24940525,Arthur Harari,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q24940525,Arthur Harari,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q85521777,Garret Shanley,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q85521777,Garret Shanley,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q20973706,Zackary Arthur,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q20973706,Zackary Arthur,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q6769687,Mark Shelley,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q6769687,Mark Shelley,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865266,Arthur Nauzyciel,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865266,Arthur Nauzyciel,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q16148393,Janelle Arthur,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q16148393,Janelle Arthur,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q58840204,Sophie Huber,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q58840204,Sophie Huber,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q25999312,Madeleine Arthur,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q25999312,Madeleine Arthur,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q86531510,Arthur Hallereau,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q86531510,Arthur Hallereau,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865291,Arthur Pillu-Périer,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865291,Arthur Pillu-Périer,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q17483975,Arthur Gilbert,71,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q17483975,Arthur Gilbert,71,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4800571,Arthur W. Sterry,69,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4800571,Arthur W. Sterry,69,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4798085,Arthur Brisbane,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4798085,Arthur Brisbane,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q60673914,Arthur J. Zellner,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q60673914,Arthur J. Zellner,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q709546,Arthur Gottlein,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q709546,Arthur Gottlein,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q28465747,Arthur Heinemann,67,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q28465747,Arthur Heinemann,67,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q4799490,Arthur Leo Zagat,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q4799490,Arthur Leo Zagat,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q123560,Arthur Køpcke,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q123560,Arthur Køpcke,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q7633787,Sudhir Ahuja,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q7633787,Sudhir Ahuja,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q561789,Arthur Japin,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q561789,Arthur Japin,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2865048,Arthur Chollon,64,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2865048,Arthur Chollon,64,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q5527787,Gauri Shinde,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q5527787,Gauri Shinde,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q3524304,Thierry Harcourt,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q3524304,Thierry Harcourt,60,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q28552290,Arthur Cauty,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q28552290,Arthur Cauty,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q24661093,Shirley Abraham,76,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q24661093,Shirley Abraham,76,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q24744193,Sophie Meath,62,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q24744193,Sophie Meath,62,,,0
+Q506,Arthur Shirley,Q218,The Mystery Of A Hansom Cab,Q2262935,Mireille Hartuch,60,,,0
+Q506,Arthur Shirley,Q232,The Sealed Room,Q2262935,Mireille Hartuch,60,,,0

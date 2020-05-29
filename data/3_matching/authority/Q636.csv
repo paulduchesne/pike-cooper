@@ -1,0 +1,844 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3829379,Lee Moran,63,Q3637486,Behind the Screen,46
+Q636,Monte Luke,Q120,For Australia,Q3829379,Lee Moran,63,Q3747109,Following Father's Footsteps,39
+Q636,Monte Luke,Q123,Within The Law,Q3829379,Lee Moran,63,Q15044020,Caught with the Goods,57
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3086908,Fred Montague,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3086908,Fred Montague,61,Q16038812,A Bride of Mystery,39
+Q636,Monte Luke,Q123,Within The Law,Q3086908,Fred Montague,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3229551,Leo D. Maloney,61,Q20803071,So Shall Ye Reap,37
+Q636,Monte Luke,Q120,For Australia,Q3229551,Leo D. Maloney,61,Q3338826,Never Again,42
+Q636,Monte Luke,Q123,Within The Law,Q3229551,Leo D. Maloney,61,Q3602536,Lass of the Lumberlands,38
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q960510,Montagu Love,64,Q56322698,The Men She Married,44
+Q636,Monte Luke,Q120,For Australia,Q960510,Montagu Love,64,Q3602714,A Royal Family,37
+Q636,Monte Luke,Q123,Within The Law,Q960510,Montagu Love,64,Q56322698,The Men She Married,42
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1945758,Monte Blue,90,Q220394,En nations födelse,41
+Q636,Monte Luke,Q120,For Australia,Q1945758,Monte Blue,90,Q220394,Birth of a Nation,40
+Q636,Monte Luke,Q123,Within The Law,Q1945758,Monte Blue,90,Q192206,The Mother and the Law,56
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5312913,Duke Worne,70,Q19543912,The Bay of Seven Isles,59
+Q636,Monte Luke,Q120,For Australia,Q5312913,Duke Worne,70,Q16679690,Mysterious Hand,43
+Q636,Monte Luke,Q123,Within The Law,Q5312913,Duke Worne,70,Q19365663,His Last Trick,43
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q389128,Monta Bell,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q389128,Monta Bell,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q389128,Monta Bell,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2630976,Buck Jones,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q2630976,Buck Jones,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2630976,Buck Jones,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2829333,Al Fremont,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q2829333,Al Fremont,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2829333,Al Fremont,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2906003,Blanche Montel,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q2906003,Blanche Montel,67,Q3213354,La Tulipe d'or,37
+Q636,Monte Luke,Q123,Within The Law,Q2906003,Blanche Montel,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3314022,Milburn Morante,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3314022,Milburn Morante,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3314022,Milburn Morante,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3322512,Monte Brice,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q3322512,Monte Brice,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3322512,Monte Brice,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1720117,Leone Lane,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1720117,Leone Lane,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1720117,Leone Lane,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6904829,Monte Montague,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q6904829,Monte Montague,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6904829,Monte Montague,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q435532,Mae Clarke,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q435532,Mae Clarke,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q435532,Mae Clarke,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3265652,Lucien Nat,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3265652,Lucien Nat,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3265652,Lucien Nat,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q15453534,Monte Collins,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q15453534,Monte Collins,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q15453534,Monte Collins,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q211965,The Moody Blues,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q211965,The Moody Blues,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q211965,The Moody Blues,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q9021286,Lely Morel,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q9021286,Lely Morel,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q9021286,Lely Morel,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3442687,Rosine Luguet,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3442687,Rosine Luguet,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3442687,Rosine Luguet,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3588728,Émile Ronet,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3588728,Émile Ronet,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3588728,Émile Ronet,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7519155,Simon Lack,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q7519155,Simon Lack,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7519155,Simon Lack,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5829610,Eliseo Montaine,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q5829610,Eliseo Montaine,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5829610,Eliseo Montaine,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21103021,Alex Montoya,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q21103021,Alex Montoya,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21103021,Alex Montoya,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3029344,Leo Rosten,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3029344,Leo Rosten,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3029344,Leo Rosten,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16594600,Luis Otero,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q16594600,Luis Otero,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16594600,Luis Otero,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2142355,Monte Hale,80,,,0
+Q636,Monte Luke,Q120,For Australia,Q2142355,Monte Hale,80,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2142355,Monte Hale,80,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21401794,Claude Misonne,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q21401794,Claude Misonne,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21401794,Claude Misonne,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6702342,Luke Short,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q6702342,Luke Short,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6702342,Luke Short,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q525742,Cleo Moore,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q525742,Cleo Moore,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q525742,Cleo Moore,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3426016,René Clermont,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3426016,René Clermont,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3426016,René Clermont,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1096865,Claude Lapointe,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q1096865,Claude Lapointe,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1096865,Claude Lapointe,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2978278,Claude Winter,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q2978278,Claude Winter,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2978278,Claude Winter,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q75083141,Flora Monteys,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q75083141,Flora Monteys,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q75083141,Flora Monteys,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3349195,Odette Laure,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3349195,Odette Laure,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3349195,Odette Laure,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3573066,María Luisa Ponte,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q3573066,María Luisa Ponte,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3573066,María Luisa Ponte,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4968359,Kate Mundt,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q4968359,Kate Mundt,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4968359,Kate Mundt,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q38051120,Ole Lytken,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q38051120,Ole Lytken,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q38051120,Ole Lytken,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5312833,Duke Mitchell,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q5312833,Duke Mitchell,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5312833,Duke Mitchell,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1345576,Lee Montague,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q1345576,Lee Montague,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1345576,Lee Montague,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q23688123,Éliane Monceau,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q23688123,Éliane Monceau,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q23688123,Éliane Monceau,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6003079,Maruja Montes,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q6003079,Maruja Montes,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6003079,Maruja Montes,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q11396881,Harue Tone,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q11396881,Harue Tone,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q11396881,Harue Tone,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q90398,Lotte Ledl,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q90398,Lotte Ledl,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q90398,Lotte Ledl,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q11989845,Mona Levin,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q11989845,Mona Levin,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q11989845,Mona Levin,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16571861,Gloria Montes,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q16571861,Gloria Montes,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16571861,Gloria Montes,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q40523551,Merete Due,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q40523551,Merete Due,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q40523551,Merete Due,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1683870,Peter Duke,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1683870,Peter Duke,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1683870,Peter Duke,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5312832,Duke Moore,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q5312832,Duke Moore,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5312832,Duke Moore,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5995634,Ike Jones,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q5995634,Ike Jones,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5995634,Ike Jones,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q945188,Monte Hellman,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q945188,Monte Hellman,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q945188,Monte Hellman,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q275979,Elsa Morante,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q275979,Elsa Morante,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q275979,Elsa Morante,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q452799,Del Monroe,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q452799,Del Monroe,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q452799,Del Monroe,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2217716,Samson Burke,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2217716,Samson Burke,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2217716,Samson Burke,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q28604519,Leon Tyler,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q28604519,Leon Tyler,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q28604519,Leon Tyler,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4883666,Belle Montrose,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q4883666,Belle Montrose,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4883666,Belle Montrose,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3160944,James Blue,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3160944,James Blue,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3160944,James Blue,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6904803,Monte Landis,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q6904803,Monte Landis,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6904803,Monte Landis,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q15451851,John Burke,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q15451851,John Burke,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q15451851,John Burke,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1488108,Klaus Münster,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q1488108,Klaus Münster,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1488108,Klaus Münster,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27902593,José Luis Monter,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q27902593,José Luis Monter,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27902593,José Luis Monter,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3439224,Roger Lumont,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3439224,Roger Lumont,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3439224,Roger Lumont,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1248696,Renate Blume,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q1248696,Renate Blume,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1248696,Renate Blume,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27728563,Monique Luiz,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q27728563,Monique Luiz,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27728563,Monique Luiz,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3320874,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3320874,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3320874,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1745562,Klaus Piontek,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q1745562,Klaus Piontek,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1745562,Klaus Piontek,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q439853,Yvonne Blake,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q439853,Yvonne Blake,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q439853,Yvonne Blake,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3035736,Don Burke,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q3035736,Don Burke,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3035736,Don Burke,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q945099,Monte Markham,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q945099,Monte Markham,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q945099,Monte Markham,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2832322,Aldo Monti,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q2832322,Aldo Monti,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2832322,Aldo Monti,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q12324860,Lone Lau,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q12324860,Lone Lau,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q12324860,Lone Lau,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1781260,Mike Monty,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q1781260,Mike Monty,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1781260,Mike Monty,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3311659,Michèle Montel,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q3311659,Michèle Montel,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3311659,Michèle Montel,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q12324178,Leif Mønsted,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q12324178,Leif Mønsted,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q12324178,Leif Mønsted,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q616080,Elena Pedemonte,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q616080,Elena Pedemonte,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q616080,Elena Pedemonte,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q211696,Keith Moon,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q211696,Keith Moon,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q211696,Keith Moon,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3264895,Luc Ponette,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q3264895,Luc Ponette,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3264895,Luc Ponette,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1611950,Lee Montgomery,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q1611950,Lee Montgomery,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1611950,Lee Montgomery,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3839913,Luigi Montini,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3839913,Luigi Montini,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3839913,Luigi Montini,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1352034,Lenny Montana,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q1352034,Lenny Montana,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1352034,Lenny Montana,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q885681,Blue Demon,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q885681,Blue Demon,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q885681,Blue Demon,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3573781,Yves Le Moign',61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3573781,Yves Le Moign',61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3573781,Yves Le Moign',61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1145240,Claude Mulot,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q1145240,Claude Mulot,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1145240,Claude Mulot,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3484597,Simone Piuze,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3484597,Simone Piuze,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3484597,Simone Piuze,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3264913,Luc Simon,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q3264913,Luc Simon,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3264913,Luc Simon,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1834613,Lucía Méndez,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1834613,Lucía Méndez,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1834613,Lucía Méndez,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q271256,Ronee Blakley,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q271256,Ronee Blakley,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q271256,Ronee Blakley,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5387122,Eric Monte,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q5387122,Eric Monte,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5387122,Eric Monte,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7518377,Simon Burke,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q7518377,Simon Burke,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7518377,Simon Burke,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q266804,Lupe Ontiveros,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q266804,Lupe Ontiveros,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q266804,Lupe Ontiveros,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1131750,Lenke Lorán,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1131750,Lenke Lorán,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1131750,Lenke Lorán,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6270407,Jon Blake,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q6270407,Jon Blake,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6270407,Jon Blake,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2977865,Claude Morin,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2977865,Claude Morin,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2977865,Claude Morin,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q542061,Laura Morante,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q542061,Laura Morante,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q542061,Laura Morante,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1573549,Ramona Leiß,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1573549,Ramona Leiß,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1573549,Ramona Leiß,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q124409,Elke Loewe,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q124409,Elke Loewe,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q124409,Elke Loewe,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65116191,Luc Matte,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q65116191,Luc Matte,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65116191,Luc Matte,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1933397,Mike Moran,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1933397,Mike Moran,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1933397,Mike Moran,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3194875,Kelli Maroney,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3194875,Kelli Maroney,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3194875,Kelli Maroney,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21403235,Eddie Samonte,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q21403235,Eddie Samonte,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21403235,Eddie Samonte,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3060044,Eugène Mona,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3060044,Eugène Mona,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3060044,Eugène Mona,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q18361225,Ned Luke,78,,,0
+Q636,Monte Luke,Q120,For Australia,Q18361225,Ned Luke,78,,,0
+Q636,Monte Luke,Q123,Within The Law,Q18361225,Ned Luke,78,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q51669567,Aleksey Leontyev,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q51669567,Aleksey Leontyev,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q51669567,Aleksey Leontyev,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q682888,Félix Monti,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q682888,Félix Monti,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q682888,Félix Monti,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q701214,Moon Lee,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q701214,Moon Lee,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q701214,Moon Lee,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3437061,Robin Duke,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3437061,Robin Duke,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3437061,Robin Duke,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1738655,Ken Olandt,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1738655,Ken Olandt,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1738655,Ken Olandt,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6848125,Mike Moyer,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q6848125,Mike Moyer,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6848125,Mike Moyer,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q15987708,Mike Stone,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q15987708,Mike Stone,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q15987708,Mike Stone,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q434869,Clive Mantle,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q434869,Clive Mantle,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q434869,Clive Mantle,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q28100909,Jorge Montejo,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q28100909,Jorge Montejo,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q28100909,Jorge Montejo,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6687754,Louis Mahoney,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q6687754,Louis Mahoney,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6687754,Louis Mahoney,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3857461,Mike Stone,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3857461,Mike Stone,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3857461,Mike Stone,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3814404,Kelly Monteith,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q3814404,Kelly Monteith,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3814404,Kelly Monteith,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q319773,Morten Harket,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q319773,Morten Harket,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q319773,Morten Harket,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q318165,Luke Perry,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q318165,Luke Perry,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q318165,Luke Perry,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q274656,Élie Semoun,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q274656,Élie Semoun,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q274656,Élie Semoun,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65971164,Lucien Morgan,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q65971164,Lucien Morgan,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65971164,Lucien Morgan,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6700929,Luis Méndez,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q6700929,Luis Méndez,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6700929,Luis Méndez,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q38471297,Ole Simonsen,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q38471297,Ole Simonsen,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q38471297,Ole Simonsen,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1871869,Louis Morneau,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q1871869,Louis Morneau,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1871869,Louis Morneau,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q23987500,Yvan Le Moine,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q23987500,Yvan Le Moine,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q23987500,Yvan Le Moine,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q23059216,Mona Bräuer,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q23059216,Mona Bräuer,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q23059216,Mona Bräuer,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1907247,Mason Lee,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q1907247,Mason Lee,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1907247,Mason Lee,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1379387,Eva Monley,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1379387,Eva Monley,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1379387,Eva Monley,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q11837919,Mother Love,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q11837919,Mother Love,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q11837919,Mother Love,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3840387,Luis Molteni,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3840387,Luis Molteni,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3840387,Luis Molteni,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1876936,Lukas Miko,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1876936,Lukas Miko,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1876936,Lukas Miko,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q107769,Luke Wilson,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q107769,Luke Wilson,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q107769,Luke Wilson,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q12327673,Morten Gundel,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q12327673,Morten Gundel,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q12327673,Morten Gundel,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3356090,Mother Love,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q3356090,Mother Love,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3356090,Mother Love,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q729973,Enrique Morente,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q729973,Enrique Morente,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q729973,Enrique Morente,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21074442,Lole Montoya,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q21074442,Lole Montoya,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21074442,Lole Montoya,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5935655,Jorge Montesi,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q5935655,Jorge Montesi,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5935655,Jorge Montesi,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27898420,Simone Klier,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q27898420,Simone Klier,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27898420,Simone Klier,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q101267,Jule Ronstedt,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q101267,Jule Ronstedt,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q101267,Jule Ronstedt,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3195077,Ken Osmond,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3195077,Ken Osmond,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3195077,Ken Osmond,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2736164,Blake Foster,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2736164,Blake Foster,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2736164,Blake Foster,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1729264,Karen Montgomery,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q1729264,Karen Montgomery,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1729264,Karen Montgomery,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3009790,Cécile Siméone,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3009790,Cécile Siméone,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3009790,Cécile Siméone,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q90132603,Luis Mesonero,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q90132603,Luis Mesonero,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q90132603,Luis Mesonero,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1810409,Lea Mornar,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1810409,Lea Mornar,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1810409,Lea Mornar,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q42309721,Mike Minster,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q42309721,Mike Minster,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q42309721,Mike Minster,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3189247,Julie Monroe,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3189247,Julie Monroe,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3189247,Julie Monroe,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q319121,Alex Jones,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q319121,Alex Jones,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q319121,Alex Jones,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5261130,Lee Stone,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q5261130,Lee Stone,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5261130,Lee Stone,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1308818,Luke Mably,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1308818,Luke Mably,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1308818,Luke Mably,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3827912,Laurent Piemontesi,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3827912,Laurent Piemontesi,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3827912,Laurent Piemontesi,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q458899,Louise Monot,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q458899,Louise Monot,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q458899,Louise Monot,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q33436574,Morten Køhlert,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q33436574,Morten Køhlert,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q33436574,Morten Køhlert,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q271175,Lee McConnell,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q271175,Lee McConnell,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q271175,Lee McConnell,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q469803,Sanoe Lake,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q469803,Sanoe Lake,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q469803,Sanoe Lake,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7822827,"Tony Luke, Jr.",64,,,0
+Q636,Monte Luke,Q120,For Australia,Q7822827,"Tony Luke, Jr.",64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7822827,"Tony Luke, Jr.",64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q17130790,Simon Plum,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q17130790,Simon Plum,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q17130790,Simon Plum,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3530445,Toinette Laquière,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q3530445,Toinette Laquière,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3530445,Toinette Laquière,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q10320912,Luka Omoto,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q10320912,Luka Omoto,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q10320912,Luka Omoto,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q282005,Luke Macfarlane,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q282005,Luke Macfarlane,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q282005,Luke Macfarlane,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3609235,Money Mark,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3609235,Money Mark,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3609235,Money Mark,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q107144,Aurel Manthei,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q107144,Aurel Manthei,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q107144,Aurel Manthei,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16185230,Luce Mouchel,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q16185230,Luce Mouchel,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16185230,Luce Mouchel,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3219398,Laurent Morteau,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3219398,Laurent Morteau,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3219398,Laurent Morteau,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q22279518,Louise Osmond,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q22279518,Louise Osmond,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q22279518,Louise Osmond,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6101841,Selçuk Yöntem,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q6101841,Selçuk Yöntem,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6101841,Selçuk Yöntem,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q42608743,Luke Muirhead,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q42608743,Luke Muirhead,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q42608743,Luke Muirhead,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4994407,Ronnie Lee,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q4994407,Ronnie Lee,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4994407,Ronnie Lee,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6308397,Julie Mond,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q6308397,Julie Mond,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6308397,Julie Mond,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q52610082,Kate Moran,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q52610082,Kate Moran,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q52610082,Kate Moran,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5552544,Luke Neal,74,,,0
+Q636,Monte Luke,Q120,For Australia,Q5552544,Luke Neal,74,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5552544,Luke Neal,74,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7356881,Rodney Clarke,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q7356881,Rodney Clarke,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7356881,Rodney Clarke,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6388192,Ken Morse,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q6388192,Ken Morse,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6388192,Ken Morse,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q17418095,Koen Mortier,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q17418095,Koen Mortier,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q17418095,Koen Mortier,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q19301285,Montse Germán,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q19301285,Montse Germán,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q19301285,Montse Germán,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6514486,Lee Mason,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q6514486,Lee Mason,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6514486,Lee Mason,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1347072,Keb' Mo',62,,,0
+Q636,Monte Luke,Q120,For Australia,Q1347072,Keb' Mo',62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1347072,Keb' Mo',62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q546215,Morten Løkkegaard,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q546215,Morten Løkkegaard,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q546215,Morten Løkkegaard,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q10862273,Duke Montana,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q10862273,Duke Montana,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q10862273,Duke Montana,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q22981029,Alex Mentzel,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q22981029,Alex Mentzel,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q22981029,Alex Mentzel,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2977839,Claude Moniquet,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2977839,Claude Moniquet,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2977839,Claude Moniquet,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q47088205,Myrthe Lub,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q47088205,Myrthe Lub,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q47088205,Myrthe Lub,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q10329822,Miguel Monteiro,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q10329822,Miguel Monteiro,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q10329822,Miguel Monteiro,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7519230,Simon Lowe,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q7519230,Simon Lowe,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7519230,Simon Lowe,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6500314,Lauren Montgomery,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q6500314,Lauren Montgomery,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6500314,Lauren Montgomery,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3961240,Simone Lupino,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3961240,Simone Lupino,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3961240,Simone Lupino,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5529759,Gee Money,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q5529759,Gee Money,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5529759,Gee Money,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q22252882,Alex Forte,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q22252882,Alex Forte,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q22252882,Alex Forte,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1945820,Monte Cook,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q1945820,Monte Cook,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1945820,Monte Cook,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q458479,Luke Mitchell,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q458479,Luke Mitchell,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q458479,Luke Mitchell,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21208716,Alex Manette,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q21208716,Alex Manette,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21208716,Alex Manette,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5212165,Dameon Clarke,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q5212165,Dameon Clarke,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5212165,Dameon Clarke,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q19561533,Luke Meyer,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q19561533,Luke Meyer,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q19561533,Luke Meyer,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1100609,Matt Lauer,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q1100609,Matt Lauer,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1100609,Matt Lauer,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6947819,Mynette Louie,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q6947819,Mynette Louie,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6947819,Mynette Louie,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6702134,Luke Matheny,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q6702134,Luke Matheny,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6702134,Luke Matheny,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6500315,Lauren Mote,76,,,0
+Q636,Monte Luke,Q120,For Australia,Q6500315,Lauren Mote,76,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6500315,Lauren Mote,76,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3576947,Àlex Monner,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q3576947,Àlex Monner,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3576947,Àlex Monner,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6391837,Kent Moran,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q6391837,Kent Moran,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6391837,Kent Moran,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q66132388,Luke Massy,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q66132388,Luke Massy,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q66132388,Luke Massy,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16935095,Luke Massey,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q16935095,Luke Massey,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16935095,Luke Massey,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2944319,Julia Montes,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2944319,Julia Montes,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2944319,Julia Montes,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q12335380,Simone Lykke,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q12335380,Simone Lykke,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q12335380,Simone Lykke,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3010185,Céline Ronté,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3010185,Céline Ronté,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3010185,Céline Ronté,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6905075,Montego Glover,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q6905075,Montego Glover,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6905075,Montego Glover,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q8498824,Luke Newberry,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q8498824,Luke Newberry,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q8498824,Luke Newberry,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6702393,Luke Thompson,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q6702393,Luke Thompson,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6702393,Luke Thompson,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65119710,Monroe Black,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q65119710,Monroe Black,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65119710,Monroe Black,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27513039,Alycen Malone,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q27513039,Alycen Malone,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27513039,Alycen Malone,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q23058825,Jasmine Burke,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q23058825,Jasmine Burke,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q23058825,Jasmine Burke,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21725503,Lorraine Montez,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q21725503,Lorraine Montez,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21725503,Lorraine Montez,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7520260,Simone Battle,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q7520260,Simone Battle,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7520260,Simone Battle,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q56739884,Lukáš Milota,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q56739884,Lukáš Milota,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q56739884,Lukáš Milota,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4305832,Kyle Stone,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q4305832,Kyle Stone,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4305832,Kyle Stone,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q262116,Kate Mosse,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q262116,Kate Mosse,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q262116,Kate Mosse,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4354675,Luke Roberts,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q4354675,Luke Roberts,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4354675,Luke Roberts,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q28952235,Ève Lamont,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q28952235,Ève Lamont,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q28952235,Ève Lamont,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16223299,Kyle Mooney,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q16223299,Kyle Mooney,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16223299,Kyle Mooney,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65115591,Cécile Monteillet,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q65115591,Cécile Monteillet,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65115591,Cécile Monteillet,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4924430,Blake Masters,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q4924430,Blake Masters,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4924430,Blake Masters,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q234356,Janelle Monáe,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q234356,Janelle Monáe,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q234356,Janelle Monáe,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q62964299,Morgan T. Lee,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q62964299,Morgan T. Lee,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q62964299,Morgan T. Lee,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q18704883,Marlon Blue,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q18704883,Marlon Blue,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q18704883,Marlon Blue,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q19517859,Luke Moran,80,,,0
+Q636,Monte Luke,Q120,For Australia,Q19517859,Luke Moran,80,,,0
+Q636,Monte Luke,Q123,Within The Law,Q19517859,Luke Moran,80,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q11293100,Owen Burke,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q11293100,Owen Burke,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q11293100,Owen Burke,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21061285,Moritz Leu,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q21061285,Moritz Leu,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21061285,Moritz Leu,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q40012010,Malte Houe,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q40012010,Malte Houe,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q40012010,Malte Houe,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21006723,Evaluna Montaner,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q21006723,Evaluna Montaner,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21006723,Evaluna Montaner,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16090966,Seongtae Lee,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q16090966,Seongtae Lee,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16090966,Seongtae Lee,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q66777147,Lou Simon,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q66777147,Lou Simon,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q66777147,Lou Simon,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q25807838,Kyle Maloney,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q25807838,Kyle Maloney,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q25807838,Kyle Maloney,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21066699,Luke Scott,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q21066699,Luke Scott,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21066699,Luke Scott,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q85526288,Luc Moreau,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q85526288,Luc Moreau,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q85526288,Luc Moreau,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27733165,Lauren McCrostie,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q27733165,Lauren McCrostie,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27733165,Lauren McCrostie,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q69395523,Mayte Montero,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q69395523,Mayte Montero,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q69395523,Mayte Montero,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q19960031,Simon Käser,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q19960031,Simon Käser,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q19960031,Simon Käser,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7520267,Simone Biles,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q7520267,Simone Biles,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7520267,Simone Biles,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q59779524,Simon Plouffe,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q59779524,Simon Plouffe,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q59779524,Simon Plouffe,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q24706347,Luke Scott,70,,,0
+Q636,Monte Luke,Q120,For Australia,Q24706347,Luke Scott,70,,,0
+Q636,Monte Luke,Q123,Within The Law,Q24706347,Luke Scott,70,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65978572,Blake Vogt,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q65978572,Blake Vogt,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65978572,Blake Vogt,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q21620889,Jameson Blake,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q21620889,Jameson Blake,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q21620889,Jameson Blake,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q30245815,Sope Aluko,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q30245815,Sope Aluko,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q30245815,Sope Aluko,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6375644,Kate McIntyre,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q6375644,Kate McIntyre,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6375644,Kate McIntyre,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6531032,Les Moonves,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q6531032,Les Moonves,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6531032,Les Moonves,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q16231551,Luke Snellin,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q16231551,Luke Snellin,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q16231551,Luke Snellin,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65966384,Lee Moore,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q65966384,Lee Moore,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65966384,Lee Moore,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q11998668,Rune Temte,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q11998668,Rune Temte,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q11998668,Rune Temte,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q26492725,Montse Miralles,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q26492725,Montse Miralles,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q26492725,Montse Miralles,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6904815,Monte Luke,100,Q7457302,Seven Keys to Baldpate,100
+Q636,Monte Luke,Q120,For Australia,Q6904815,Monte Luke,100,Q5466672,For Australia,100
+Q636,Monte Luke,Q123,Within The Law,Q6904815,Monte Luke,100,Q8028194,Within the Law,100
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3173102,Jean Le Moyne,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q3173102,Jean Le Moyne,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3173102,Jean Le Moyne,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2978495,Claudine Monfette,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q2978495,Claudine Monfette,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2978495,Claudine Monfette,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q4295375,Eken Mine,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q4295375,Eken Mine,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q4295375,Eken Mine,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1331540,Elke Martens,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q1331540,Elke Martens,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1331540,Elke Martens,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6914484,Morten Kærså,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q6914484,Morten Kærså,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6914484,Morten Kærså,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q1178626,Péter Molnár Gál,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q1178626,Péter Molnár Gál,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q1178626,Péter Molnár Gál,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q332916,Lee Myeong-se,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q332916,Lee Myeong-se,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q332916,Lee Myeong-se,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7519239,Simon Lui,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q7519239,Simon Lui,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7519239,Simon Lui,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q9320561,Money Lo,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q9320561,Money Lo,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q9320561,Money Lo,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q14644007,Moniek Kramer,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q14644007,Moniek Kramer,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q14644007,Moniek Kramer,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2471664,Kate More,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q2471664,Kate More,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2471664,Kate More,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3267129,Luke Watson,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q3267129,Luke Watson,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3267129,Luke Watson,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6694890,Lu Min,62,,,0
+Q636,Monte Luke,Q120,For Australia,Q6694890,Lu Min,62,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6694890,Lu Min,62,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q6702337,Luke Seomore,73,,,0
+Q636,Monte Luke,Q120,For Australia,Q6702337,Luke Seomore,73,,,0
+Q636,Monte Luke,Q123,Within The Law,Q6702337,Luke Seomore,73,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7490140,Sharon Luk,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q7490140,Sharon Luk,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7490140,Sharon Luk,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q72882019,Jorge Montiel,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q72882019,Jorge Montiel,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q72882019,Jorge Montiel,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q5209658,Daisuke Shimote,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q5209658,Daisuke Shimote,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q5209658,Daisuke Shimote,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q38054248,Simon Lykke,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q38054248,Simon Lykke,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q38054248,Simon Lykke,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q65116392,Moe Clark,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q65116392,Moe Clark,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q65116392,Moe Clark,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27051480,Milton Liu,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q27051480,Milton Liu,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27051480,Milton Liu,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q24739596,Blake Naftel,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q24739596,Blake Naftel,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q24739596,Blake Naftel,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q26908218,Tea Lukac,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q26908218,Tea Lukac,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q26908218,Tea Lukac,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q24718892,Simon Bruncke,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q24718892,Simon Bruncke,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q24718892,Simon Bruncke,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q27056362,Alex Mott,63,,,0
+Q636,Monte Luke,Q120,For Australia,Q27056362,Alex Mott,63,,,0
+Q636,Monte Luke,Q123,Within The Law,Q27056362,Alex Mott,63,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q62573136,Blake Mawson,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q62573136,Blake Mawson,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q62573136,Blake Mawson,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q26822477,Luke Terrell,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q26822477,Luke Terrell,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q26822477,Luke Terrell,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q87891908,Luke Ponte,90,,,0
+Q636,Monte Luke,Q120,For Australia,Q87891908,Luke Ponte,90,,,0
+Q636,Monte Luke,Q123,Within The Law,Q87891908,Luke Ponte,90,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q87892223,Luke Morris,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q87892223,Luke Morris,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q87892223,Luke Morris,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q56231439,Jake Mason,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q56231439,Jake Mason,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q56231439,Jake Mason,60,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q51881447,Alexis Morante,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q51881447,Alexis Morante,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q51881447,Alexis Morante,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q393791,La Montagne,67,,,0
+Q636,Monte Luke,Q120,For Australia,Q393791,La Montagne,67,,,0
+Q636,Monte Luke,Q123,Within The Law,Q393791,La Montagne,67,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q2832989,Alex Mondose,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q2832989,Alex Mondose,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q2832989,Alex Mondose,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q7001831,Leo Talamonti,61,,,0
+Q636,Monte Luke,Q120,For Australia,Q7001831,Leo Talamonti,61,,,0
+Q636,Monte Luke,Q123,Within The Law,Q7001831,Leo Talamonti,61,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3320873,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q120,For Australia,Q3320873,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3320873,Monique Lejeune,64,,,0
+Q636,Monte Luke,Q132,Seven Keys To Baldpate,Q3257590,Loan Laure,60,,,0
+Q636,Monte Luke,Q120,For Australia,Q3257590,Loan Laure,60,,,0
+Q636,Monte Luke,Q123,Within The Law,Q3257590,Loan Laure,60,,,0

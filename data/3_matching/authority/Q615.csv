@@ -1,0 +1,1351 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q464889,Herbert Rawlinson,60,Q20649269,One Wonderful Night,38
+Q615,Lawson Harris,Q199,Sunshine Sally,Q464889,Herbert Rawlinson,60,Q3844215,Man Under Cover,34
+Q615,Lawson Harris,Q194,Circumstance,Q464889,Herbert Rawlinson,60,Q3844215,Man Under Cover,44
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1379040,James Harrison,67,Q3602511,A Heart to Let,43
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1379040,James Harrison,67,Q28498243,Lessons in Love,34
+Q615,Lawson Harris,Q194,Circumstance,Q1379040,James Harrison,67,Q28498243,Lessons in Love,30
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3161137,James Harrison,67,Q18071579,Wedding Bells,22
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3161137,James Harrison,67,Q18071579,Wedding Bells,37
+Q615,Lawson Harris,Q194,Circumstance,Q3161137,James Harrison,67,Q18071579,Wedding Bells,16
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q466626,Charles Magnusson,60,Q1193655,Phantom Carriage,41
+Q615,Lawson Harris,Q199,Sunshine Sally,Q466626,Charles Magnusson,60,Q1193655,Körkarlen (stumfilm),39
+Q615,Lawson Harris,Q194,Circumstance,Q466626,Charles Magnusson,60,Q1193655,Charrette fantôme,43
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21469896,Harry Linson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21469896,Harry Linson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21469896,Harry Linson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q19544942,Charles Lakin,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q19544942,Charles Lakin,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q19544942,Charles Lakin,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3714291,Doris Pawn,61,Q3613485,Always the Woman,41
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3714291,Doris Pawn,61,Q1922615,The Penalty,48
+Q615,Lawson Harris,Q194,Circumstance,Q3714291,Doris Pawn,61,Q63802231,Strange Idols,48
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q634150,Charles Lane,64,Q3645187,Rosa di Broadway,36
+Q615,Lawson Harris,Q199,Sunshine Sally,Q634150,Charles Lane,64,Q3739902,Fascination,40
+Q615,Lawson Harris,Q194,Circumstance,Q634150,Charles Lane,64,Q3739902,Fascination,35
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q35983954,Charles Løwaas,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q35983954,Charles Løwaas,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q35983954,Charles Løwaas,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2305010,Harrison Ford,62,Q3602511,A Heart to Let,43
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2305010,Harrison Ford,62,Q18071579,Wedding Bells,37
+Q615,Lawson Harris,Q194,Circumstance,Q2305010,Harrison Ford,62,Q7758223,The Divorcee,42
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5081276,Charles Norris Williamson,63,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5081276,Charles Norris Williamson,63,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5081276,Charles Norris Williamson,63,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1368602,Harold Rosson,62,Q19363924,Through a Glass Window,49
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1368602,Harold Rosson,62,Q19007197,The Cradle,42
+Q615,Lawson Harris,Q194,Circumstance,Q1368602,Harold Rosson,62,Q19007197,Cradle,44
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7959342,Wadsworth Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7959342,Wadsworth Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7959342,Wadsworth Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6757107,Marcia Harris,62,Q232133,Orphans of the Storm,37
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6757107,Marcia Harris,62,Q232133,es:Las dos huérfanas,36
+Q615,Lawson Harris,Q194,Circumstance,Q6757107,Marcia Harris,62,Q232133,de:Zwei Waisen im Sturm,40
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q94711,Liane Haid,61,Q24261792,The Story of a Maid,43
+Q615,Lawson Harris,Q199,Sunshine Sally,Q94711,Liane Haid,61,Q24631131,Money in the Streets,35
+Q615,Lawson Harris,Q194,Circumstance,Q94711,Liane Haid,61,Q24631131,Money in the Streets,31
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3474198,Saul Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3474198,Saul Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3474198,Saul Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16227291,Joe Harris,70,Q7303940,Red Courage,35
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16227291,Joe Harris,70,Q3505194,Sure Fire,35
+Q615,Lawson Harris,Q194,Circumstance,Q16227291,Joe Harris,70,Q3505194,Sure Fire,38
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1635378,Hans Land,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1635378,Hans Land,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1635378,Hans Land,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q30127827,Charles J. Wilson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q30127827,Charles J. Wilson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q30127827,Charles J. Wilson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1645862,Harry Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1645862,Harry Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1645862,Harry Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3185066,Joseph Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3185066,Joseph Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3185066,Joseph Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16066966,Winifred Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16066966,Winifred Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16066966,Winifred Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5068987,Challis Sanderson,60,Q7762437,The Scarlet Letter,34
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5068987,Challis Sanderson,60,Q7762437,The Scarlet Letter,38
+Q615,Lawson Harris,Q194,Circumstance,Q5068987,Challis Sanderson,60,Q7762437,Scarlet Letter,31
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6504975,Lawson Harris,100,Q4656275,A Daughter of Australia,100
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6504975,Lawson Harris,100,Q7641562,Sunshine Sally,100
+Q615,Lawson Harris,Q194,Circumstance,Q6504975,Lawson Harris,100,Q5121763,Circumstance,100
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21209376,Harry Mann,61,Q3205564,L'Étroit mousquetaire,47
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21209376,Harry Mann,61,Q3205564,L'Étroit mousquetaire,35
+Q615,Lawson Harris,Q194,Circumstance,Q21209376,Harry Mann,61,Q3205564,L'Etroit Mousquetaire,36
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1065272,Charles Lane,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1065272,Charles Lane,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1065272,Charles Lane,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q19885749,Harry Ivarson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q19885749,Harry Ivarson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q19885749,Harry Ivarson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5722646,Henry Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5722646,Henry Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5722646,Henry Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q965701,Harry Langdon,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q965701,Harry Langdon,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q965701,Harry Langdon,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3127863,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3127863,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3127863,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2133910,Ray Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2133910,Ray Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2133910,Ray Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2482428,Harry Jackson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2482428,Harry Jackson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2482428,Harry Jackson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q486883,Charles Lang,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q486883,Charles Lang,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q486883,Charles Lang,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3271129,Léon Larive,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3271129,Léon Larive,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3271129,Léon Larive,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3074901,Mona Maris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3074901,Mona Maris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3074901,Mona Maris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2476368,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2476368,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2476368,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16009315,Hal Law,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16009315,Hal Law,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16009315,Hal Law,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q389234,Harry Lachman,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q389234,Harry Lachman,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q389234,Harry Lachman,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q460994,Marion Harris,77,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q460994,Marion Harris,77,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q460994,Marion Harris,77,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q974932,John Howard Lawson,65,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q974932,John Howard Lawson,65,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q974932,John Howard Lawson,65,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q17308880,Charles C. Wilson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q17308880,Charles C. Wilson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q17308880,Charles C. Wilson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q55264,Charles Laughton,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q55264,Charles Laughton,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q55264,Charles Laughton,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6763544,Marilyn Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6763544,Marilyn Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6763544,Marilyn Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q181887,Rex Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q181887,Rex Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q181887,Rex Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5665780,Harrison Owen,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5665780,Harrison Owen,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5665780,Harrison Owen,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q15485304,Harry Holman,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q15485304,Harry Holman,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q15485304,Harry Holman,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6112953,Jack Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6112953,Jack Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6112953,Jack Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q296047,Sam Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q296047,Sam Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q296047,Sam Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1495554,Gaston Briese,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1495554,Gaston Briese,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1495554,Gaston Briese,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1586584,Harry Kahn,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1586584,Harry Kahn,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1586584,Harry Kahn,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q313981,Robert Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q313981,Robert Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q313981,Robert Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1065270,Charles Lamont,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1065270,Charles Lamont,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1065270,Charles Lamont,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4648308,A. R. Rawlinson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4648308,A. R. Rawlinson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4648308,A. R. Rawlinson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q540206,Henri Jeanson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q540206,Henri Jeanson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q540206,Henri Jeanson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3127914,Harry Shannon,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3127914,Harry Shannon,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3127914,Harry Shannon,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q596717,Phil Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q596717,Phil Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q596717,Phil Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3194071,Kathleen Harrison,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3194071,Kathleen Harrison,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3194071,Kathleen Harrison,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2700080,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2700080,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2700080,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q370188,Joan Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q370188,Joan Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q370188,Joan Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5792998,Harry Hasso,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5792998,Harry Hasso,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5792998,Harry Hasso,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q13512989,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q13512989,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q13512989,Harry Wilson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3785141,Herbert Mason,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3785141,Herbert Mason,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3785141,Herbert Mason,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3555992,Vernon Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3555992,Vernon Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3555992,Vernon Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q62021591,Lynn Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q62021591,Lynn Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q62021591,Lynn Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1266200,Harriet Nelson,74,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1266200,Harriet Nelson,74,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1266200,Harriet Nelson,74,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q128956,Harold Wilson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q128956,Harold Wilson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q128956,Harold Wilson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18719764,Lalo Harbín,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18719764,Lalo Harbín,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18719764,Lalo Harbín,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1065612,Charles Nelson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1065612,Charles Nelson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1065612,Charles Nelson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5078393,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5078393,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5078393,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1586873,Harry Watson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1586873,Harry Watson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1586873,Harry Watson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16856093,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16856093,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16856093,Charles Grayson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2960231,Charles Simon,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2960231,Charles Simon,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2960231,Charles Simon,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q443790,Barry Nelson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q443790,Barry Nelson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q443790,Barry Nelson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5081525,Charles Paton,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5081525,Charles Paton,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5081525,Charles Paton,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q41771735,Ben Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q41771735,Ben Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q41771735,Ben Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3484592,Simone Paris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3484592,Simone Paris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3484592,Simone Paris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5353165,Elaine Barrie,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5353165,Elaine Barrie,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5353165,Elaine Barrie,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6112957,Jack Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6112957,Jack Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6112957,Jack Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q27999356,Charles Lang,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q27999356,Charles Lang,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q27999356,Charles Lang,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1253489,Henri Lanoë,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1253489,Henri Lanoë,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1253489,Henri Lanoë,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q743079,Leslie Charteris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q743079,Leslie Charteris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q743079,Leslie Charteris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1065293,Charles Lawton Jr.,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1065293,Charles Lawton Jr.,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1065293,Charles Lawton Jr.,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1402584,Harry Langewisch,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1402584,Harry Langewisch,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1402584,Harry Langewisch,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4254757,Boris Laskin,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4254757,Boris Laskin,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4254757,Boris Laskin,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6765558,Maris Wrixon,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6765558,Maris Wrixon,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6765558,Maris Wrixon,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q60656254,Harriet Parsons,71,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q60656254,Harriet Parsons,71,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q60656254,Harriet Parsons,71,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5670600,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5670600,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5670600,Harry Lewis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5387056,Eric Mason,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5387056,Eric Mason,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5387056,Eric Mason,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7117501,P. S. Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7117501,P. S. Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7117501,P. S. Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6687338,Louis Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6687338,Louis Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6687338,Louis Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q41450396,Harry E. Lang,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q41450396,Harry E. Lang,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q41450396,Harry E. Lang,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q22328132,Louis Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q22328132,Louis Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q22328132,Louis Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1305569,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1305569,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1305569,Marie Wilson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2779972,Léon Carré,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2779972,Léon Carré,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2779972,Léon Carré,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2437296,Eric Larson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2437296,Eric Larson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2437296,Eric Larson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q472545,John Halas,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q472545,John Halas,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q472545,John Halas,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6480551,Lalo Hartich,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6480551,Lalo Hartich,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6480551,Lalo Hartich,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5080093,Charles Larson,74,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5080093,Charles Larson,74,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5080093,Charles Larson,74,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21416494,Dale Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21416494,Dale Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21416494,Dale Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5670556,Harry Leon Wilson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5670556,Harry Leon Wilson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5670556,Harry Leon Wilson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7596028,Stacy Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7596028,Stacy Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7596028,Stacy Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q236708,Julie Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q236708,Julie Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q236708,Julie Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5791441,John Harryson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5791441,John Harryson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5791441,John Harryson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1287014,Jonathan Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1287014,Jonathan Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1287014,Jonathan Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q132695,Harry Martinson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q132695,Harry Martinson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q132695,Harry Martinson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3127849,Harry Landers,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3127849,Harry Landers,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3127849,Harry Landers,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4020255,Wilma Aris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4020255,Wilma Aris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4020255,Wilma Aris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7239357,Preben Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7239357,Preben Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7239357,Preben Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4961051,Barbro Larsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4961051,Barbro Larsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4961051,Barbro Larsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q181402,Chris Howland,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q181402,Chris Howland,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q181402,Chris Howland,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q439789,Robert Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q439789,Robert Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q439789,Robert Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4989400,Marrit Ohlsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4989400,Marrit Ohlsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4989400,Marrit Ohlsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q361514,James B. Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q361514,James B. Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q361514,James B. Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1686117,Jed Harris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1686117,Jed Harris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1686117,Jed Harris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16083769,Jack H. Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16083769,Jack H. Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16083769,Jack H. Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q87231,Horst Janson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q87231,Horst Janson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q87231,Horst Janson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q192094,Steve Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q192094,Steve Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q192094,Steve Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q532915,Noel Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q532915,Noel Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q532915,Noel Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q13512620,Hamish Wilson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q13512620,Hamish Wilson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q13512620,Hamish Wilson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16013890,Harrison Marks,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16013890,Harrison Marks,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16013890,Harrison Marks,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5760975,Hilary Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5760975,Hilary Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5760975,Hilary Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q461164,Paul P. Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q461164,Paul P. Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q461164,Paul P. Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q958113,Phil Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q958113,Phil Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q958113,Phil Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q513739,Julius Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q513739,Julius Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q513739,Julius Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q22006155,Christa Lang,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q22006155,Christa Lang,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q22006155,Christa Lang,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q272445,Linda Harrison,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q272445,Linda Harrison,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q272445,Linda Harrison,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q81328,Harrison Ford,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q81328,Harrison Ford,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q81328,Harrison Ford,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q182556,Rich Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q182556,Rich Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q182556,Rich Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q345877,Harrison Page,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q345877,Harrison Page,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q345877,Harrison Page,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q267311,Lars Ardelius,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q267311,Lars Ardelius,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q267311,Lars Ardelius,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6200053,Charles Swenson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6200053,Charles Swenson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6200053,Charles Swenson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q809055,Barry Jackson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q809055,Barry Jackson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q809055,Barry Jackson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q281034,Harry Nilsson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q281034,Harry Nilsson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q281034,Harry Nilsson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2849041,Andrés Velasco,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2849041,Andrés Velasco,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2849041,Andrés Velasco,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1240407,Harvey Jason,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1240407,Harvey Jason,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1240407,Harvey Jason,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q263486,Curtis Hanson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q263486,Curtis Hanson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q263486,Curtis Hanson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1882543,Barbara Cason,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1882543,Barbara Cason,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1882543,Barbara Cason,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1346123,Harris Yulin,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1346123,Harris Yulin,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1346123,Harris Yulin,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q512954,Rosalind Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q512954,Rosalind Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q512954,Rosalind Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3179372,Jo Ann Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3179372,Jo Ann Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3179372,Jo Ann Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q15858417,Harry L. Wolf,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q15858417,Harry L. Wolf,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q15858417,Harry L. Wolf,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q724779,Ted Harris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q724779,Ted Harris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q724779,Ted Harris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q11685189,John Farris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q11685189,John Farris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q11685189,John Farris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16682291,Valérie Wilson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16682291,Valérie Wilson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16682291,Valérie Wilson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q235211,Marsha Mason,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q235211,Marsha Mason,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q235211,Marsha Mason,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16266835,Eric Lawson,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16266835,Eric Lawson,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16266835,Eric Lawson,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21074694,Jane Harders,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21074694,Jane Harders,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21074694,Jane Harders,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5672816,Harry Thomason,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5672816,Harry Thomason,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5672816,Harry Thomason,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1413561,Mark Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1413561,Mark Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1413561,Mark Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q273439,Hilary Mason,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q273439,Hilary Mason,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q273439,Hilary Mason,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q47074346,Robert Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q47074346,Robert Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q47074346,Robert Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16091904,Harry Landis,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16091904,Harry Landis,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16091904,Harry Landis,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q619445,Chris Haywood,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q619445,Chris Haywood,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q619445,Chris Haywood,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23035348,Paul Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23035348,Paul Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23035348,Paul Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6237966,John Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6237966,John Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6237966,John Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4569397,Chatarina Larsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4569397,Chatarina Larsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4569397,Chatarina Larsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q705631,Art Linson,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q705631,Art Linson,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q705631,Art Linson,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5946302,Lars Lennartsson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5946302,Lars Lennartsson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5946302,Lars Lennartsson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2579140,William Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2579140,William Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2579140,William Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q15293167,Lewis Charles,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q15293167,Lewis Charles,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q15293167,Lewis Charles,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1893466,Martin Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1893466,Martin Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1893466,Martin Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3229673,Leonard Harris,74,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3229673,Leonard Harris,74,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3229673,Leonard Harris,74,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5107190,Chris Langham,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5107190,Chris Langham,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5107190,Chris Langham,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1532832,Christian Clausen,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1532832,Christian Clausen,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1532832,Christian Clausen,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q51624648,Chris Löfvén,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q51624648,Chris Löfvén,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q51624648,Chris Löfvén,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5523981,Garrick Hagon,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5523981,Garrick Hagon,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5523981,Garrick Hagon,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1187504,Denis Lawson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1187504,Denis Lawson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1187504,Denis Lawson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q313377,Thomas Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q313377,Thomas Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q313377,Thomas Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2167709,Ross Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2167709,Ross Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2167709,Ross Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q12316399,Henrik Larsen,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q12316399,Henrik Larsen,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q12316399,Henrik Larsen,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5920493,Howard Nelson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5920493,Howard Nelson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5920493,Howard Nelson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1700383,John Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1700383,John Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1700383,John Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4245719,Harijs Kukels,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4245719,Harijs Kukels,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4245719,Harijs Kukels,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q522657,Christina Olofson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q522657,Christina Olofson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q522657,Christina Olofson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1975172,Rolf Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1975172,Rolf Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1975172,Rolf Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q27652873,Jack Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q27652873,Jack Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q27652873,Jack Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q774934,Chris Lemmon,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q774934,Chris Lemmon,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q774934,Chris Lemmon,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q524486,Ari Lehman,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q524486,Ari Lehman,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q524486,Ari Lehman,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q14951140,Barry Pearson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q14951140,Barry Pearson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q14951140,Barry Pearson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q305281,John Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q305281,John Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q305281,John Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5085205,Charlie Masso,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5085205,Charlie Masso,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5085205,Charlie Masso,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21403207,Nelson Armiza,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21403207,Nelson Armiza,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21403207,Nelson Armiza,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5657781,Haris Romas,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5657781,Haris Romas,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5657781,Haris Romas,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q532169,Lukas Haas,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q532169,Lukas Haas,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q532169,Lukas Haas,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21725103,Charles Wilkinson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21725103,Charles Wilkinson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21725103,Charles Wilkinson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6180401,Helgi Skúlason,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6180401,Helgi Skúlason,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6180401,Helgi Skúlason,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5080121,Charles Lawson,81,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5080121,Charles Lawson,81,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5080121,Charles Lawson,81,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5108266,Chris Thomson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5108266,Chris Thomson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5108266,Chris Thomson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2371066,Harry Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2371066,Harry Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2371066,Harry Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q974800,Jon Harris,78,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q974800,Jon Harris,78,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q974800,Jon Harris,78,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4256063,Barry Wong,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4256063,Barry Wong,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4256063,Barry Wong,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q282197,Jason Carter,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q282197,Jason Carter,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q282197,Jason Carter,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3481979,Sherri Stoner,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3481979,Sherri Stoner,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3481979,Sherri Stoner,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2075721,Moira Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2075721,Moira Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2075721,Moira Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4961071,Charlotta Larsson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4961071,Charlotta Larsson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4961071,Charlotta Larsson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3810343,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3810343,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3810343,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1581796,Sebastian Harrison,65,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1581796,Sebastian Harrison,65,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1581796,Sebastian Harrison,65,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q556556,Mason Daring,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q556556,Mason Daring,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q556556,Mason Daring,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7103064,Orlando Carrió,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7103064,Orlando Carrió,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7103064,Orlando Carrió,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3299727,Matthew Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3299727,Matthew Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3299727,Matthew Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7151147,Paul Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7151147,Paul Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7151147,Paul Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5670728,Harry Love,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5670728,Harry Love,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5670728,Harry Love,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16930375,Wilson Barros,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16930375,Wilson Barros,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16930375,Wilson Barros,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6488545,Lara Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6488545,Lara Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6488545,Lara Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q451917,Mel Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q451917,Mel Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q451917,Mel Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6237813,John Harkins,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6237813,John Harkins,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6237813,John Harkins,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3827175,Larry Wilson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3827175,Larry Wilson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3827175,Larry Wilson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q975919,Steve Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q975919,Steve Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q975919,Steve Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3940235,Roland Harrah III,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3940235,Roland Harrah III,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3940235,Roland Harrah III,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q12321835,Kim Harris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q12321835,Kim Harris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q12321835,Kim Harris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q433587,Chris Lowe,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q433587,Chris Lowe,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q433587,Chris Lowe,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q26955611,Barrie Pattison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q26955611,Barrie Pattison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q26955611,Barrie Pattison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q233536,Laura Harring,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q233536,Laura Harring,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q233536,Laura Harring,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q485508,Charles Manson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q485508,Charles Manson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q485508,Charles Manson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q932152,Tony Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q932152,Tony Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q932152,Tony Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q362500,Jared Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q362500,Jared Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q362500,Jared Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6396448,Kevin Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6396448,Kevin Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6396448,Kevin Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q355995,Chris Walas,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q355995,Chris Walas,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q355995,Chris Walas,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7352452,Robin Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7352452,Robin Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7352452,Robin Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5080052,Charles Lane,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5080052,Charles Lane,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5080052,Charles Lane,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7032430,Nigel Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7032430,Nigel Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7032430,Nigel Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3178822,Jim Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3178822,Jim Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3178822,Jim Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q272116,Laura Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q272116,Laura Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q272116,Laura Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16732130,Chris Matheson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16732130,Chris Matheson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16732130,Chris Matheson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q26430607,Hal Landon Jr.,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q26430607,Hal Landon Jr.,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q26430607,Hal Landon Jr.,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q53563,Ryan Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q53563,Ryan Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q53563,Ryan Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7838402,Trent Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7838402,Trent Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7838402,Trent Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q172364,Chris Lawrence,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q172364,Chris Lawrence,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q172364,Chris Lawrence,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q17627785,Leslie Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q17627785,Leslie Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q17627785,Leslie Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q509259,Harrison Young,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q509259,Harrison Young,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q509259,Harrison Young,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1333793,Harris Savides,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1333793,Harris Savides,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1333793,Harris Savides,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q31741,Barry Watson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q31741,Barry Watson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q31741,Barry Watson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6009003,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6009003,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6009003,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q63982717,Barry Samson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q63982717,Barry Samson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q63982717,Barry Samson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q587641,Jamie Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q587641,Jamie Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q587641,Jamie Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2295797,Barrie McLean,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2295797,Barrie McLean,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2295797,Barrie McLean,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3575127,Zelda Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3575127,Zelda Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3575127,Zelda Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1860824,Lucho Barrios,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1860824,Lucho Barrios,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1860824,Lucho Barrios,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1321005,Wood Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1321005,Wood Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1321005,Wood Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5605667,Greg Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5605667,Greg Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5605667,Greg Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q362236,Chris Owen,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q362236,Chris Owen,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q362236,Chris Owen,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3217940,Larissa Laskin,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3217940,Larissa Laskin,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3217940,Larissa Laskin,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2883947,Barbara Gladstone,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2883947,Barbara Gladstone,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2883947,Barbara Gladstone,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q89027667,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q89027667,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q89027667,Christer Nilson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q707739,Chris Larkin,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q707739,Chris Larkin,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q707739,Chris Larkin,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18377810,J. Todd Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18377810,J. Todd Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18377810,J. Todd Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16209216,Jason Hale,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16209216,Jason Hale,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16209216,Jason Hale,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q535218,Hans Matheson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q535218,Hans Matheson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q535218,Hans Matheson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21281173,Ian Hardin,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21281173,Ian Hardin,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21281173,Ian Hardin,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1683873,Jason Barry,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1683873,Jason Barry,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1683873,Jason Barry,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6162488,Jason Filardi,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6162488,Jason Filardi,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6162488,Jason Filardi,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16427809,Hinrik Ólafsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16427809,Hinrik Ólafsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16427809,Hinrik Ólafsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5074389,Charis Michelsen,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5074389,Charis Michelsen,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5074389,Charis Michelsen,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1077457,Chris Leavins,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1077457,Chris Leavins,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1077457,Chris Leavins,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1917393,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1917393,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1917393,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q239331,Bianca Lawson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q239331,Bianca Lawson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q239331,Bianca Lawson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3162918,Jason Davis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3162918,Jason Davis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3162918,Jason Davis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2020465,Lisa Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2020465,Lisa Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2020465,Lisa Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23053894,Chris Ufland,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23053894,Chris Ufland,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23053894,Chris Ufland,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7363882,Ron Harper,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7363882,Ron Harper,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7363882,Ron Harper,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6248518,Argyris Xafis,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6248518,Argyris Xafis,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6248518,Argyris Xafis,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2422720,Pablo Echarri,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2422720,Pablo Echarri,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2422720,Pablo Echarri,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q375397,Jason Behr,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q375397,Jason Behr,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q375397,Jason Behr,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5081531,Charles Pattinson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5081531,Charles Pattinson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5081531,Charles Pattinson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q558793,Jason Dohring,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q558793,Jason Dohring,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q558793,Jason Dohring,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4864880,Barry Watson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4864880,Barry Watson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4864880,Barry Watson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5108434,Chris Watson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5108434,Chris Watson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5108434,Chris Watson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q25641853,Chris Watson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q25641853,Chris Watson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q25641853,Chris Watson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6162640,Jason Hall,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6162640,Jason Hall,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6162640,Jason Hall,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1271614,Sean Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1271614,Sean Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1271614,Sean Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6027462,Marcus Olsson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6027462,Marcus Olsson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6027462,Marcus Olsson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2960230,Charles Simon,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2960230,Charles Simon,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2960230,Charles Simon,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q365955,Hallgrímur Helgason,65,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q365955,Hallgrímur Helgason,65,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q365955,Hallgrímur Helgason,65,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16420426,Ólafur Darri Ólafsson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16420426,Ólafur Darri Ólafsson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16420426,Ólafur Darri Ólafsson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q26208565,Jason Davis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q26208565,Jason Davis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q26208565,Jason Davis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1121589,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1121589,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1121589,Johnny Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5671825,Harry Ralston,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5671825,Harry Ralston,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5671825,Harry Ralston,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21282384,Madison Mason,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21282384,Madison Mason,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21282384,Madison Mason,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q44260,Ha Ji-won,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q44260,Ha Ji-won,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q44260,Ha Ji-won,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q24300098,Shari Watson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q24300098,Shari Watson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q24300098,Shari Watson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2507002,Jason Davis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2507002,Jason Davis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2507002,Jason Davis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q372704,Sean Faris,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q372704,Sean Faris,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q372704,Sean Faris,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3702841,Darris Love,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3702841,Darris Love,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3702841,Darris Love,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q653645,Ari Folman,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q653645,Ari Folman,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q653645,Ari Folman,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q534183,Samantha Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q534183,Samantha Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q534183,Samantha Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2964812,Chris Nahon,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2964812,Chris Nahon,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2964812,Chris Nahon,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5046274,Carrie Mullan,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5046274,Carrie Mullan,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5046274,Carrie Mullan,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42344734,Larry Naston,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42344734,Larry Naston,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42344734,Larry Naston,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5664273,Harriet Owen,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5664273,Harriet Owen,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5664273,Harriet Owen,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23773997,Charlie Nelson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23773997,Charlie Nelson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23773997,Charlie Nelson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q156586,Naomie Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q156586,Naomie Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q156586,Naomie Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q360046,Christian Coulson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q360046,Christian Coulson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q360046,Christian Coulson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q432087,Chris Ryan,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q432087,Chris Ryan,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q432087,Chris Ryan,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5107904,Chris Robson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5107904,Chris Robson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5107904,Chris Robson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q465336,Randy Harrison,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q465336,Randy Harrison,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q465336,Randy Harrison,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5108221,Chris Tallman,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5108221,Chris Tallman,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5108221,Chris Tallman,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q910472,Bret Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q910472,Bret Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q910472,Bret Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1684323,Robert Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1684323,Robert Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1684323,Robert Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3058712,Esse Lawson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3058712,Esse Lawson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3058712,Esse Lawson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3266008,Lucy Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3266008,Lucy Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3266008,Lucy Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q29328,Brie Larson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q29328,Brie Larson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q29328,Brie Larson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q71664562,Chris Line,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q71664562,Chris Line,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q71664562,Chris Line,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7839203,Trevor Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7839203,Trevor Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7839203,Trevor Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6210213,Joe Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6210213,Joe Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6210213,Joe Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q732952,Charles Lewis,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q732952,Charles Lewis,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q732952,Charles Lewis,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16239109,Chris Lang,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16239109,Chris Lang,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16239109,Chris Lang,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q442991,Olivia Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q442991,Olivia Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q442991,Olivia Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6709050,Lynn Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6709050,Lynn Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6709050,Lynn Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q500990,Chase Ellison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q500990,Chase Ellison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q500990,Chase Ellison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q461920,Lane Garrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q461920,Lane Garrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q461920,Lane Garrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42889753,Maria Mason,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42889753,Maria Mason,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42889753,Maria Mason,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1077492,Chris Lohner,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1077492,Chris Lohner,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1077492,Chris Lohner,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3817013,Kris Wilson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3817013,Kris Wilson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3817013,Kris Wilson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5108010,Chris Sean Nolan,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5108010,Chris Sean Nolan,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5108010,Chris Sean Nolan,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q704041,Eason Chan,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q704041,Eason Chan,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q704041,Eason Chan,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42434075,Chris Hanson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42434075,Chris Hanson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42434075,Chris Hanson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4289160,Margery Mason,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4289160,Margery Mason,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4289160,Margery Mason,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q213856,Jason Earles,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q213856,Jason Earles,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q213856,Jason Earles,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1581159,Hans Löw,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1581159,Hans Löw,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1581159,Hans Löw,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7634117,Sue Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7634117,Sue Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7634117,Sue Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1255042,András Salamon,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1255042,András Salamon,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1255042,András Salamon,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5665545,Harrison Chad,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5665545,Harrison Chad,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5665545,Harrison Chad,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q144896,Christian Colson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q144896,Christian Colson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q144896,Christian Colson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q328894,Jasper Harris,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q328894,Jasper Harris,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q328894,Jasper Harris,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6162426,Jason Durr,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6162426,Jason Durr,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6162426,Jason Durr,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2964821,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2964821,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2964821,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5225285,Darrin Henson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5225285,Darrin Henson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5225285,Darrin Henson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q630863,Chris Egan,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q630863,Chris Egan,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q630863,Chris Egan,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5085167,Charlie Lyons,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5085167,Charlie Lyons,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5085167,Charlie Lyons,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1458124,Jesse Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1458124,Jesse Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1458124,Jesse Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1157692,Daisy Lang,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1157692,Daisy Lang,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1157692,Daisy Lang,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q15532385,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q15532385,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q15532385,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2929187,Byron Lawson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2929187,Byron Lawson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2929187,Byron Lawson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q20685076,Chris Pang,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q20685076,Chris Pang,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q20685076,Chris Pang,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3805742,Jackson Hurst,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3805742,Jackson Hurst,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3805742,Jackson Hurst,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5107172,Chris LaMont,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5107172,Chris LaMont,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5107172,Chris LaMont,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3263892,Louison Danis,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3263892,Louison Danis,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3263892,Louison Danis,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q38052453,Anders Larsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q38052453,Anders Larsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q38052453,Anders Larsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7836409,Travis Wilson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7836409,Travis Wilson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7836409,Travis Wilson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q518784,Lola Arias,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q518784,Lola Arias,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q518784,Lola Arias,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q294581,Charlie Laine,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q294581,Charlie Laine,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q294581,Charlie Laine,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5107013,Chris Johanson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5107013,Chris Johanson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5107013,Chris Johanson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q11861636,Harri Ylönen,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q11861636,Harri Ylönen,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q11861636,Harri Ylönen,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q24988951,Carrie Lee Wilson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q24988951,Carrie Lee Wilson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q24988951,Carrie Lee Wilson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6104560,Reid Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6104560,Reid Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6104560,Reid Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q273885,Lisi Harrison,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q273885,Lisi Harrison,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q273885,Lisi Harrison,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q338441,Ron Harris,78,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q338441,Ron Harris,78,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q338441,Ron Harris,78,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q81055699,Iris Olsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q81055699,Iris Olsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q81055699,Iris Olsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q233006,April Pearson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q233006,April Pearson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q233006,April Pearson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3128041,"Harvey Mason, Jr.",64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3128041,"Harvey Mason, Jr.",64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3128041,"Harvey Mason, Jr.",64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21518674,Wayne Harrison,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21518674,Wayne Harrison,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21518674,Wayne Harrison,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q179334,Henrik Larsson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q179334,Henrik Larsson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q179334,Henrik Larsson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3849487,Mark Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3849487,Mark Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3849487,Mark Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6288962,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6288962,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6288962,Joshua Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4790312,Arick Wierson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4790312,Arick Wierson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4790312,Arick Wierson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5084984,Charlie Hanson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5084984,Charlie Hanson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5084984,Charlie Hanson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5232872,David Dawson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5232872,David Dawson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5232872,David Dawson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q562448,Chris Hansen,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q562448,Chris Hansen,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q562448,Chris Hansen,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3183599,Jonny Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3183599,Jonny Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3183599,Jonny Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q271065,Sharni Vinson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q271065,Sharni Vinson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q271065,Sharni Vinson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q635367,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q635367,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q635367,Chris Wilson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1729488,Karin Lanz,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1729488,Karin Lanz,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1729488,Karin Lanz,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5657880,Harish Kalyan,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5657880,Harish Kalyan,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5657880,Harish Kalyan,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7026401,Nicholas Wayman-Harris,63,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7026401,Nicholas Wayman-Harris,63,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7026401,Nicholas Wayman-Harris,63,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q22115177,Chris Lavis,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q22115177,Chris Lavis,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q22115177,Chris Lavis,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5086381,Charly Manson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5086381,Charly Manson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5086381,Charly Manson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1067045,Charlie Winston,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1067045,Charlie Winston,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1067045,Charlie Winston,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16216022,Harish Raj,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16216022,Harish Raj,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16216022,Harish Raj,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q22296293,Chris Johnson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q22296293,Chris Johnson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q22296293,Chris Johnson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23347,Chris Watson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23347,Chris Watson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23347,Chris Watson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7933022,Viola Harris,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7933022,Viola Harris,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7933022,Viola Harris,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q877103,Chris Patton,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q877103,Chris Patton,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q877103,Chris Patton,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q264654,April Matson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q264654,April Matson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q264654,April Matson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q22278131,Ian Harnarine,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q22278131,Ian Harnarine,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q22278131,Ian Harnarine,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1683871,Jason Barker,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1683871,Jason Barker,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1683871,Jason Barker,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18030292,Owen Harris,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18030292,Owen Harris,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18030292,Owen Harris,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q258601,Van Hansis,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q258601,Van Hansis,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q258601,Van Hansis,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5525540,Gary Mason,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5525540,Gary Mason,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5525540,Gary Mason,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42326617,Ken Lawson,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42326617,Ken Lawson,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42326617,Ken Lawson,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q11685650,Josh Lawson,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q11685650,Josh Lawson,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q11685650,Josh Lawson,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q15154041,Tom Harari,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q15154041,Tom Harari,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q15154041,Tom Harari,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4961027,Anki Larsson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4961027,Anki Larsson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4961027,Anki Larsson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q39289131,Chris Sun,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q39289131,Chris Sun,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q39289131,Chris Sun,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q19776417,Harri Manty,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q19776417,Harri Manty,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q19776417,Harri Manty,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2600655,Chris Simmons,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2600655,Chris Simmons,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2600655,Chris Simmons,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16745214,Chase Williamson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16745214,Chase Williamson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16745214,Chase Williamson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21964361,Jason Christopher,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21964361,Jason Christopher,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21964361,Jason Christopher,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q11770181,Mariusz Pilawski,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q11770181,Mariusz Pilawski,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q11770181,Mariusz Pilawski,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6162663,Jason Harris,88,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6162663,Jason Harris,88,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6162663,Jason Harris,88,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18347485,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18347485,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18347485,Chris Nelson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q83934409,Ghislain Barrois,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q83934409,Ghislain Barrois,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q83934409,Ghislain Barrois,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21031202,George Lawson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21031202,George Lawson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21031202,George Lawson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q631369,Chris Claremont,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q631369,Chris Claremont,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q631369,Chris Claremont,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5106414,Chris Donlon,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5106414,Chris Donlon,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5106414,Chris Donlon,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23894602,Laura Harrier,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23894602,Laura Harrier,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23894602,Laura Harrier,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5109824,Christian Larson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5109824,Christian Larson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5109824,Christian Larson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42567647,Mason D. Davis,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42567647,Mason D. Davis,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42567647,Mason D. Davis,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5077031,Charles Dyson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5077031,Charles Dyson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5077031,Charles Dyson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q19960315,Madeleine Harris,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q19960315,Madeleine Harris,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q19960315,Madeleine Harris,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2033318,Ben Lawson,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2033318,Ben Lawson,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2033318,Ben Lawson,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q53798357,Chris Mason,75,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q53798357,Chris Mason,75,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q53798357,Chris Mason,75,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5107698,Chris Parson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5107698,Chris Parson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5107698,Chris Parson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5799427,Darri Ingólfsson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5799427,Darri Ingólfsson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5799427,Darri Ingólfsson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q29942398,Matthan Harris,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q29942398,Matthan Harris,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q29942398,Matthan Harris,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q65115925,Jason Arbour,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q65115925,Jason Arbour,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q65115925,Jason Arbour,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q1077373,Chris Jackson,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q1077373,Chris Jackson,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q1077373,Chris Jackson,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q66025212,Chris Luca,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q66025212,Chris Luca,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q66025212,Chris Luca,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5106164,Chris Clanton,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5106164,Chris Clanton,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5106164,Chris Clanton,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q86351,Harri Stojka,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q86351,Harri Stojka,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q86351,Harri Stojka,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q21008524,Chris Lofing,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q21008524,Chris Lofing,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q21008524,Chris Lofing,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q7405409,Salman Aristo,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q7405409,Salman Aristo,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q7405409,Salman Aristo,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42602370,Chris Nowland,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42602370,Chris Nowland,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42602370,Chris Nowland,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q28041997,Tom Harrison-Read,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q28041997,Tom Harrison-Read,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q28041997,Tom Harrison-Read,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q42272020,Hamish Parkinson,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q42272020,Hamish Parkinson,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q42272020,Hamish Parkinson,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q69395863,Kerri Sohn,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q69395863,Kerri Sohn,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q69395863,Kerri Sohn,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q28867408,Harriet Jones,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q28867408,Harriet Jones,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q28867408,Harriet Jones,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q10311090,João Arrais,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q10311090,João Arrais,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q10311090,João Arrais,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q63346821,Harish Khanna,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q63346821,Harish Khanna,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q63346821,Harish Khanna,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2964826,Chris Ohlson,72,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2964826,Chris Ohlson,72,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2964826,Chris Ohlson,72,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q72889764,Christiana Hamson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q72889764,Christiana Hamson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q72889764,Christiana Hamson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q55807559,Raymond Harris,74,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q55807559,Raymond Harris,74,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q55807559,Raymond Harris,74,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q66779662,Weston Thomas,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q66779662,Weston Thomas,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q66779662,Weston Thomas,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q61993788,Jason Barrett,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q61993788,Jason Barrett,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q61993788,Jason Barrett,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q23418582,Pippa Harris,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q23418582,Pippa Harris,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q23418582,Pippa Harris,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q716034,Thomas Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q716034,Thomas Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q716034,Thomas Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5386678,Eric Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5386678,Eric Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5386678,Eric Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2886435,Ken Harris,70,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2886435,Ken Harris,70,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2886435,Ken Harris,70,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q11852489,Ari Laine,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q11852489,Ari Laine,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q11852489,Ari Laine,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q58034193,Wong Lau-Chiu,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q58034193,Wong Lau-Chiu,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q58034193,Wong Lau-Chiu,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q47330826,Steven Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q47330826,Steven Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q47330826,Steven Harrison,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q76454262,Garry Lane,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q76454262,Garry Lane,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q76454262,Garry Lane,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q3126640,Han Masson,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q3126640,Han Masson,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q3126640,Han Masson,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18125452,Haridas,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18125452,Haridas,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18125452,Haridas,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q18637232,Carrie Wong,67,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q18637232,Carrie Wong,67,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q18637232,Carrie Wong,67,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5106501,Chris England,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5106501,Chris England,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5106501,Chris England,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q5657774,Haris Pašović,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q5657774,Haris Pašović,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q5657774,Haris Pašović,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2345414,Teri Harrison,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2345414,Teri Harrison,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2345414,Teri Harrison,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2966485,Christophe Samson,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2966485,Christophe Samson,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2966485,Christophe Samson,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q4205822,Him Law,60,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q4205822,Him Law,60,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q4205822,Him Law,60,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q6162197,Jason Chan,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q6162197,Jason Chan,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q6162197,Jason Chan,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q19939057,Henri Wong,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q19939057,Henri Wong,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q19939057,Henri Wong,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q16231504,Johan As'ari,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q16231504,Johan As'ari,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q16231504,Johan As'ari,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q26906217,Carrie Lozano,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q26906217,Carrie Lozano,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q26906217,Carrie Lozano,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q24706213,Chris Parsons,69,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q24706213,Chris Parsons,69,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q24706213,Chris Parsons,69,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q27056061,Aaron Dawson,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q27056061,Aaron Dawson,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q27056061,Aaron Dawson,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q27042217,Ian Lawton,61,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q27042217,Ian Lawton,61,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q27042217,Ian Lawton,61,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q43549518,Lom Harsh,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q43549518,Lom Harsh,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q43549518,Lom Harsh,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q28464355,Lonnie Chavis,62,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q28464355,Lonnie Chavis,62,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q28464355,Lonnie Chavis,62,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q51291783,Hailee Mason,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q51291783,Hailee Mason,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q51291783,Hailee Mason,64,,,0
+Q615,Lawson Harris,Q197,A Daughter Of Australia,Q2907695,Bob Harrison,64,,,0
+Q615,Lawson Harris,Q199,Sunshine Sally,Q2907695,Bob Harrison,64,,,0
+Q615,Lawson Harris,Q194,Circumstance,Q2907695,Bob Harrison,64,,,0

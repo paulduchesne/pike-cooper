@@ -1,0 +1,1600 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3617821,Anna Rosemond,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3617821,Anna Rosemond,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3617821,Anna Rosemond,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2850486,Anna Dodge,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2850486,Anna Dodge,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2850486,Anna Dodge,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19946456,Adam Eriksen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19946456,Adam Eriksen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19946456,Adam Eriksen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q640076,Fern Andra,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q640076,Fern Andra,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q640076,Fern Andra,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q96848,Hanns Kräly,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q96848,Hanns Kräly,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q96848,Hanns Kräly,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4765564,Anita King,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4765564,Anita King,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4765564,Anita King,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q454030,Anna Held,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q454030,Anna Held,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q454030,Anna Held,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3015252,Danny Kaden,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3015252,Danny Kaden,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3015252,Danny Kaden,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q70289,Käthe Haack,60,Q1195280,Der Lord von Barmbeck,35
+Q611,Ken Hannam,Q471,Break Of Day,Q70289,Käthe Haack,60,Q1210925,Die Affäre Lerouge,41
+Q611,Ken Hannam,Q483,Summerfield,Q70289,Käthe Haack,60,Q1210925,Die Affäre Lerouge,29
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767215,Anna Lehr,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767215,Anna Lehr,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767215,Anna Lehr,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q232376,Anna May Wong,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q232376,Anna May Wong,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q232376,Anna May Wong,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575696,Hanna Henning,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575696,Hanna Henning,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575696,Hanna Henning,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1234977,Henry Hallam,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1234977,Henry Hallam,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1234977,Henry Hallam,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q65659201,Hanns Kobe,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q65659201,Hanns Kobe,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q65659201,Hanns Kobe,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q453419,Diana Karenne,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q453419,Diana Karenne,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q453419,Diana Karenne,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1551755,Hans Kyser,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1551755,Hans Kyser,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1551755,Hans Kyser,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1192220,Hal C. Kern,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1192220,Hal C. Kern,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1192220,Hal C. Kern,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4942023,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4942023,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4942023,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5643859,Ham Kinsey,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5643859,Ham Kinsey,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5643859,Ham Kinsey,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q507996,Anna Sten,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q507996,Anna Sten,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q507996,Anna Sten,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q123797,Hanna Waag,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q123797,Hanna Waag,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q123797,Hanna Waag,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q70162,Hanna Maron,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q70162,Hanna Maron,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q70162,Hanna Maron,67,Q6896395,דודה קלרה,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1581548,Hans Olden,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1581548,Hans Olden,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1581548,Hans Olden,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7143507,Pat Hanna,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7143507,Pat Hanna,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7143507,Pat Hanna,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1738601,Ken G. Hall,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1738601,Ken G. Hall,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1738601,Ken G. Hall,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3426406,René Jeanne,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3426406,René Jeanne,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3426406,René Jeanne,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q460474,Anna Lee,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q460474,Anna Lee,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q460474,Anna Lee,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q98600,Johanna Terwin,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q98600,Johanna Terwin,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q98600,Johanna Terwin,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q561100,Anna Kallina,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q561100,Anna Kallina,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q561100,Anna Kallina,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q89261,Anna Gmeyner,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q89261,Anna Gmeyner,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q89261,Anna Gmeyner,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q57157,Hanna Reitsch,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q57157,Hanna Reitsch,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q57157,Hanna Reitsch,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1329224,Anna Tőkés,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1329224,Anna Tőkés,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1329224,Anna Tőkés,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q57712292,Anna Höllering,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q57712292,Anna Höllering,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q57712292,Anna Höllering,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3496725,Anna Letenská,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3496725,Anna Letenská,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3496725,Anna Letenská,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2635522,Jack Hannah,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2635522,Jack Hannah,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2635522,Jack Hannah,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q877771,Hans Klering,64,Q520479,Das Attentat von Sarajevo,41
+Q611,Ken Hannam,Q471,Break Of Day,Q877771,Hans Klering,64,Q520479,Das Attentat von Sarajevo,38
+Q611,Ken Hannam,Q483,Summerfield,Q877771,Hans Klering,64,Q1727322,Wer reißt denn gleich vor’m Teufel aus,25
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q42041887,Leo Hansen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q42041887,Leo Hansen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q42041887,Leo Hansen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q560314,Anna Exl,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q560314,Anna Exl,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q560314,Anna Exl,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3617682,Anna Carena,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3617682,Anna Carena,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3617682,Anna Carena,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17349255,Anna Kelly,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17349255,Anna Kelly,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17349255,Anna Kelly,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2653114,Anna Arena,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2653114,Anna Arena,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2653114,Anna Arena,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6170945,Jean Kent,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6170945,Jean Kent,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6170945,Jean Kent,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q213425,Danny Kaye,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q213425,Danny Kaye,60,Q7176281,Peter Pan,19
+Q611,Ken Hannam,Q483,Summerfield,Q213425,Danny Kaye,60,Q7176281,Peter Pan,20
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3701649,Hannu Leminen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3701649,Hannu Leminen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3701649,Hannu Leminen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q470818,Ken Annakin,76,Q4099134,Tigre de papier,29
+Q611,Ken Hannam,Q471,Break Of Day,Q470818,Ken Annakin,76,Q4099134,Tigre de papier,30
+Q611,Ken Hannam,Q483,Summerfield,Q470818,Ken Annakin,76,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2857861,Anya Seton,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2857861,Anya Seton,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2857861,Anya Seton,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5725178,Kenne Fant,60,Q10588254,Monismanien 1995,17
+Q611,Ken Hannam,Q471,Break Of Day,Q5725178,Kenne Fant,60,Q10588254,Monismanien 1995,14
+Q611,Ken Hannam,Q483,Summerfield,Q5725178,Kenne Fant,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851125,Anne Green,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2851125,Anne Green,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851125,Anne Green,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19667992,Ken Carson,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19667992,Ken Carson,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19667992,Ken Carson,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q953696,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q953696,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q953696,Ken Anderson,64,Q39722,The Rescuers,43
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4952562,Irene Hansen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4952562,Irene Hansen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4952562,Irene Hansen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q235744,Jean Hagen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q235744,Jean Hagen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q235744,Jean Hagen,60,Q4718125,Alexander: The Other Side of Dawn,23
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575739,Hanna Rucker,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575739,Hanna Rucker,73,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575739,Hanna Rucker,73,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6767912,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6767912,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6767912,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3425989,René Chanas,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3425989,René Chanas,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3425989,René Chanas,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3426350,René Havard,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3426350,René Havard,60,Q18414549,Mal Partis,27
+Q611,Ken Hannam,Q483,Summerfield,Q3426350,René Havard,60,Q18414549,Mal Partis,29
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q110314,Johanna König,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q110314,Johanna König,73,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q110314,Johanna König,73,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575699,Hanna Hutten,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575699,Hanna Hutten,73,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575699,Hanna Hutten,73,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4977274,Hanny Schedin,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4977274,Hanny Schedin,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4977274,Hanny Schedin,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648982,Hannah Weinstein,62,Q1440046,Claudine,22
+Q611,Ken Hannam,Q471,Break Of Day,Q5648982,Hannah Weinstein,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5648982,Hannah Weinstein,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q40056331,Xenia Hagmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q40056331,Xenia Hagmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q40056331,Xenia Hagmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q748904,Hanna Honthy,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q748904,Hanna Honthy,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q748904,Hanna Honthy,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679331,Adam Kennedy,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679331,Adam Kennedy,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679331,Adam Kennedy,64,Q546522,Théorie des dominos,34
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1690817,Joanna Merlin,61,Q2559935,Das neue Leben in der Hester Street,30
+Q611,Ken Hannam,Q471,Break Of Day,Q1690817,Joanna Merlin,61,Q2559935,Das neue Leben in der Hester Street,17
+Q611,Ken Hannam,Q483,Summerfield,Q1690817,Joanna Merlin,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2823971,Adam Kennedy,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2823971,Adam Kennedy,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2823971,Adam Kennedy,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q455240,Diana King,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q455240,Diana King,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q455240,Diana King,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38052692,Anna Hagen,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38052692,Anna Hagen,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38052692,Anna Hagen,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12315191,Hanne Ribens,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12315191,Hanne Ribens,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12315191,Hanne Ribens,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q37491683,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q37491683,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q37491683,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q868937,Joanna Lee,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q868937,Joanna Lee,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q868937,Joanna Lee,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6390229,Kenneth Hyman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6390229,Kenneth Hyman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6390229,Kenneth Hyman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1314669,Hans Lucke,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1314669,Hans Lucke,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1314669,Hans Lucke,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575760,Hanna Wördy,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575760,Hanna Wördy,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575760,Hanna Wördy,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q740933,Kevin Hagen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q740933,Kevin Hagen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q740933,Kevin Hagen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q232113,Anna Karina,67,Q3819417,Morel's pija,26
+Q611,Ken Hannam,Q471,Break Of Day,Q232113,Anna Karina,67,Q3236615,Les Oeufs brouilles,45
+Q611,Ken Hannam,Q483,Summerfield,Q232113,Anna Karina,67,Q3236615,Scrambled Eggs,32
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648687,Hanna Hertelendy,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5648687,Hanna Hertelendy,62,Q67609305,Last Salute to the Commodore,35
+Q611,Ken Hannam,Q483,Summerfield,Q5648687,Hanna Hertelendy,62,Q67609305,Last Salute to the Commodore,26
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15278596,Than Wyenn,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15278596,Than Wyenn,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15278596,Than Wyenn,60,Q2365712,Other Side of Midnight,30
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q565477,Anne Kersten,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q565477,Anne Kersten,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q565477,Anne Kersten,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2471996,Anna Karen,80,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2471996,Anna Karen,80,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2471996,Anna Karen,80,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5257143,Denis Cannan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5257143,Denis Cannan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5257143,Denis Cannan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q466325,Aparna Sen,60,Q7399247,Sagina,24
+Q611,Ken Hannam,Q471,Break Of Day,Q466325,Aparna Sen,60,Q717174,Jana Aranya,35
+Q611,Ken Hannam,Q483,Summerfield,Q466325,Aparna Sen,60,Q3427435,Immaan Dharam,17
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q98520,Hannes Nikel,64,Q2395752,Acht Jahre später,40
+Q611,Ken Hannam,Q471,Break Of Day,Q98520,Hannes Nikel,64,Q1655702,Vier gegen die Bank,39
+Q611,Ken Hannam,Q483,Summerfield,Q98520,Hannes Nikel,64,Q872951,Conséquence,38
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q64043,Hermann Kant,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q64043,Hermann Kant,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q64043,Hermann Kant,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3318227,Mogens Hansen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3318227,Mogens Hansen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3318227,Mogens Hansen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4707072,Alan Klein,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4707072,Alan Klein,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4707072,Alan Klein,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1685874,Johann Sklenka,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1685874,Johann Sklenka,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1685874,Johann Sklenka,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3617677,Anna Canzi,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3617677,Anna Canzi,60,Q429441,La orca,32
+Q611,Ken Hannam,Q483,Summerfield,Q3617677,Anna Canzi,60,Q429441,Orca,13
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4952620,Lena Hansson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4952620,Lena Hansson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4952620,Lena Hansson,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387235,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387235,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387235,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q97712,Hans Korte,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q97712,Hans Korte,60,Q885033,Everyone Dies Alone,32
+Q611,Ken Hannam,Q483,Summerfield,Q97712,Hans Korte,60,Q777720,Aus einem deutschen Leben,33
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1302557,Anna Széles,60,Q21032753,Pe aici nu se trece,32
+Q611,Ken Hannam,Q471,Break Of Day,Q1302557,Anna Széles,60,Q21032753,Pe aici nu se trece,19
+Q611,Ken Hannam,Q483,Summerfield,Q1302557,Anna Széles,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3814467,Ken Gampu,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3814467,Ken Gampu,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3814467,Ken Gampu,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3195038,Ken Hannam,100,Q3503837,Sunday Too Far Away,100
+Q611,Ken Hannam,Q471,Break Of Day,Q3195038,Ken Hannam,100,Q4959331,Break of Day,100
+Q611,Ken Hannam,Q483,Summerfield,Q3195038,Ken Hannam,100,Q3503675,Summerfield,100
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q235421,Ana Belén,67,Q6161645,Vida conyugal sana,38
+Q611,Ken Hannam,Q471,Break Of Day,Q235421,Ana Belén,67,Q5967803,La peticion,26
+Q611,Ken Hannam,Q483,Summerfield,Q235421,Ana Belén,67,Q24514560,La criatura,27
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575829,Hanne Løye,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575829,Hanne Løye,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575829,Hanne Løye,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q33060609,Donna Kerness,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q33060609,Donna Kerness,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q33060609,Donna Kerness,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5271492,Diane Keen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5271492,Diane Keen,60,Q7655074,Sweeney!,21
+Q611,Ken Hannam,Q483,Summerfield,Q5271492,Diane Keen,60,Q7655074,Sweeney!,33
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6521832,Len Janson,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6521832,Len Janson,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6521832,Len Janson,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1229052,Kenneth Cranham,64,Q1983658,Les temps sont durs pour Dracula,39
+Q611,Ken Hannam,Q471,Break Of Day,Q1229052,Kenneth Cranham,64,Q930071,La Rose et la Fleche,38
+Q611,Ken Hannam,Q483,Summerfield,Q1229052,Kenneth Cranham,64,Q930071,Rose et la Flèche,30
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7253672,Nam Seong-jin,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7253672,Nam Seong-jin,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7253672,Nam Seong-jin,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q558801,Ann Turkel,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q558801,Ann Turkel,60,Q1164623,Ekdach haelohim,44
+Q611,Ken Hannam,Q483,Summerfield,Q558801,Ann Turkel,60,Q1164623,Guds Revolver,33
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q107130,Rajesh Khanna,61,Q3419993,Aap Ki Kasam,45
+Q611,Ken Hannam,Q471,Break Of Day,Q107130,Rajesh Khanna,61,Q4997491,Bundal Baaz,43
+Q611,Ken Hannam,Q483,Summerfield,Q107130,Rajesh Khanna,61,Q4777903,Anurodh,33
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1576511,Hanns Nocker,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1576511,Hanns Nocker,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1576511,Hanns Nocker,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1320640,Ken Howard,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1320640,Ken Howard,60,Q3150009,Independence,17
+Q611,Ken Hannam,Q483,Summerfield,Q1320640,Ken Howard,60,Q3150009,Independence,26
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q298022,Anna German,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q298022,Anna German,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q298022,Anna German,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q18718643,Hanna Lóránd,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q18718643,Hanna Lóránd,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q18718643,Hanna Lóránd,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3195711,Kevin Harrington,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3195711,Kevin Harrington,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3195711,Kevin Harrington,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575712,Hanna Köhler,76,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575712,Hanna Köhler,76,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575712,Hanna Köhler,76,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6235136,Hans Welin,60,Q14955270,Promenad i de gamlas land,36
+Q611,Ken Hannam,Q471,Break Of Day,Q6235136,Hans Welin,60,Q10572675,Långt borta och nära,47
+Q611,Ken Hannam,Q483,Summerfield,Q6235136,Hans Welin,60,Q10635973,Buddies,33
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q9286035,Hanna Skarżanka,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q9286035,Hanna Skarżanka,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q9286035,Hanna Skarżanka,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28137175,Ann Knox,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28137175,Ann Knox,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28137175,Ann Knox,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851673,Annie Kerani,64,Q3373131,And Now My Love,35
+Q611,Ken Hannam,Q471,Break Of Day,Q2851673,Annie Kerani,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851673,Annie Kerani,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851146,Anne Kerylen,64,Q3412910,Quand les filles se déchaînent,38
+Q611,Ken Hannam,Q471,Break Of Day,Q2851146,Anne Kerylen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851146,Anne Kerylen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851149,Anne Kreis,60,Q3555802,Accusa è: violenza carnale e omicidio,38
+Q611,Ken Hannam,Q471,Break Of Day,Q2851149,Anne Kreis,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851149,Anne Kreis,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q20745689,Søren Hansen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q20745689,Søren Hansen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q20745689,Søren Hansen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767394,Anna Palk,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767394,Anna Palk,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767394,Anna Palk,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q10313980,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q10313980,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q10313980,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6375520,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6375520,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6375520,Kate Hansen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q273113,Anna Seniuk,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q273113,Anna Seniuk,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q273113,Anna Seniuk,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q20995533,Anna Vayena,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q20995533,Anna Vayena,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q20995533,Anna Vayena,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3426334,René Hainaux,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3426334,René Hainaux,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3426334,René Hainaux,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q44150407,Anna Soehring,61,Q3135668,Toula ou le Génie des eaux,32
+Q611,Ken Hannam,Q471,Break Of Day,Q44150407,Anna Soehring,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q44150407,Anna Soehring,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3595806,A. K. Hangal,60,Q3419993,Aap Ki Kasam,45
+Q611,Ken Hannam,Q471,Break Of Day,Q3595806,A. K. Hangal,60,Q6173041,Jeevan Jyoti,42
+Q611,Ken Hannam,Q483,Summerfield,Q3595806,A. K. Hangal,60,Q7124543,Paheli,24
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2491982,Anna Dymna,60,Q11791180,Take It Easy,32
+Q611,Ken Hannam,Q471,Break Of Day,Q2491982,Anna Dymna,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2491982,Anna Dymna,60,Q11740608,Kochaj albo rzuć,7
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12019001,Hana Čížková,60,Q3492057,A Night at Karlstein,46
+Q611,Ken Hannam,Q471,Break Of Day,Q12019001,Hana Čížková,60,Q11082617,"Zítra to roztočíme, drahoušku…!",32
+Q611,Ken Hannam,Q483,Summerfield,Q12019001,Hana Čížková,60,Q11082617,"Zítra to roztočíme, drahoušku…!",22
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11282469,Irene Chan,60,Q28671327,Shaolin Martial Arts,41
+Q611,Ken Hannam,Q471,Break Of Day,Q11282469,Irene Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11282469,Irene Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5686458,Haydn Keenan,64,Q4632540,27A,9
+Q611,Ken Hannam,Q471,Break Of Day,Q5686458,Haydn Keenan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5686458,Haydn Keenan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679336,Adam Kersten,64,Q960920,Settimo flagello,34
+Q611,Ken Hannam,Q471,Break Of Day,Q4679336,Adam Kersten,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679336,Adam Kersten,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6389340,Kenji Kazama,64,Q922792,The Street Fighter,32
+Q611,Ken Hannam,Q471,Break Of Day,Q6389340,Kenji Kazama,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6389340,Kenji Kazama,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1107574,András Kern,60,Q4549654,141 perc a befejezetlen mondatból,31
+Q611,Ken Hannam,Q471,Break Of Day,Q1107574,András Kern,60,Q1035545,Strange Role,33
+Q611,Ken Hannam,Q483,Summerfield,Q1107574,András Kern,60,Q1160649,Lúdas Matyi,29
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1492010,Hannes Kaetner,67,Q1502764,Die Abrechnung,30
+Q611,Ken Hannam,Q471,Break Of Day,Q1492010,Hannes Kaetner,67,Q2979315,Satan's Brew,42
+Q611,Ken Hannam,Q483,Summerfield,Q1492010,Hannes Kaetner,67,Q3208713,Stationmaster's Wife,39
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4950321,Anna Godenius,61,Q4657227,A Guy and a Gal,47
+Q611,Ken Hannam,Q471,Break Of Day,Q4950321,Anna Godenius,61,Q4657227,Guy and a Gal,40
+Q611,Ken Hannam,Q483,Summerfield,Q4950321,Anna Godenius,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5070363,Chan Shen,63,Q1100501,Cleopatra Jones and the Casino of Gold,35
+Q611,Ken Hannam,Q471,Break Of Day,Q5070363,Chan Shen,63,Q1100501,Cleopatra Jones and the Casino of Gold,28
+Q611,Ken Hannam,Q483,Summerfield,Q5070363,Chan Shen,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6205879,Joanna Lee,60,Q5017334,Cage Without a Key,43
+Q611,Ken Hannam,Q471,Break Of Day,Q6205879,Joanna Lee,60,Q5017334,Cage Without a Key,40
+Q611,Ken Hannam,Q483,Summerfield,Q6205879,Joanna Lee,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4520064,Yelena Shanina,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4520064,Yelena Shanina,67,Q1750559,Dwenadzat stuljew,34
+Q611,Ken Hannam,Q483,Summerfield,Q4520064,Yelena Shanina,67,Q1750559,12 sedie,42
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2038656,Vinod Khanna,64,Q1792723,Kunwara Baap,39
+Q611,Ken Hannam,Q471,Break Of Day,Q2038656,Vinod Khanna,64,Q5636566,Haath Ki Safai,38
+Q611,Ken Hannam,Q483,Summerfield,Q2038656,Vinod Khanna,64,Q7489325,Shaque,35
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q13537166,Anton Korenči,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q13537166,Anton Korenči,61,Q7093193,Jeden stříbrný,25
+Q611,Ken Hannam,Q483,Summerfield,Q13537166,Anton Korenči,61,Q7093193,One Silver Piece,30
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q63689,Joanna Kerns,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q63689,Joanna Kerns,73,Q127536,A*P*E,35
+Q611,Ken Hannam,Q483,Summerfield,Q63689,Joanna Kerns,73,Q127536,The Ape,22
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q21026539,Hans-Jürgen Janza,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q21026539,Hans-Jürgen Janza,62,Q18669614,… und dann ist Zahltag,25
+Q611,Ken Hannam,Q483,Summerfield,Q21026539,Hans-Jürgen Janza,62,Q18669614,… und dann ist Zahltag,19
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2850467,Anna Bergman,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2850467,Anna Bergman,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2850467,Anna Bergman,64,Q461645,I skorpionens tegn,28
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4770489,Ansa Ikonen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4770489,Ansa Ikonen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4770489,Ansa Ikonen,67,Q517912,Telefon,22
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24048441,Kevin Hare,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24048441,Kevin Hare,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24048441,Kevin Hare,60,Q39073344,One Man,22
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2352199,Anna Wing,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2352199,Anna Wing,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2352199,Anna Wing,63,Q3220957,Cercle infernal,38
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16937698,Peter Hannan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16937698,Peter Hannan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16937698,Peter Hannan,64,Q3220957,Cercle infernal,38
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4439474,Hanna Stankówna,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4439474,Hanna Stankówna,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4439474,Hanna Stankówna,67,Q17555836,Wergili,44
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2782340,Annj Goren,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2782340,Annj Goren,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2782340,Annj Goren,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q39140994,Per Hansen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q39140994,Per Hansen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q39140994,Per Hansen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38053688,Hanne Nielsen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38053688,Hanne Nielsen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38053688,Hanne Nielsen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5802427,Åke Hermanson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5802427,Åke Hermanson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5802427,Åke Hermanson,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6529668,Les Lannom,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6529668,Les Lannom,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6529668,Les Lannom,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6951616,N. Chandra,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6951616,N. Chandra,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6951616,N. Chandra,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12018959,Hana Heřmánková,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12018959,Hana Heřmánková,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12018959,Hana Heřmánková,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q975692,Ana Obregón,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q975692,Ana Obregón,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q975692,Ana Obregón,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q63997,Ken Adam,78,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q63997,Ken Adam,78,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q63997,Ken Adam,78,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q23719208,Hans Kelch,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q23719208,Hans Kelch,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q23719208,Hans Kelch,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q80286575,Anna Wetlinská,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q80286575,Anna Wetlinská,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q80286575,Anna Wetlinská,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q340213,Adam Arkin,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q340213,Adam Arkin,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q340213,Adam Arkin,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q508420,Hanna Krall,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q508420,Hanna Krall,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q508420,Hanna Krall,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38052393,Henry Büchmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38052393,Henry Büchmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38052393,Henry Büchmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22266825,Hanna Ruess,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22266825,Hanna Ruess,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22266825,Hanna Ruess,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q25349787,Kamna Chandra,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q25349787,Kamna Chandra,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q25349787,Kamna Chandra,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2039629,Dana Olsen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2039629,Dana Olsen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2039629,Dana Olsen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q10826130,Anna Ferencová,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q10826130,Anna Ferencová,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q10826130,Anna Ferencová,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q434086,Anna Kanakis,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q434086,Anna Kanakis,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q434086,Anna Kanakis,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q551182,Anja Kruse,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q551182,Anja Kruse,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q551182,Anja Kruse,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1100265,Hanna Mikuć,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1100265,Hanna Mikuć,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1100265,Hanna Mikuć,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q704724,Adam Cheng,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q704724,Adam Cheng,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q704724,Adam Cheng,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387798,Ken Hixon,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387798,Ken Hixon,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387798,Ken Hixon,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q560163,Anupam Kher,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q560163,Anupam Kher,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q560163,Anupam Kher,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q549596,Sean Kanan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q549596,Sean Kanan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q549596,Sean Kanan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7174515,Peter Hannan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7174515,Peter Hannan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7174515,Peter Hannan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16215943,Johanna Mertinz,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16215943,Johanna Mertinz,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16215943,Johanna Mertinz,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q461598,Anna Galiena,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q461598,Anna Galiena,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q461598,Anna Galiena,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17123844,Johanna Tomek,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17123844,Johanna Tomek,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17123844,Johanna Tomek,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q440773,Ann Petrén,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q440773,Ann Petrén,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q440773,Ann Petrén,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2850389,Ann Hearn,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2850389,Ann Hearn,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2850389,Ann Hearn,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12324691,Litten Hansen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12324691,Litten Hansen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12324691,Litten Hansen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7124243,Page Hannah,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7124243,Page Hannah,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7124243,Page Hannah,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22687781,Johanna Penski,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22687781,Johanna Penski,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22687781,Johanna Penski,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q71059271,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q71059271,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q71059271,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q71246985,Henrik Hansen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q71246985,Henrik Hansen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q71246985,Henrik Hansen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24285967,Chana Eden,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24285967,Chana Eden,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24285967,Chana Eden,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q10826648,Anna Kreuzmannová,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q10826648,Anna Kreuzmannová,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q10826648,Anna Kreuzmannová,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q9557,Aamir Khan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q9557,Aamir Khan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q9557,Aamir Khan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q706117,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q706117,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q706117,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5947378,Hans-Åke Lerin,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5947378,Hans-Åke Lerin,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5947378,Hans-Åke Lerin,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q618352,Kevin Hart,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q618352,Kevin Hart,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q618352,Kevin Hart,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q712178,Kent Cheng,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q712178,Kent Cheng,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q712178,Kent Cheng,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2583508,Dan Kennis,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2583508,Dan Kennis,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2583508,Dan Kennis,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3283242,Hans Kesting,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3283242,Hans Kesting,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3283242,Hans Kesting,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q740812,Adam Ryen,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q740812,Adam Ryen,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q740812,Adam Ryen,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q728556,Mike Maronna,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q728556,Mike Maronna,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q728556,Mike Maronna,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q716398,Jan Kounen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q716398,Jan Kounen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q716398,Jan Kounen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q298243,John Hannah,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q298243,John Hannah,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q298243,John Hannah,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1040776,Yōko Honna,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1040776,Yōko Honna,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1040776,Yōko Honna,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1159213,Dana Eskelson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1159213,Dana Eskelson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1159213,Dana Eskelson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387423,Ken Catran,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387423,Ken Catran,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387423,Ken Catran,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679312,Adam Kane,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679312,Adam Kane,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679312,Adam Kane,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679328,Adam Kendrick,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679328,Adam Kendrick,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679328,Adam Kendrick,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2371234,Sven Lehmann,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2371234,Sven Lehmann,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2371234,Sven Lehmann,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q88015456,Ann Weldon,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q88015456,Ann Weldon,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q88015456,Ann Weldon,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38471247,Anna Eklund,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38471247,Anna Eklund,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38471247,Anna Eklund,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q584678,Keiko Han,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q584678,Keiko Han,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q584678,Keiko Han,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12315183,Hanne Jørna,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12315183,Hanne Jørna,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12315183,Hanne Jørna,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q271050,Anna Gunn,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q271050,Anna Gunn,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q271050,Anna Gunn,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6389331,Kenji Haga,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6389331,Kenji Haga,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6389331,Kenji Haga,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1369795,Anita Yuen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1369795,Anita Yuen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1369795,Anita Yuen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4942024,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4942024,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4942024,Anna Carlsten,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q88958766,Anna Kornis,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q88958766,Anna Kornis,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q88958766,Anna Kornis,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1371295,Kenny Johnson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1371295,Kenny Johnson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1371295,Kenny Johnson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3522314,Mukesh Khanna,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3522314,Mukesh Khanna,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3522314,Mukesh Khanna,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q87993088,Anna Bolk,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q87993088,Anna Bolk,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q87993088,Anna Bolk,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1320795,Hanno Lentz,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1320795,Hanno Lentz,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1320795,Hanno Lentz,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q717432,Chang Chen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q717432,Chang Chen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q717432,Chang Chen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q89552571,John Kenny,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q89552571,John Kenny,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q89552571,John Kenny,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17144444,Hannah Weyer,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17144444,Hannah Weyer,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17144444,Hannah Weyer,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5646909,Hanan Turk,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5646909,Hanan Turk,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5646909,Hanan Turk,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q262294,Keren Ann,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q262294,Keren Ann,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q262294,Keren Ann,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3126844,Hannah Werntz,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3126844,Hannah Werntz,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3126844,Hannah Werntz,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4766856,Anna Björk,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4766856,Anna Björk,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4766856,Anna Björk,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24299268,Keana Hall,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24299268,Keana Hall,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24299268,Keana Hall,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3195676,Kevin Chapman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3195676,Kevin Chapman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3195676,Kevin Chapman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7289407,Ramesh Khanna,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7289407,Ramesh Khanna,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7289407,Ramesh Khanna,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15613882,Anna Veselá,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15613882,Anna Veselá,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15613882,Anna Veselá,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q237594,Anna Friel,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q237594,Anna Friel,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q237594,Anna Friel,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q56676386,Antonia Reß,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q56676386,Antonia Reß,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q56676386,Antonia Reß,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679354,Adam Kline,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679354,Adam Kline,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679354,Adam Kline,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q563512,Anna Valle,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q563512,Anna Valle,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q563512,Anna Valle,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19976462,Anna Croneman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19976462,Anna Croneman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19976462,Anna Croneman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2556523,Twinkle Khanna,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2556523,Twinkle Khanna,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2556523,Twinkle Khanna,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q446817,Lisa Hanna,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q446817,Lisa Hanna,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q446817,Lisa Hanna,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1696958,Johanna Klante,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1696958,Johanna Klante,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1696958,Johanna Klante,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q563747,Anna von Berg,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q563747,Anna von Berg,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q563747,Anna von Berg,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5415310,Evan Adams,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5415310,Evan Adams,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5415310,Evan Adams,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3161132,James Hanlon,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3161132,James Hanlon,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3161132,James Hanlon,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1934702,Hanna Obbeek,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1934702,Hanna Obbeek,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1934702,Hanna Obbeek,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q33035175,Jochen Ehmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q33035175,Jochen Ehmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q33035175,Jochen Ehmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3617796,Anna Negri,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3617796,Anna Negri,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3617796,Anna Negri,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q517673,Anna Korcz,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q517673,Anna Korcz,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q517673,Anna Korcz,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q42309779,Adam Blake,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q42309779,Adam Blake,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q42309779,Adam Blake,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851174,Anne Le Ny,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2851174,Anne Le Ny,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851174,Anne Le Ny,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q61393,Johanna Wokalek,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q61393,Johanna Wokalek,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q61393,Johanna Wokalek,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767426,Anna Quindlen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767426,Anna Quindlen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767426,Anna Quindlen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1576616,Hannu Salonen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1576616,Hannu Salonen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1576616,Hannu Salonen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3492567,Kevin Hearn,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3492567,Kevin Hearn,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3492567,Kevin Hearn,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15907534,Danny Deng,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15907534,Danny Deng,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15907534,Danny Deng,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3440926,Johanna Vuoksenmaa,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3440926,Johanna Vuoksenmaa,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3440926,Johanna Vuoksenmaa,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4768499,Anne Kennedy,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4768499,Anne Kennedy,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4768499,Anne Kennedy,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3521946,Nandana Sen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3521946,Nandana Sen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3521946,Nandana Sen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q71656,Anja Kling,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q71656,Anja Kling,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q71656,Anja Kling,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3273248,Kento Handa,76,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3273248,Kento Handa,76,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3273248,Kento Handa,76,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4766486,Ann Kelley,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4766486,Ann Kelley,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4766486,Ann Kelley,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q540456,Halina Reijn,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q540456,Halina Reijn,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q540456,Halina Reijn,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q208339,Kristanna Loken,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q208339,Kristanna Loken,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q208339,Kristanna Loken,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q260782,Dyanna Lauren,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q260782,Dyanna Lauren,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q260782,Dyanna Lauren,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q487276,Anat Even,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q487276,Anat Even,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q487276,Anat Even,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q255525,Anna Malle,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q255525,Anna Malle,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q255525,Anna Malle,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22247560,Ann Knapp,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22247560,Ann Knapp,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22247560,Ann Knapp,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3107947,Kevin Johansen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3107947,Kevin Johansen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3107947,Kevin Johansen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q565471,Anne Kanis,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q565471,Anne Kanis,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q565471,Anne Kanis,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4355063,Kevin Duhaney,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4355063,Kevin Duhaney,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4355063,Kevin Duhaney,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17113665,Gunnar Vikene,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17113665,Gunnar Vikene,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17113665,Gunnar Vikene,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q567101,Annika Blendl,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q567101,Annika Blendl,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q567101,Annika Blendl,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q42419614,Gwen Banta,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q42419614,Gwen Banta,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q42419614,Gwen Banta,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2850979,Anne Benoît,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2850979,Anne Benoît,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2850979,Anne Benoît,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3615051,Ananya Khare,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3615051,Ananya Khare,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3615051,Ananya Khare,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28092083,Hanneke Niens,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28092083,Hanneke Niens,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28092083,Hanneke Niens,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q442114,Anna Silk,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q442114,Anna Silk,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q442114,Anna Silk,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12337891,Sven Omann,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12337891,Sven Omann,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12337891,Sven Omann,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6396650,Kevin Kangas,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6396650,Kevin Kangas,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6396650,Kevin Kangas,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6964843,Aya Koren,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6964843,Aya Koren,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6964843,Aya Koren,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q59360850,Jenő Hábermann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q59360850,Jenő Hábermann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q59360850,Jenő Hábermann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6961113,Nam Na-yeong,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6961113,Nam Na-yeong,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6961113,Nam Na-yeong,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q509441,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q509441,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q509441,Mark Hanna,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1933131,Mike Eschmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1933131,Mike Eschmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1933131,Mike Eschmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q23781177,Andreas Krein,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q23781177,Andreas Krein,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q23781177,Andreas Krein,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q67701,Anna Kendrick,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q67701,Anna Kendrick,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q67701,Anna Kendrick,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7335045,Rinke Khanna,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7335045,Rinke Khanna,73,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7335045,Rinke Khanna,73,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q111009,Kevin Iannotta,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q111009,Kevin Iannotta,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q111009,Kevin Iannotta,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q57767653,Johanna Lee,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q57767653,Johanna Lee,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q57767653,Johanna Lee,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q203286,Kevin Johnson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q203286,Kevin Johnson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q203286,Kevin Johnson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q29645853,Anna Kalus,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q29645853,Anna Kalus,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q29645853,Anna Kalus,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q90795,Hanno Koffler,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q90795,Hanno Koffler,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q90795,Hanno Koffler,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12023091,Jan Sklenář,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12023091,Jan Sklenář,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12023091,Jan Sklenář,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5649064,Hanne Myren,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5649064,Hanne Myren,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5649064,Hanne Myren,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q60708978,Anna Klasse,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q60708978,Anna Klasse,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q60708978,Anna Klasse,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1992856,Nina Tenge,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1992856,Nina Tenge,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1992856,Nina Tenge,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648705,Hanna Karjalainen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5648705,Hanna Karjalainen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5648705,Hanna Karjalainen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q157917,Andreas Klöden,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q157917,Andreas Klöden,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q157917,Andreas Klöden,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767152,Anna Keaveney,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767152,Anna Keaveney,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767152,Anna Keaveney,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4289477,Anna Melikian,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4289477,Anna Melikian,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4289477,Anna Melikian,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4160069,Kent James,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4160069,Kent James,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4160069,Kent James,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4988655,Lena Hanno,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4988655,Lena Hanno,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4988655,Lena Hanno,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3267105,Fana Mokoena,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3267105,Fana Mokoena,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3267105,Fana Mokoena,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15930508,Henry Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15930508,Henry Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15930508,Henry Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648683,Hanna Hemilä,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5648683,Hanna Hemilä,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5648683,Hanna Hemilä,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4019378,Gülhan Şen,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4019378,Gülhan Şen,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4019378,Gülhan Şen,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q65058319,Yen Lan-chuan,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q65058319,Yen Lan-chuan,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q65058319,Yen Lan-chuan,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1648446,Johann König,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1648446,Johann König,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1648446,Johann König,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6967310,Nasreen Jahan,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6967310,Nasreen Jahan,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6967310,Nasreen Jahan,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q704041,Eason Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q704041,Eason Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q704041,Eason Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767157,Anna Kerth,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767157,Anna Kerth,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767157,Anna Kerth,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15975512,Hannah Ley,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15975512,Hannah Ley,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15975512,Hannah Ley,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1729230,Karen Böhne,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1729230,Karen Böhne,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1729230,Karen Böhne,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16983758,Hanna Lekander,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16983758,Hanna Lekander,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16983758,Hanna Lekander,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q290035,Hannah Marks,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q290035,Hannah Marks,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q290035,Hannah Marks,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2611221,Hanna Verboom,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2611221,Hanna Verboom,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2611221,Hanna Verboom,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648731,Hanna Polak,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5648731,Hanna Polak,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5648731,Hanna Polak,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q236117,Anna Belknap,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q236117,Anna Belknap,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q236117,Anna Belknap,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q557730,Sean Hannity,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q557730,Sean Hannity,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q557730,Sean Hannity,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12404087,Anna Stephan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12404087,Anna Stephan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12404087,Anna Stephan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q436351,Hannah Hodson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q436351,Hannah Hodson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q436351,Hannah Hodson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1254,Kofi Annan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1254,Kofi Annan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1254,Kofi Annan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q529532,Ania Bukstein,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q529532,Ania Bukstein,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q529532,Ania Bukstein,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1653774,Kenji Arai,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1653774,Kenji Arai,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1653774,Kenji Arai,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575704,Hanna Jürgens,73,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575704,Hanna Jürgens,73,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575704,Hanna Jürgens,73,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2850492,Anna Ferguson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2850492,Anna Ferguson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2850492,Anna Ferguson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q235762,Hannah Teter,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q235762,Hannah Teter,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q235762,Hannah Teter,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q107430,Mike Hanke,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q107430,Mike Hanke,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q107430,Mike Hanke,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q21505898,Adam Pena,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q21505898,Adam Pena,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q21505898,Adam Pena,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4766862,Anna Boden,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4766862,Anna Boden,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4766862,Anna Boden,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17386738,Anna Friedman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17386738,Anna Friedman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17386738,Anna Friedman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q39252899,Ian Hansen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q39252899,Ian Hansen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q39252899,Ian Hansen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q9155136,Anna Ferens,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q9155136,Anna Ferens,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q9155136,Anna Ferens,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4425382,Anna Snatkina,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4425382,Anna Snatkina,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4425382,Anna Snatkina,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q808769,Adam Green,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q808769,Adam Green,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q808769,Adam Green,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16209291,Kevin Hanchard,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16209291,Kevin Hanchard,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16209291,Kevin Hanchard,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1076842,Kenji Hamada,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1076842,Kenji Hamada,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1076842,Kenji Hamada,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4760880,Andy Keen,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4760880,Andy Keen,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4760880,Andy Keen,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q561475,Anna Kubin,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q561475,Anna Kubin,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q561475,Anna Kubin,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11664085,Hanae Kan,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11664085,Hanae Kan,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11664085,Hanae Kan,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679314,Adam Kassen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679314,Adam Kassen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679314,Adam Kassen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q71695,Hans-Joachim Klein,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q71695,Hans-Joachim Klein,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q71695,Hans-Joachim Klein,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q122997,Nike Fuhrmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q122997,Nike Fuhrmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q122997,Nike Fuhrmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q54861479,Hank Nelken,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q54861479,Hank Nelken,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q54861479,Hank Nelken,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5646899,Hanan Kattan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5646899,Hanan Kattan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5646899,Hanan Kattan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q606552,Anna Kubik,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q606552,Anna Kubik,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q606552,Anna Kubik,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q21809719,James Kent,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q21809719,James Kent,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q21809719,James Kent,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11483360,Ken'ya Hirata,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11483360,Ken'ya Hirata,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11483360,Ken'ya Hirata,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12324264,Lene Johansen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12324264,Lene Johansen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12324264,Lene Johansen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q434717,Shoshannah Stern,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q434717,Shoshannah Stern,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q434717,Shoshannah Stern,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22252738,Ethan Kane,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22252738,Ethan Kane,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22252738,Ethan Kane,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3625177,Karen Hassan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3625177,Karen Hassan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3625177,Karen Hassan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2202755,Kev Adams,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2202755,Kev Adams,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2202755,Kev Adams,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387818,Ken Holtzman,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387818,Ken Holtzman,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387818,Ken Holtzman,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22093705,Johanna Mørck,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22093705,Johanna Mørck,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22093705,Johanna Mørck,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6179702,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6179702,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6179702,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6179699,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6179699,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6179699,Jens Hoffmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5070943,Chandan Sen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5070943,Chandan Sen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5070943,Chandan Sen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6583142,Adam Kenneth,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6583142,Adam Kenneth,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6583142,Adam Kenneth,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q559888,Anna Böger,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q559888,Anna Böger,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q559888,Anna Böger,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q567109,Annika Ernst,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q567109,Annika Ernst,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q567109,Annika Ernst,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5927866,Johan Kylén,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5927866,Johan Kylén,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5927866,Johan Kylén,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4940786,Anna Bromée,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4940786,Anna Bromée,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4940786,Anna Bromée,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4961662,Hanna Lejonqvist,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4961662,Hanna Lejonqvist,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4961662,Hanna Lejonqvist,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q56161717,Anna Khaja,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q56161717,Anna Khaja,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q56161717,Anna Khaja,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3148512,Anna Katarina,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3148512,Anna Katarina,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3148512,Anna Katarina,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q398740,Ken Johnson,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q398740,Ken Johnson,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q398740,Ken Johnson,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16728814,Danae Elon,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16728814,Danae Elon,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16728814,Danae Elon,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1676688,Kee Chan,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1676688,Kee Chan,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1676688,Kee Chan,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6426778,René Bo Hansen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6426778,René Bo Hansen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6426778,René Bo Hansen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q98286,Anna Bederke,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q98286,Anna Bederke,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q98286,Anna Bederke,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q174503,Ken Baumann,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q174503,Ken Baumann,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q174503,Ken Baumann,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q297240,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q297240,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q297240,Ken Anderson,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q440007,Anna Skellern,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q440007,Anna Skellern,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q440007,Anna Skellern,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11109136,Huan-Ru Ke,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11109136,Huan-Ru Ke,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11109136,Huan-Ru Ke,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16091422,Jang Nam-yeol,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16091422,Jang Nam-yeol,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16091422,Jang Nam-yeol,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q63124380,Matthew Hannam,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q63124380,Matthew Hannam,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q63124380,Matthew Hannam,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5649210,Hanno Höfer,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5649210,Hanno Höfer,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5649210,Hanno Höfer,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q298437,Anna Easteden,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q298437,Anna Easteden,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q298437,Anna Easteden,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7309773,Rehan Khan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7309773,Rehan Khan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7309773,Rehan Khan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q560665,Anna Graenzer,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q560665,Anna Graenzer,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q560665,Anna Graenzer,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q14134356,Anna Lipponen,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q14134356,Anna Lipponen,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q14134356,Anna Lipponen,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5648980,Hannah Ware,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5648980,Hannah Ware,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5648980,Hannah Ware,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4766875,Anna Brecon,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4766875,Anna Brecon,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4766875,Anna Brecon,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2529007,Han Wenwen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2529007,Han Wenwen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2529007,Han Wenwen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19817060,Anna Hopkins,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19817060,Anna Hopkins,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19817060,Anna Hopkins,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19462999,Anna Myking,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19462999,Anna Myking,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19462999,Anna Myking,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6171209,Sean Banan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6171209,Sean Banan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6171209,Sean Banan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q40523806,Anne Møen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q40523806,Anne Møen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q40523806,Anne Møen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15890988,Anna-Lena Klenke,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15890988,Anna-Lena Klenke,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15890988,Anna-Lena Klenke,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26734,Johann Jürgens,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26734,Johann Jürgens,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26734,Johann Jürgens,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387824,Ken Horstmann,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387824,Ken Horstmann,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387824,Ken Horstmann,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q564331,Annalena Duken,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q564331,Annalena Duken,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q564331,Annalena Duken,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q92033458,Melanie Annan,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q92033458,Melanie Annan,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q92033458,Melanie Annan,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q50376477,Yann Zenou,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q50376477,Yann Zenou,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q50376477,Yann Zenou,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767014,Anna Fricke,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767014,Anna Fricke,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767014,Anna Fricke,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q42888427,Kyle Buchanan,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q42888427,Kyle Buchanan,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q42888427,Kyle Buchanan,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q66124704,Adam Kent,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q66124704,Adam Kent,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q66124704,Adam Kent,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7473314,John Klein,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7473314,John Klein,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7473314,John Klein,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q349591,Adam Green,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q349591,Adam Green,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q349591,Adam Green,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1208865,Diana Näcke,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1208865,Diana Näcke,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1208865,Diana Näcke,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5220521,Danny King,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5220521,Danny King,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5220521,Danny King,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q425840,Hannah Wang,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q425840,Hannah Wang,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q425840,Hannah Wang,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15890995,Antonia Gerke,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15890995,Antonia Gerke,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15890995,Antonia Gerke,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q10314169,Ken Kaneko,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q10314169,Ken Kaneko,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q10314169,Ken Kaneko,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11708569,Hanna Samson,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11708569,Hanna Samson,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11708569,Hanna Samson,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q561106,Anna Kaminski,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q561106,Anna Kaminski,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q561106,Anna Kaminski,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28036320,Adam Leon,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28036320,Adam Leon,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28036320,Adam Leon,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2653147,Anna Willecke,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2653147,Anna Willecke,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2653147,Anna Willecke,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2646337,Johanna Kern,82,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2646337,Johanna Kern,82,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2646337,Johanna Kern,82,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q703461,Kento Hayashi,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q703461,Kento Hayashi,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q703461,Kento Hayashi,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767057,Anna Guzik,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767057,Anna Guzik,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767057,Anna Guzik,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q75329,Anna Järvinen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q75329,Anna Järvinen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q75329,Anna Järvinen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q532872,Hannah Waterman,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q532872,Hannah Waterman,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q532872,Hannah Waterman,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1933206,Mike Hoffmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1933206,Mike Hoffmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1933206,Mike Hoffmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q9285984,Hanna Konarowska,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q9285984,Hanna Konarowska,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q9285984,Hanna Konarowska,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q560851,Anna Hepp,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q560851,Anna Hepp,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q560851,Anna Hepp,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1575743,Hanna Scheuring,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1575743,Hanna Scheuring,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1575743,Hanna Scheuring,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q551151,Anja Kampe,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q551151,Anja Kampe,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q551151,Anja Kampe,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17276568,Hana Hayes,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17276568,Hana Hayes,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17276568,Hana Hayes,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22245239,Rihanna Rimes,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22245239,Rihanna Rimes,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22245239,Rihanna Rimes,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q21182068,Chacha Eke,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q21182068,Chacha Eke,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q21182068,Chacha Eke,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q62088649,Anna Dick,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q62088649,Anna Dick,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q62088649,Anna Dick,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4832540,Hasan Küçükçetin,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4832540,Hasan Küçükçetin,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4832540,Hasan Küçükçetin,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16299962,Johanna Kokko,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16299962,Johanna Kokko,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16299962,Johanna Kokko,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4970768,Anna Odell,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4970768,Anna Odell,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4970768,Anna Odell,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19776464,Anna Thommen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19776464,Anna Thommen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19776464,Anna Thommen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q66124139,Johanna Yunda,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q66124139,Johanna Yunda,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q66124139,Johanna Yunda,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q49524,Kana Hanazawa,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q49524,Kana Hanazawa,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q49524,Kana Hanazawa,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6396107,Kevin Danaher,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6396107,Kevin Danaher,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6396107,Kevin Danaher,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q61827413,Anna Lange,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q61827413,Anna Lange,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q61827413,Anna Lange,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15975336,Hannah New,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15975336,Hannah New,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15975336,Hannah New,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q10826679,Anna Kulovaná,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q10826679,Anna Kulovaná,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q10826679,Anna Kulovaná,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6064483,Hasan Kaçan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6064483,Hasan Kaçan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6064483,Hasan Kaçan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26896792,Adam Penny,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26896792,Adam Penny,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26896792,Adam Penny,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11561434,Nana Seino,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11561434,Nana Seino,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11561434,Nana Seino,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6396432,Kevin Hanna,86,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6396432,Kevin Hanna,86,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6396432,Kevin Hanna,86,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679750,Adam Senn,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679750,Adam Senn,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679750,Adam Senn,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q36832147,Hanna Scheibe,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q36832147,Hanna Scheibe,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q36832147,Hanna Scheibe,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4766983,Anna Enger,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4766983,Anna Enger,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4766983,Anna Enger,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q18221849,Annina Euling,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q18221849,Annina Euling,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q18221849,Annina Euling,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q15821424,Johanna Moder,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q15821424,Johanna Moder,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q15821424,Johanna Moder,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q17425442,Anna Tenta,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q17425442,Anna Tenta,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q17425442,Anna Tenta,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1091886,Cihan Inan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1091886,Cihan Inan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1091886,Cihan Inan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6387437,Ken Cheeseman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6387437,Ken Cheeseman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6387437,Ken Cheeseman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4408218,Johanna Westman,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4408218,Johanna Westman,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4408218,Johanna Westman,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q22077460,Luke Adams,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q22077460,Luke Adams,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q22077460,Luke Adams,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q77912319,Annie Jean,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q77912319,Annie Jean,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q77912319,Annie Jean,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q560312,Anna Ewelina,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q560312,Anna Ewelina,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q560312,Anna Ewelina,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q242608,Kathleen Hanna,75,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q242608,Kathleen Hanna,75,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q242608,Kathleen Hanna,75,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q460665,Hannah Simone,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q460665,Hannah Simone,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q460665,Hannah Simone,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q20113547,Annika Brendl,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q20113547,Annika Brendl,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q20113547,Annika Brendl,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q16232660,Hannah John-Kamen,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q16232660,Hannah John-Kamen,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q16232660,Hannah John-Kamen,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11851574,Anna Heinämaa,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11851574,Anna Heinämaa,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11851574,Anna Heinämaa,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q46368708,Diana Khan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q46368708,Diana Khan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q46368708,Diana Khan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q65115481,Anna-Sue,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q65115481,Anna-Sue,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q65115481,Anna-Sue,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q41236670,Anna Frederiksen,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q41236670,Anna Frederiksen,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q41236670,Anna Frederiksen,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28042000,Kevin Hickman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28042000,Kevin Hickman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28042000,Kevin Hickman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q64692951,Hanna van Niekerk,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q64692951,Hanna van Niekerk,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q64692951,Hanna van Niekerk,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28216585,Hanna Henigin,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28216585,Hanna Henigin,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28216585,Hanna Henigin,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q86696382,Hanna Rode,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q86696382,Hanna Rode,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q86696382,Hanna Rode,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q47009386,Hannah Hoberman,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q47009386,Hannah Hoberman,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q47009386,Hannah Hoberman,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28967979,Hanna Slak,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28967979,Hanna Slak,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28967979,Hanna Slak,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4885258,Ben Bahan,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4885258,Ben Bahan,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4885258,Ben Bahan,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q85487840,Johanna Lind,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q85487840,Johanna Lind,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q85487840,Johanna Lind,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q93367749,Hannamaija Nikander,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q93367749,Hannamaija Nikander,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q93367749,Hannamaija Nikander,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27560621,Dafne Keen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27560621,Dafne Keen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27560621,Dafne Keen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27450312,Hannah Steele,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27450312,Hannah Steele,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27450312,Hannah Steele,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q42099156,Liz Hannah,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q42099156,Liz Hannah,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q42099156,Liz Hannah,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6389966,Kenneth Chan,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6389966,Kenneth Chan,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6389966,Kenneth Chan,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q62083820,Ann Evans,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q62083820,Ann Evans,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q62083820,Ann Evans,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q47507219,Anna Suk,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q47507219,Anna Suk,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q47507219,Anna Suk,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q420740,Akram Khan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q420740,Akram Khan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q420740,Akram Khan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q57521268,Anna König,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q57521268,Anna König,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q57521268,Anna König,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4244819,Anna Kuzina,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4244819,Anna Kuzina,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4244819,Anna Kuzina,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26880639,Johannes Kienast,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26880639,Johannes Kienast,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26880639,Johannes Kienast,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24704747,Anna Trokán,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24704747,Anna Trokán,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24704747,Anna Trokán,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q56487685,Anna Kersting,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q56487685,Anna Kersting,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q56487685,Anna Kersting,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q56604851,Hermann Vaske,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q56604851,Hermann Vaske,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q56604851,Hermann Vaske,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q529650,Anna Eriksson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q529650,Anna Eriksson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q529650,Anna Eriksson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q20069680,Ivanna Sakhno,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q20069680,Ivanna Sakhno,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q20069680,Ivanna Sakhno,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q28722345,Annamária Láng,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q28722345,Annamária Láng,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q28722345,Annamária Láng,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4679837,Adam Stein,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4679837,Adam Stein,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4679837,Adam Stein,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q29556473,Rene Hazekamp,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q29556473,Rene Hazekamp,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q29556473,Rene Hazekamp,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q43397002,Keean Johnson,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q43397002,Keean Johnson,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q43397002,Keean Johnson,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q50690197,Kevin Hageman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q50690197,Kevin Hageman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q50690197,Kevin Hageman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6390224,Kenneth Huang,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6390224,Kenneth Huang,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6390224,Kenneth Huang,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q65321197,Anna Ben,78,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q65321197,Anna Ben,78,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q65321197,Anna Ben,78,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q19959840,Anna Herrmann,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q19959840,Anna Herrmann,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q19959840,Anna Herrmann,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7929395,Vikas Khanna,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7929395,Vikas Khanna,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7929395,Vikas Khanna,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q76370510,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q76370510,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q76370510,Jørgen Hansen,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4767554,Anna Townsend,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4767554,Anna Townsend,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4767554,Anna Townsend,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q39252972,Kent Hansen,76,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q39252972,Kent Hansen,76,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q39252972,Kent Hansen,76,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2886435,Ken Harris,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2886435,Ken Harris,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2886435,Ken Harris,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2891201,Amos Kenan,60,Q4783193,Arab Israeli Dialogue,35
+Q611,Ken Hannam,Q471,Break Of Day,Q2891201,Amos Kenan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2891201,Amos Kenan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q76937212,Hanne Vang,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q76937212,Hanne Vang,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q76937212,Hanne Vang,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q18393305,Rakesh Khanna,70,Q12412884,5 Rifles,22
+Q611,Ken Hannam,Q471,Break Of Day,Q18393305,Rakesh Khanna,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q18393305,Rakesh Khanna,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q48734995,Sikandar Khanna,64,Q8072323,Zinda Dil,29
+Q611,Ken Hannam,Q471,Break Of Day,Q48734995,Sikandar Khanna,64,Q8072323,Zinda Dil,29
+Q611,Ken Hannam,Q483,Summerfield,Q48734995,Sikandar Khanna,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q6395313,Ketan Anand,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q6395313,Ketan Anand,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q6395313,Ketan Anand,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2851215,Anne Meson,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2851215,Anne Meson,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2851215,Anne Meson,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12319025,Jan Hansen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12319025,Jan Hansen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12319025,Jan Hansen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3051400,Ellen Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3051400,Ellen Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3051400,Ellen Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4530740,Anna Elbakyan,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4530740,Anna Elbakyan,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4530740,Anna Elbakyan,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q600384,Ken Ishikawa,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q600384,Ken Ishikawa,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q600384,Ken Ishikawa,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11486267,Chinfa Kan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11486267,Chinfa Kan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11486267,Chinfa Kan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4952360,Kirsten Hammann,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4952360,Kirsten Hammann,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4952360,Kirsten Hammann,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2771310,Hans Otten,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2771310,Hans Otten,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2771310,Hans Otten,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q33125557,Hannah,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q33125557,Hannah,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q33125557,Hannah,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q81531,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q81531,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q81531,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q14339533,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q14339533,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q14339533,Jeong Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q9620445,Anna Ng,71,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q9620445,Anna Ng,71,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q9620445,Anna Ng,71,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3812802,Kanpei Hazama,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3812802,Kanpei Hazama,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3812802,Kanpei Hazama,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q8937136,Ken Chang,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q8937136,Ken Chang,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q8937136,Ken Chang,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q51791501,Gautam Sen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q51791501,Gautam Sen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q51791501,Gautam Sen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5997567,Ilene Hamann,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5997567,Ilene Hamann,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5997567,Ilene Hamann,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q2823929,Adam Cohen,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q2823929,Adam Cohen,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q2823929,Adam Cohen,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5072215,Channa Perera,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5072215,Channa Perera,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5072215,Channa Perera,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4080554,Anna Begunova,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4080554,Anna Begunova,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4080554,Anna Begunova,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q11519423,Hana Kino,74,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q11519423,Hana Kino,74,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q11519423,Hana Kino,74,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7919522,Vena Annisa,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7919522,Vena Annisa,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7919522,Vena Annisa,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q712074,Ken Hung,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q712074,Ken Hung,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q712074,Ken Hung,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q20685296,Anna Rezan,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q20685296,Anna Rezan,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q20685296,Anna Rezan,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1143876,Kenjiro Hata,64,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1143876,Kenjiro Hata,64,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1143876,Kenjiro Hata,64,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q3544881,Kenji Anan,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q3544881,Kenji Anan,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q3544881,Kenji Anan,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q7283097,Ragini Khanna,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q7283097,Ragini Khanna,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q7283097,Ragini Khanna,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q1056274,Mikie Hara,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q1056274,Mikie Hara,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q1056274,Mikie Hara,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38053621,Anna Eborn,70,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38053621,Anna Eborn,70,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38053621,Anna Eborn,70,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q38053897,Johanna Stentorp,62,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q38053897,Johanna Stentorp,62,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q38053897,Johanna Stentorp,62,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4696344,Ahsan Khan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4696344,Ahsan Khan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4696344,Ahsan Khan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24705338,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24705338,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24705338,Kevin Dunn,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27056332,Hanna Heilborn,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27056332,Hanna Heilborn,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27056332,Hanna Heilborn,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27042090,James Chan,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27042090,James Chan,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27042090,James Chan,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27019762,Alam Khan,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27019762,Alam Khan,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27019762,Alam Khan,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26885023,Bob Hannam,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26885023,Bob Hannam,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26885023,Bob Hannam,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q24705553,Hannah Hughes,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q24705553,Hannah Hughes,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q24705553,Hannah Hughes,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q5271494,Diane Kern,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q5271494,Diane Kern,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q5271494,Diane Kern,60,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26829322,Jeff Hann,63,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26829322,Jeff Hann,63,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26829322,Jeff Hann,63,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26899808,Kevin Huffman,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26899808,Kevin Huffman,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26899808,Kevin Huffman,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q12835859,Anna Yan,67,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q12835859,Anna Yan,67,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q12835859,Anna Yan,67,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q4495402,Yelena Khanga,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q4495402,Yelena Khanga,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q4495402,Yelena Khanga,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q26109,Hannah Harper,61,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q26109,Hannah Harper,61,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q26109,Hannah Harper,61,,,0
+Q611,Ken Hannam,Q434,Sunday Too Far Away,Q27044334,Jens Hahne,60,,,0
+Q611,Ken Hannam,Q471,Break Of Day,Q27044334,Jens Hahne,60,,,0
+Q611,Ken Hannam,Q483,Summerfield,Q27044334,Jens Hahne,60,,,0

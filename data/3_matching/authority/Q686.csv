@@ -1,0 +1,892 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q686,Terry Bourke,Q443,Plugg,Q18086746,Peter Courtney,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q18086746,Peter Courtney,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q18086746,Peter Courtney,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7104078,Orrie Perry,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7104078,Orrie Perry,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7104078,Orrie Perry,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7169721,Perry Banks,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7169721,Perry Banks,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7169721,Perry Banks,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q446444,Alice Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q446444,Alice Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q446444,Alice Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q241966,Ellen Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q241966,Ellen Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q241966,Ellen Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1257500,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1257500,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1257500,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q504484,Peter Burke,78,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q504484,Peter Burke,78,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q504484,Peter Burke,78,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3900826,Peter Burke,78,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3900826,Peter Burke,78,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3900826,Peter Burke,78,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1787033,Tyler Brooke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1787033,Tyler Brooke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1787033,Tyler Brooke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q927985,Paul Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q927985,Paul Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q927985,Paul Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704934,Terry Ramsaye,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704934,Terry Ramsaye,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704934,Terry Ramsaye,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q959404,Eric Blore,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q959404,Eric Blore,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q959404,Eric Blore,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16067324,Harry Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16067324,Harry Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16067324,Harry Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3518918,Terry O. Morse,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3518918,Terry O. Morse,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3518918,Terry O. Morse,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q552063,Harry Baur,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q552063,Harry Baur,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q552063,Harry Baur,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q78505,Peter Lorre,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q78505,Peter Lorre,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q78505,Peter Lorre,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q583935,Terry Cox,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q583935,Terry Cox,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q583935,Terry Cox,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1363677,Ery Bos,63,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1363677,Ery Bos,63,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1363677,Ery Bos,63,,,0
+Q686,Terry Bourke,Q443,Plugg,Q925978,Kathleen Burke,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q925978,Kathleen Burke,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q925978,Kathleen Burke,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6130501,James Burke,61,Q3511835,"Brother, Can You Spare a Dime?",12
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6130501,James Burke,61,Q3511835,"Brother, Can You Spare a Dime?",31
+Q686,Terry Bourke,Q408,Night Of Fear,Q6130501,James Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q20082335,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q20082335,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q20082335,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q21475109,Perry Murdock,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21475109,Perry Murdock,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21475109,Perry Murdock,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q96292,Dieter Borsche,62,Q1197195,Der Strick um den Hals,15
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q96292,Dieter Borsche,62,Q1197195,Der Strick um den Hals,31
+Q686,Terry Bourke,Q408,Night Of Fear,Q96292,Dieter Borsche,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3127791,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3127791,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3127791,Harry Bowen,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3127801,Harry Clork,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3127801,Harry Clork,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3127801,Harry Clork,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3783492,Harry Cooke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3783492,Harry Cooke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3783492,Harry Cooke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1684676,Peter Bosse,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1684676,Peter Bosse,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1684676,Peter Bosse,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6388600,Ken Terrell,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6388600,Ken Terrell,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q6388600,Ken Terrell,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3982513,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3982513,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3982513,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q18631978,Don Terry,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q18631978,Don Terry,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q18631978,Don Terry,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2747263,Mary Borden,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2747263,Mary Borden,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2747263,Mary Borden,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q382198,Terry Kilburn,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q382198,Terry Kilburn,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q382198,Terry Kilburn,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q4405394,Peter Coke,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q4405394,Peter Coke,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q4405394,Peter Coke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2451304,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2451304,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2451304,Ted Osborne,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7383237,Ruth Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7383237,Ruth Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7383237,Ruth Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2439560,Tom Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2439560,Tom Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2439560,Tom Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16183637,Øistein Børke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16183637,Øistein Børke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16183637,Øistein Børke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3267767,Peter Moore,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3267767,Peter Moore,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3267767,Peter Moore,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3565697,Walter Brooke,64,Q4004241,jour,22
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3565697,Walter Brooke,64,Q4004241,Other Side of the Mountain,51
+Q686,Terry Bourke,Q408,Night Of Fear,Q3565697,Walter Brooke,64,Q1963035,One Little Indian,40
+Q686,Terry Bourke,Q443,Plugg,Q271865,Terry Moore,78,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q271865,Terry Moore,78,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q271865,Terry Moore,78,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3384203,Pierre Brousse,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3384203,Pierre Brousse,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3384203,Pierre Brousse,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3177454,Jerry Bresler,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3177454,Jerry Bresler,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3177454,Jerry Bresler,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704489,Terry Harknett,69,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704489,Terry Harknett,69,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704489,Terry Harknett,69,,,0
+Q686,Terry Bourke,Q443,Plugg,Q327711,Terry Moore,78,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q327711,Terry Moore,78,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q327711,Terry Moore,78,,,0
+Q686,Terry Bourke,Q443,Plugg,Q320336,Terry Frost,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q320336,Terry Frost,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q320336,Terry Frost,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7964422,Walter Burke,75,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7964422,Walter Burke,75,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7964422,Walter Burke,75,Q3220959,Cercle noir,42
+Q686,Terry Bourke,Q443,Plugg,Q21416468,Al Terry,60,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21416468,Al Terry,60,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21416468,Al Terry,60,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704118,Terry Bishop,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704118,Terry Bishop,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704118,Terry Bishop,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q19059397,Marie Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q19059397,Marie Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q19059397,Marie Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704413,Terry Frost,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704413,Terry Frost,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704413,Terry Frost,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q49760,Peter Brook,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q49760,Peter Brook,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q49760,Peter Brook,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1902635,Terry Moore,78,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1902635,Terry Moore,78,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1902635,Terry Moore,78,,,0
+Q686,Terry Bourke,Q443,Plugg,Q259151,Perry Lopez,61,Q644987,Chinatown,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q259151,Perry Lopez,61,Q644987,Barrio chino,34
+Q686,Terry Bourke,Q408,Night Of Fear,Q259151,Perry Lopez,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5388502,Erik Borge,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5388502,Erik Borge,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5388502,Erik Borge,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q219910,Pierre Boulle,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q219910,Pierre Boulle,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q219910,Pierre Boulle,64,Q469654,Battle for the Planet of the Apes,30
+Q686,Terry Bourke,Q443,Plugg,Q833768,Péter Bokor,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q833768,Péter Bokor,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q833768,Péter Bokor,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1380295,Terry Scott,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1380295,Terry Scott,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1380295,Terry Scott,61,Q449215,Carry On Matron,43
+Q686,Terry Bourke,Q443,Plugg,Q1294524,Eric Barker,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1294524,Eric Barker,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1294524,Eric Barker,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1683870,Peter Duke,64,Q18688465,Mordgedanken,12
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1683870,Peter Duke,64,Q18688465,Mordgedanken,34
+Q686,Terry Bourke,Q408,Night Of Fear,Q1683870,Peter Duke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3984808,Terry Dene,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3984808,Terry Dene,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3984808,Terry Dene,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1017087,Burt Topper,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1017087,Burt Topper,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1017087,Burt Topper,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q18613228,Terry Burnham,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q18613228,Terry Burnham,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q18613228,Terry Burnham,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2074139,Peter Brock,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2074139,Peter Brock,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2074139,Peter Brock,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q999332,Buck Henry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q999332,Buck Henry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q999332,Buck Henry,64,Q1125888,Day of the Dolphin,39
+Q686,Terry Bourke,Q443,Plugg,Q713240,Lionel Terray,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q713240,Lionel Terray,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q713240,Lionel Terray,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1281533,Peter Breck,61,Q2522722,Benji - Auf heißer Fährte,8
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1281533,Peter Breck,61,Q2522722,Benji - Auf heißer Fährte,42
+Q686,Terry Bourke,Q408,Night Of Fear,Q1281533,Peter Breck,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1289871,Terry Carter,67,Q2522722,Benji - Auf heißer Fährte,8
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1289871,Terry Carter,67,Q2522722,Benji - Auf heißer Fährte,42
+Q686,Terry Bourke,Q408,Night Of Fear,Q1289871,Terry Carter,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1350623,Frank Perry,61,Q3418783,Rancho Deluxe,22
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1350623,Frank Perry,61,Q16864705,Man on a Swing,39
+Q686,Terry Bourke,Q408,Night Of Fear,Q1350623,Frank Perry,61,Q7203041,Play It as It Lays,32
+Q686,Terry Bourke,Q443,Plugg,Q820883,Berkely Mather,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q820883,Berkely Mather,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q820883,Berkely Mather,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3733883,Gerry Bruno,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3733883,Gerry Bruno,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3733883,Gerry Bruno,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704856,Terry Norris,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704856,Terry Norris,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704856,Terry Norris,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q591270,Terry Southern,69,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q591270,Terry Southern,69,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q591270,Terry Southern,69,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1788511,Peter Böhlke,61,Q1493486,Magdalena – vom Teufel besessen,12
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1788511,Peter Böhlke,61,Q1493486,Magdalena – vom Teufel besessen,30
+Q686,Terry Bourke,Q408,Night Of Fear,Q1788511,Peter Böhlke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q100337,Peter Borgelt,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q100337,Peter Borgelt,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q100337,Peter Borgelt,64,Q1264127,Minuten zu spät,30
+Q686,Terry Bourke,Q443,Plugg,Q1804608,Peter Bause,61,Q1197717,Der Untergang der Emma,22
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1804608,Peter Bause,61,Q1197717,Der Untergang der Emma,36
+Q686,Terry Bourke,Q408,Night Of Fear,Q1804608,Peter Bause,61,Q1985112,"Don´t Cheat, Darling!",45
+Q686,Terry Bourke,Q443,Plugg,Q11724384,Jerzy Block,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q11724384,Jerzy Block,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q11724384,Jerzy Block,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q315123,Peter Boyle,61,Q651923,Young Frankenstein,17
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q315123,Peter Boyle,61,Q651923,O jovem Frankenstein,43
+Q686,Terry Bourke,Q408,Night Of Fear,Q315123,Peter Boyle,61,Q500672,Candidato,45
+Q686,Terry Bourke,Q443,Plugg,Q1549044,Terry Downes,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1549044,Terry Downes,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1549044,Terry Downes,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5581790,Peter Bonke,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5581790,Peter Bonke,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5581790,Peter Bonke,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q18530553,Patricia Burke,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q18530553,Patricia Burke,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q18530553,Patricia Burke,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704133,Terry Bourke,100,Q7205267,Plugg,100
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704133,Terry Bourke,100,Q6035127,Inn of the Damned,100
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704133,Terry Bourke,100,Q7033649,Night of Fear,100
+Q686,Terry Bourke,Q443,Plugg,Q730583,Nigel Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q730583,Nigel Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q730583,Nigel Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3984802,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3984802,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3984802,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q128541,Terry Kiser,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q128541,Terry Kiser,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q128541,Terry Kiser,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3426924,René Thierry,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3426924,René Thierry,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3426924,René Thierry,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q25997987,Eldon Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q25997987,Eldon Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q25997987,Eldon Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1038218,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1038218,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1038218,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3984848,Tery Hare,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3984848,Tery Hare,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3984848,Tery Hare,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524144,Thierry Bosc,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524144,Thierry Bosc,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524144,Thierry Bosc,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3479218,Serge Bourrier,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3479218,Serge Bourrier,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3479218,Serge Bourrier,62,Q3163507,"Je sais rien, mais je dirai tout",32
+Q686,Terry Bourke,Q443,Plugg,Q166159,Terry Jones,70,Q25043,Monty Python und der Heilige Gral,11
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q166159,Terry Jones,70,Q25043,Monty Python and the Holy Grail,50
+Q686,Terry Bourke,Q408,Night Of Fear,Q166159,Terry Jones,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5524761,Gary Brockette,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5524761,Gary Brockette,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5524761,Gary Brockette,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7175501,Peter Locke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7175501,Peter Locke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7175501,Peter Locke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3177473,Jerry Houser,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3177473,Jerry Houser,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3177473,Jerry Houser,67,Q5128023,Class of '44,33
+Q686,Terry Bourke,Q443,Plugg,Q3524441,Thierry Murzeau,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524441,Thierry Murzeau,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524441,Thierry Murzeau,67,Q3163529,I Am Frigid... Why?,36
+Q686,Terry Bourke,Q443,Plugg,Q2468051,Steve O'Rourke,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2468051,Steve O'Rourke,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2468051,Steve O'Rourke,62,Q169558,Pink Floyd: Pompeii Konseri,36
+Q686,Terry Bourke,Q443,Plugg,Q217037,Jerry Bruckheimer,62,Q1392256,Adiós muñeca,13
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q217037,Jerry Bruckheimer,62,Q7282550,Rafferty and the Gold Dust Twins,45
+Q686,Terry Bourke,Q408,Night Of Fear,Q217037,Jerry Bruckheimer,62,Q12110972,Culpepper Cattle Co.,25
+Q686,Terry Bourke,Q443,Plugg,Q832875,Teréz Bod,60,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q832875,Teréz Bod,60,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q832875,Teréz Bod,60,Q54265434,A palacsintás király,32
+Q686,Terry Bourke,Q443,Plugg,Q692632,Terry Kath,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q692632,Terry Kath,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q692632,Terry Kath,64,Q1763806,Electra Glide in Blue,29
+Q686,Terry Bourke,Q443,Plugg,Q11998605,Runar Borge,61,Q5005228,Bør Børson jr.,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q11998605,Runar Borge,61,Q5005228,Bør Børson jr.,21
+Q686,Terry Bourke,Q408,Night Of Fear,Q11998605,Runar Borge,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3518884,Terry Becker,75,Q92987015,The Thirsty Dead,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3518884,Terry Becker,75,Q92987015,The Thirsty Dead,42
+Q686,Terry Bourke,Q408,Night Of Fear,Q3518884,Terry Becker,75,,,0
+Q686,Terry Bourke,Q443,Plugg,Q465673,Martyn Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q465673,Martyn Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q465673,Martyn Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q19758016,Günter Bothur,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q19758016,Günter Bothur,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q19758016,Günter Bothur,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2184219,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2184219,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2184219,Terry McGovern,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q35980021,Merete Borker,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q35980021,Merete Borker,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q35980021,Merete Borker,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q152451,Jerry Brown,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q152451,Jerry Brown,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q152451,Jerry Brown,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q633263,Terry Bradshaw,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q633263,Terry Bradshaw,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q633263,Terry Bradshaw,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q18684861,Larry Bock,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q18684861,Larry Bock,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q18684861,Larry Bock,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q470019,Terry Funk,73,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q470019,Terry Funk,73,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q470019,Terry Funk,73,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1288128,Berry Berenson,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1288128,Berry Berenson,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1288128,Berry Berenson,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7703254,Terrance Bowen,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7703254,Terrance Bowen,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7703254,Terrance Bowen,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q15456104,Terry Marcel,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q15456104,Terry Marcel,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q15456104,Terry Marcel,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524489,Thierry Redler,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524489,Thierry Redler,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524489,Thierry Redler,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q63213871,Peter Brett,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q63213871,Peter Brett,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q63213871,Peter Brett,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7495390,Sherry Boucher,69,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7495390,Sherry Boucher,69,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7495390,Sherry Boucher,69,,,0
+Q686,Terry Bourke,Q443,Plugg,Q218031,Terry Bozzio,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q218031,Terry Bozzio,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q218031,Terry Bozzio,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q15631843,Peter Bourke,83,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q15631843,Peter Bourke,83,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q15631843,Peter Bourke,83,,,0
+Q686,Terry Bourke,Q443,Plugg,Q381791,John Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q381791,John Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q381791,John Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2074083,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2074083,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2074083,Peter Boyle,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q271637,Terry O'Quinn,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q271637,Terry O'Quinn,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q271637,Terry O'Quinn,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524389,Thierry Liagre,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524389,Thierry Liagre,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524389,Thierry Liagre,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q437121,Terry Hayes,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q437121,Terry Hayes,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q437121,Terry Hayes,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q458974,Larry Drake,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q458974,Larry Drake,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q458974,Larry Drake,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6489967,Larry Block,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6489967,Larry Block,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q6489967,Larry Block,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q83456,John Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q83456,John Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q83456,John Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q258612,Terry Farrell,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q258612,Terry Farrell,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q258612,Terry Farrell,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q28465928,Dorys Perry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q28465928,Dorys Perry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q28465928,Dorys Perry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1837313,Terry Hughes,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1837313,Terry Hughes,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1837313,Terry Hughes,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1565628,Jerry Butler,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1565628,Jerry Butler,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1565628,Jerry Butler,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1426926,Péter Bocsor,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1426926,Péter Bocsor,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1426926,Péter Bocsor,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q781878,Sonny Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q781878,Sonny Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q781878,Sonny Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1190150,Terry Kinney,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1190150,Terry Kinney,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1190150,Terry Kinney,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q471518,Thierry Sabine,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q471518,Thierry Sabine,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q471518,Thierry Sabine,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q444306,Kathy Burke,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q444306,Kathy Burke,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q444306,Kathy Burke,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q932665,Thierry Noir,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q932665,Thierry Noir,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q932665,Thierry Noir,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q23781174,Terry Leonard,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q23781174,Terry Leonard,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q23781174,Terry Leonard,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q292453,Delta Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q292453,Delta Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q292453,Delta Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q296810,Joe Perry,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q296810,Joe Perry,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q296810,Joe Perry,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q12331602,Peter Jorde,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q12331602,Peter Jorde,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q12331602,Peter Jorde,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5582406,Peter Borg,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5582406,Peter Borg,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5582406,Peter Borg,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524377,Thierry Le Portier,60,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524377,Thierry Le Portier,60,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524377,Thierry Le Portier,60,,,0
+Q686,Terry Bourke,Q443,Plugg,Q982840,Gerry Becker,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q982840,Gerry Becker,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q982840,Gerry Becker,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3320933,Monique Thierry,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3320933,Monique Thierry,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3320933,Monique Thierry,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q374754,Carter Burwell,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q374754,Carter Burwell,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q374754,Carter Burwell,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q318165,Luke Perry,73,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q318165,Luke Perry,73,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q318165,Luke Perry,73,,,0
+Q686,Terry Bourke,Q443,Plugg,Q518227,Thierry Rey,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q518227,Thierry Rey,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q518227,Thierry Rey,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q429188,Thierry Fortineau,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q429188,Thierry Fortineau,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q429188,Thierry Fortineau,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6212700,Joe Torry,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6212700,Joe Torry,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q6212700,Joe Torry,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q435773,Terry Markwell,69,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q435773,Terry Markwell,69,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q435773,Terry Markwell,69,,,0
+Q686,Terry Bourke,Q443,Plugg,Q22986577,Perry Cook,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q22986577,Perry Cook,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q22986577,Perry Cook,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q600240,Chris Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q600240,Chris Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q600240,Chris Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q44414,Trey Parker,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q44414,Trey Parker,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q44414,Trey Parker,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1016897,Burr Steers,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1016897,Burr Steers,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1016897,Burr Steers,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q25879057,Larry Bock,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q25879057,Larry Bock,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q25879057,Larry Bock,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q17113869,Børre Werner,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q17113869,Børre Werner,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q17113869,Børre Werner,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1392079,Terry George,75,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1392079,Terry George,75,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1392079,Terry George,75,,,0
+Q686,Terry Bourke,Q443,Plugg,Q653918,Jerry Doyle,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q653918,Jerry Doyle,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q653918,Jerry Doyle,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q22231017,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q22231017,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q22231017,Terry Chambers,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q22665449,W. Benson Terry,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q22665449,W. Benson Terry,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q22665449,W. Benson Terry,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3384166,Pierre Boutron,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3384166,Pierre Boutron,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3384166,Pierre Boutron,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704835,Terry Murphy,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704835,Terry Murphy,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704835,Terry Murphy,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q23883371,Gerry Bean,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q23883371,Gerry Bean,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q23883371,Gerry Bean,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2911040,Boris Terral,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2911040,Boris Terral,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2911040,Boris Terral,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q242206,Bree Turner,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q242206,Bree Turner,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q242206,Bree Turner,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q89661104,Edward Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q89661104,Edward Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q89661104,Edward Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3372264,Paul Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3372264,Paul Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3372264,Paul Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7153960,Paul Terry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7153960,Paul Terry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7153960,Paul Terry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2452454,Peter Blok,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2452454,Peter Blok,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2452454,Peter Blok,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q969855,James Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q969855,James Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q969855,James Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3376483,Peter Burns,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3376483,Peter Burns,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3376483,Peter Burns,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7172856,Peter Block,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7172856,Peter Block,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7172856,Peter Block,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5590149,Per Burell,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5590149,Per Burell,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5590149,Per Burell,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42308098,Eric Breker,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42308098,Eric Breker,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42308098,Eric Breker,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q21517534,Terry Claybon,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21517534,Terry Claybon,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21517534,Terry Claybon,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2405672,Terry Loughlin,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2405672,Terry Loughlin,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2405672,Terry Loughlin,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1292432,Terry Carr,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1292432,Terry Carr,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1292432,Terry Carr,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42313889,Terry Doyle,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42313889,Terry Doyle,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42313889,Terry Doyle,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5337151,Edgar Burcksen,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5337151,Edgar Burcksen,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5337151,Edgar Burcksen,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q271464,Terry Crews,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q271464,Terry Crews,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q271464,Terry Crews,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2405582,Terry Chen,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2405582,Terry Chen,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2405582,Terry Chen,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7172903,Peter Bowker,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7172903,Peter Bowker,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7172903,Peter Bowker,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q17430537,Bora Tekay,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q17430537,Bora Tekay,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q17430537,Bora Tekay,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q216179,Bryan Ferry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q216179,Bryan Ferry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q216179,Bryan Ferry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q590907,Terry Bozeman,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q590907,Terry Bozeman,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q590907,Terry Bozeman,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1139242,JR Bourne,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1139242,JR Bourne,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1139242,JR Bourne,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q248179,Ty Burrell,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q248179,Ty Burrell,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q248179,Ty Burrell,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24301171,Ray Bokhour,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24301171,Ray Bokhour,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24301171,Ray Bokhour,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7383928,Ryan Butler,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7383928,Ryan Butler,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7383928,Ryan Butler,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q704955,Clem Burke,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q704955,Clem Burke,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q704955,Clem Burke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2513255,Vera Borek,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2513255,Vera Borek,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2513255,Vera Borek,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704455,Terry Gould,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704455,Terry Gould,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704455,Terry Gould,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7703824,Terron Brooks,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7703824,Terron Brooks,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7703824,Terron Brooks,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24238831,Thierry René,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24238831,Thierry René,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24238831,Thierry René,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3376735,Peter Lurie,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3376735,Peter Lurie,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3376735,Peter Lurie,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7839617,Trey Stokes,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7839617,Trey Stokes,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7839617,Trey Stokes,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q25288776,Terry Blythe,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q25288776,Terry Blythe,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q25288776,Terry Blythe,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q51464823,Terrance Houle,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q51464823,Terrance Houle,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q51464823,Terrance Houle,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q89889638,Perry Brown,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q89889638,Perry Brown,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q89889638,Perry Brown,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16733827,Oren Waters,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16733827,Oren Waters,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16733827,Oren Waters,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3518930,Terry Shane,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3518930,Terry Shane,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3518930,Terry Shane,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3518907,Terry Klassen,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3518907,Terry Klassen,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3518907,Terry Klassen,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q28837260,Terry Benedict,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q28837260,Terry Benedict,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q28837260,Terry Benedict,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7342507,Robert Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7342507,Robert Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7342507,Robert Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q269569,Pierre Bouvier,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q269569,Pierre Bouvier,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q269569,Pierre Bouvier,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3375623,Perry Blake,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3375623,Perry Blake,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3375623,Perry Blake,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42433090,Brien Perry,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42433090,Brien Perry,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42433090,Brien Perry,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3294203,Mark Perry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3294203,Mark Perry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3294203,Mark Perry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704911,Terry Pheto,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704911,Terry Pheto,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704911,Terry Pheto,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7705049,Terry Stone,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7705049,Terry Stone,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7705049,Terry Stone,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1135767,Cory Booker,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1135767,Cory Booker,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1135767,Cory Booker,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q233506,Sarah Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q233506,Sarah Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q233506,Sarah Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2004305,Terry Norris,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2004305,Terry Norris,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2004305,Terry Norris,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q22583574,Terry Gould,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q22583574,Terry Gould,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q22583574,Terry Gould,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24007578,Terry Green,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24007578,Terry Green,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24007578,Terry Green,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1147551,Troy Baker,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1147551,Troy Baker,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1147551,Troy Baker,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q20728907,Jerry Coyle,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q20728907,Jerry Coyle,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q20728907,Jerry Coyle,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1644984,Thierry Bruehl,69,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1644984,Thierry Bruehl,69,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1644984,Thierry Bruehl,69,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42296165,Omer Oke,60,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42296165,Omer Oke,60,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42296165,Omer Oke,60,,,0
+Q686,Terry Bourke,Q443,Plugg,Q25674322,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q25674322,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q25674322,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3508016,Troy Kotsur,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3508016,Troy Kotsur,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3508016,Troy Kotsur,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7173061,Peter Burger,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7173061,Peter Burger,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7173061,Peter Burger,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7925766,Victor Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7925766,Victor Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7925766,Victor Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6183312,Jerry Broome,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6183312,Jerry Broome,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q6183312,Jerry Broome,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q6766626,Mark B. Perry,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q6766626,Mark B. Perry,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q6766626,Mark B. Perry,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524285,Thierry Godard,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524285,Thierry Godard,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524285,Thierry Godard,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q543836,Pierre Bordage,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q543836,Pierre Bordage,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q543836,Pierre Bordage,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q974689,Perry Moore,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q974689,Perry Moore,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q974689,Perry Moore,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2821507,Abel Ferry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2821507,Abel Ferry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2821507,Abel Ferry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q12058697,Tereza Boučková,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q12058697,Tereza Boučková,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q12058697,Tereza Boučková,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q55721667,Stephen Burke,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q55721667,Stephen Burke,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q55721667,Stephen Burke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5262979,Derrick Borte,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5262979,Derrick Borte,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5262979,Derrick Borte,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q4961373,Brent Emery,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q4961373,Brent Emery,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q4961373,Brent Emery,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q15880629,Peter Bouckaert,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q15880629,Peter Bouckaert,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q15880629,Peter Bouckaert,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q21064722,Eric Bouwer,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21064722,Eric Bouwer,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21064722,Eric Bouwer,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3134425,Hervé Bourges,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3134425,Hervé Bourges,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3134425,Hervé Bourges,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42663704,Terry Jones,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42663704,Terry Jones,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42663704,Terry Jones,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q1329546,Elinor Burkett,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q1329546,Elinor Burkett,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q1329546,Elinor Burkett,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524296,Thierry Guerrier,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524296,Thierry Guerrier,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524296,Thierry Guerrier,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q42663016,Eva Bourne,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q42663016,Eva Bourne,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q42663016,Eva Bourne,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q346801,Peter Buck,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q346801,Peter Buck,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q346801,Peter Buck,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q22344627,Peter Bose,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q22344627,Peter Bose,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q22344627,Peter Bose,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q2334077,Thierry Jonquet,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q2334077,Thierry Jonquet,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q2334077,Thierry Jonquet,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704857,Terry Notary,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704857,Terry Notary,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704857,Terry Notary,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3386367,Pierre Moure,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3386367,Pierre Moure,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3386367,Pierre Moure,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7704802,Terry Miles,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7704802,Terry Miles,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7704802,Terry Miles,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q12033383,Libor Terš,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q12033383,Libor Terš,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q12033383,Libor Terš,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16727604,Sue Bourne,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16727604,Sue Bourne,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16727604,Sue Bourne,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q9779285,Thierry Faber,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q9779285,Thierry Faber,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q9779285,Thierry Faber,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3293099,Marilyse Bourke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3293099,Marilyse Bourke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3293099,Marilyse Bourke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q8498824,Luke Newberry,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q8498824,Luke Newberry,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q8498824,Luke Newberry,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3675737,Christie Burke,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3675737,Christie Burke,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3675737,Christie Burke,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3546031,Tyler Moore,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3546031,Tyler Moore,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3546031,Tyler Moore,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3644222,Bren Foster,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3644222,Bren Foster,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3644222,Bren Foster,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q65116695,Thierry Lenouvel,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q65116695,Thierry Lenouvel,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q65116695,Thierry Lenouvel,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q4099308,Yury Burak,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q4099308,Yury Burak,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q4099308,Yury Burak,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24563108,Brooke Butler,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24563108,Brooke Butler,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24563108,Brooke Butler,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q65116693,Thierry Baudrais,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q65116693,Thierry Baudrais,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q65116693,Thierry Baudrais,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524206,Thierry Debroux,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524206,Thierry Debroux,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524206,Thierry Debroux,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q20202280,Terry Lewis,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q20202280,Terry Lewis,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q20202280,Terry Lewis,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q63690455,Larry Bukovey,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q63690455,Larry Bukovey,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q63690455,Larry Bukovey,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q62964238,Terry Butler,75,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q62964238,Terry Butler,75,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q62964238,Terry Butler,75,,,0
+Q686,Terry Bourke,Q443,Plugg,Q7964340,Walter Borden,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q7964340,Walter Borden,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q7964340,Walter Borden,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q21281976,Peter Brooke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21281976,Peter Brooke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21281976,Peter Brooke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q66120974,Terence O'Rourke,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q66120974,Terence O'Rourke,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q66120974,Terence O'Rourke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5606828,Gregory Burke,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5606828,Gregory Burke,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5606828,Gregory Burke,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q17612387,Henry Goren,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q17612387,Henry Goren,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q17612387,Henry Goren,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q11293100,Owen Burke,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q11293100,Owen Burke,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q11293100,Owen Burke,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q29048762,Petr Bok,60,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q29048762,Petr Bok,60,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q29048762,Petr Bok,60,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3376914,Peter Terry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3376914,Peter Terry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3376914,Peter Terry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q5525083,Gary Forrester,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q5525083,Gary Forrester,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q5525083,Gary Forrester,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q26859048,Peter Odeke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q26859048,Peter Odeke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q26859048,Peter Odeke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q65136715,Thierry Bouffard,71,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q65136715,Thierry Bouffard,71,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q65136715,Thierry Bouffard,71,,,0
+Q686,Terry Bourke,Q443,Plugg,Q4978120,Bruce Parry,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q4978120,Bruce Parry,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q4978120,Bruce Parry,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q21940860,Thierry Lounas,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q21940860,Thierry Lounas,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q21940860,Thierry Lounas,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24705764,Brett Story,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24705764,Brett Story,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24705764,Brett Story,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q61949079,Scooter Corkle,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q61949079,Scooter Corkle,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q61949079,Scooter Corkle,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q893706,Boris Kreuter,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q893706,Boris Kreuter,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q893706,Boris Kreuter,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16195429,Roy Boulter,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16195429,Roy Boulter,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16195429,Roy Boulter,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q65116696,Thierry Loa,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q65116696,Thierry Loa,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q65116696,Thierry Loa,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q16032822,Tom Burke,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q16032822,Tom Burke,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q16032822,Tom Burke,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3384550,Pierre Cour,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3384550,Pierre Cour,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3384550,Pierre Cour,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q47330668,Peter Burns,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q47330668,Peter Burns,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q47330668,Peter Burns,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q24940569,Norbert Terry,72,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q24940569,Norbert Terry,72,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q24940569,Norbert Terry,72,,,0
+Q686,Terry Bourke,Q443,Plugg,Q12331484,Peter Bonde,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q12331484,Peter Bonde,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q12331484,Peter Bonde,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q8965713,Terry Hu,70,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q8965713,Terry Hu,70,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q8965713,Terry Hu,70,,,0
+Q686,Terry Bourke,Q443,Plugg,Q15069997,Thierry Boscheron,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q15069997,Thierry Boscheron,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q15069997,Thierry Boscheron,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q156268,Pierre Bourdieu,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q156268,Pierre Bourdieu,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q156268,Pierre Bourdieu,67,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3375635,Perry Ogden,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3375635,Perry Ogden,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3375635,Perry Ogden,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q11724408,Jerzy Bożyk,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q11724408,Jerzy Bożyk,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q11724408,Jerzy Bożyk,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q38053640,Peter Bækkel,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q38053640,Peter Bækkel,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q38053640,Peter Bækkel,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3518885,Terry Bouhraoua,74,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3518885,Terry Bouhraoua,74,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3518885,Terry Bouhraoua,74,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3524304,Thierry Harcourt,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3524304,Thierry Harcourt,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3524304,Thierry Harcourt,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q3384549,Pierre Courrège,62,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q3384549,Pierre Courrège,62,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q3384549,Pierre Courrège,62,,,0
+Q686,Terry Bourke,Q443,Plugg,Q26898571,Heidi Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q26898571,Heidi Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q26898571,Heidi Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q27055207,Ty Burnett,64,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q27055207,Ty Burnett,64,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q27055207,Ty Burnett,64,,,0
+Q686,Terry Bourke,Q443,Plugg,Q27037991,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q27037991,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q27037991,Kevin Burke,61,,,0
+Q686,Terry Bourke,Q443,Plugg,Q26822477,Luke Terrell,67,,,0
+Q686,Terry Bourke,Q448,Inn Of The Damned,Q26822477,Luke Terrell,67,,,0
+Q686,Terry Bourke,Q408,Night Of Fear,Q26822477,Luke Terrell,67,,,0

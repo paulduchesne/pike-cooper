@@ -1,0 +1,561 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q1333056,Elmo Lincoln,70,Q21512239,The Children of the Feud,49
+Q696,W. J. Lincoln,Q128,La Revanche,Q1333056,Elmo Lincoln,70,Q192206,Intolerance,55
+Q696,W. J. Lincoln,Q73,Breaking The News,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q1333056,Elmo Lincoln,70,Q3554955,The Battle at Elderbush Gulch,38
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q1333056,Elmo Lincoln,70,Q3554955,The Battle at Elderbush Gulch,36
+Q696,W. J. Lincoln,Q101,Moondyne,Q1333056,Elmo Lincoln,70,Q3554955,Battle at Elderbush Gulch,12
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q1333056,Elmo Lincoln,70,Q3554955,The Battle at Elderbush Gulch,38
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q1333056,Elmo Lincoln,70,Q220394,The Clansman,42
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q1333056,Elmo Lincoln,70,Q3554955,The Battle at Elderbush Gulch,34
+Q696,W. J. Lincoln,Q103,Transported,Q1333056,Elmo Lincoln,70,Q3554955,Battle at Elderbush Gulch,28
+Q696,W. J. Lincoln,Q107,The Wreck,Q1333056,Elmo Lincoln,70,Q3554955,Battle at Elderbush Gulch,29
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q1333056,Elmo Lincoln,70,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q1333056,Elmo Lincoln,70,Q3554955,The Battle at Elderbush Gulch,31
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q3564549,W. J. Lincoln,100,Q7335543,Rip Van Winkle,100
+Q696,W. J. Lincoln,Q51,The Bells,Q3564549,W. J. Lincoln,100,Q7716442,The Bells,100
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q3564549,W. J. Lincoln,100,Q7747107,The Life's Romance of Adam Lindsay Gordon,100
+Q696,W. J. Lincoln,Q128,La Revanche,Q3564549,W. J. Lincoln,100,Q15039606,La Revanche,100
+Q696,W. J. Lincoln,Q73,Breaking The News,Q3564549,W. J. Lincoln,100,Q15039589,Breaking the News,100
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q3564549,W. J. Lincoln,100,Q7764090,The Sick Stockrider,100
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q3564549,W. J. Lincoln,100,Q7761145,The Road to Ruin,100
+Q696,W. J. Lincoln,Q101,Moondyne,Q3564549,W. J. Lincoln,100,Q6907722,Moondyne,100
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q3564549,W. J. Lincoln,100,Q7760148,The Remittance Man,100
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q3564549,W. J. Lincoln,100,Q7070190,Nurse Cavell,100
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q3564549,W. J. Lincoln,100,Q7748580,The Lost Chord,100
+Q696,W. J. Lincoln,Q24,Called Back,Q3564549,W. J. Lincoln,100,Q5021873,Called Back,100
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q3564549,W. J. Lincoln,100,Q6091844,It Is Never Too Late to Mend,100
+Q696,W. J. Lincoln,Q105,The Reprieve,Q3564549,W. J. Lincoln,100,Q7760227,The Reprieve,100
+Q696,W. J. Lincoln,Q103,Transported,Q3564549,W. J. Lincoln,100,Q7835300,Transported,100
+Q696,W. J. Lincoln,Q107,The Wreck,Q3564549,W. J. Lincoln,100,Q7776268,The Wreck,100
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q3564549,W. J. Lincoln,100,Q15039597,The Luck of Roaring Camp,100
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q3564549,W. J. Lincoln,100,Q7748580,The Lost Chord,49
+Q696,W. J. Lincoln,Q54,The Double Event,Q3564549,W. J. Lincoln,100,Q7730734,The Double Event,100
+Q696,W. J. Lincoln,Q106,The Crisis,Q3564549,W. J. Lincoln,100,Q7728109,The Crisis,100
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q18276810,E.K. Lincoln,73,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,20
+Q696,W. J. Lincoln,Q51,The Bells,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,64
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q15117330,John W. Noble,61,Q7715075,The Awakening of Helena Richie,54
+Q696,W. J. Lincoln,Q128,La Revanche,Q15117330,John W. Noble,61,Q15121937,The High Road,42
+Q696,W. J. Lincoln,Q73,Breaking The News,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,48
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q15117330,John W. Noble,61,Q4658247,Million A Minute,50
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,33
+Q696,W. J. Lincoln,Q24,Called Back,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,44
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,23
+Q696,W. J. Lincoln,Q105,The Reprieve,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,40
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,42
+Q696,W. J. Lincoln,Q54,The Double Event,Q15117330,John W. Noble,61,Q59725845,The Baseball Bug,44
+Q696,W. J. Lincoln,Q106,The Crisis,Q15117330,John W. Noble,61,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q3832582,Lincoln Stedman,62,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q6281896,Joseph C. Lincoln,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q5047688,Caryl Lincoln,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q1108528,Colin Low,60,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q231071,Abbey Lincoln,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q951110,Henry Lincoln,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q5495565,Fred J. Lincoln,72,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q6244847,John Lincoln,78,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q16018501,Lincoln Maazel,64,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q3217806,Lar Park Lincoln,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q19289210,Lincoln Tate,70,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q296843,Andrew Lincoln,64,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q793895,Lincoln Child,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q22581772,Jim Lincoln,82,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q42889339,Lincoln Hoppe,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q1394456,Lincoln Lewis,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q40523502,Julia W. Olsen,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q72979858,Todd Lincoln,70,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q42411364,Lincoln Melcher,62,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q6551180,Lincoln Williams,67,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q5217942,Daniel Lincoln,64,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q21063029,John Linson,64,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q3156774,J.T. Sloan,60,,,0
+Q696,W. J. Lincoln,Q78,Rip Van Winkle,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q51,The Bells,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q136,The Life's Romance Of Adam Lindsay Gordon,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q128,La Revanche,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q73,Breaking The News,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q100,The Sick Stockrider,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q104,The Road To Ruin,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q101,Moondyne,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q102,The Remittance Man,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q126,Nurse Cavell,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q30,The Lost Chord,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q24,Called Back,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q12,It Is Never Too Late To Mend,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q105,The Reprieve,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q103,Transported,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q107,The Wreck,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q19,The Luck Of Roaring Camp,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q16,The Mystery Of A Hansom Cab,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q54,The Double Event,Q27807440,Abraham Lincoln,62,,,0
+Q696,W. J. Lincoln,Q106,The Crisis,Q27807440,Abraham Lincoln,62,,,0

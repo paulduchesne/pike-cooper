@@ -1,0 +1,301 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q56476643,Paulette Lorsy,65,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q56476643,Paulette Lorsy,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q56476643,Paulette Lorsy,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q56476643,Paulette Lorsy,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7154850,Paulette Duval,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7154850,Paulette Duval,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7154850,Paulette Duval,71,Q654086,The Divine Woman,44
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7154850,Paulette Duval,71,Q1123076,The Lady,45
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3189748,Juliette Compton,61,Q7989810,Westward Passage,34
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3189748,Juliette Compton,61,Q1799948,Ladies of Leisure,34
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3189748,Juliette Compton,61,Q7733155,The Fake,58
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3189748,Juliette Compton,61,Q7722554,The Chinese Bungalow,47
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7154855,Paulette McDonagh,100,Q7859110,Two Minutes Silence,100
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7154855,Paulette McDonagh,100,Q7722268,The Cheaters,100
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7154855,Paulette McDonagh,100,Q7733414,The Far Paradise,100
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7154855,Paulette McDonagh,100,Q7796876,Those Who Love,100
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3045703,Paul Cavanagh,67,Q3795374,Pugnale cinese,42
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3045703,Paul Cavanagh,67,Q15882802,The Storm,57
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3045703,Paul Cavanagh,67,Q7859055,Two Little Drummer Boys,31
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3045703,Paul Cavanagh,67,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q95050,Paulette Goddard,67,Q266656,The Kid from Spain,43
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q95050,Paulette Goddard,67,Q3016847,Nachtquartier,48
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q95050,Paulette Goddard,67,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q95050,Paulette Goddard,67,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q235429,Paulette Dubost,69,Q3548707,Uomo senza nome,47
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q235429,Paulette Dubost,69,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q235429,Paulette Dubost,69,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q235429,Paulette Dubost,69,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q4945483,Paulette Duvernet,65,Q3548707,Uomo senza nome,47
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q4945483,Paulette Duvernet,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q4945483,Paulette Duvernet,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q4945483,Paulette Duvernet,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7152328,Paul McCullough,62,Q1373704,Scratch-As-Catch-Can,31
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7152328,Paul McCullough,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7152328,Paul McCullough,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7152328,Paul McCullough,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7188599,Phyllis McDonagh,67,Q7859110,Two Minutes Silence,100
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7188599,Phyllis McDonagh,67,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7188599,Phyllis McDonagh,67,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7188599,Phyllis McDonagh,67,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372646,Paulette Noizeux,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372646,Paulette Noizeux,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372646,Paulette Noizeux,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372646,Paulette Noizeux,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372633,Paulette Dynalix,73,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372633,Paulette Dynalix,73,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372633,Paulette Dynalix,73,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372633,Paulette Dynalix,73,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2061223,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2061223,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2061223,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2061223,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q1241769,Donna Lee,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q1241769,Donna Lee,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q1241769,Donna Lee,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q1241769,Donna Lee,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3288244,Marc Maurette,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3288244,Marc Maurette,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3288244,Marc Maurette,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3288244,Marc Maurette,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q156485,Juliette Gréco,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q156485,Juliette Gréco,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q156485,Juliette Gréco,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q156485,Juliette Gréco,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372636,Paulette Frantz,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372636,Paulette Frantz,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372636,Paulette Frantz,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372636,Paulette Frantz,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q5293286,Don Patterson,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q5293286,Don Patterson,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q5293286,Don Patterson,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q5293286,Don Patterson,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2061350,Paul Monash,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2061350,Paul Monash,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2061350,Paul Monash,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2061350,Paul Monash,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q16494255,Paulette Christian,63,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q16494255,Paulette Christian,63,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q16494255,Paulette Christian,63,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q16494255,Paulette Christian,63,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372639,Paulette Merval,69,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372639,Paulette Merval,69,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372639,Paulette Merval,69,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372639,Paulette Merval,69,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q380200,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q380200,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q380200,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q380200,Paul McGrath,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3370884,Paul Claudon,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3370884,Paul Claudon,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3370884,Paul Claudon,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3370884,Paul Claudon,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q461097,Joanna Pettet,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q461097,Joanna Pettet,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q461097,Joanna Pettet,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q461097,Joanna Pettet,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2194769,Nicola Pagett,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2194769,Nicola Pagett,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2194769,Nicola Pagett,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2194769,Nicola Pagett,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3876496,Nicolina Papetti,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3876496,Nicolina Papetti,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3876496,Nicolina Papetti,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3876496,Nicolina Papetti,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2074570,Peter Donat,64,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2074570,Peter Donat,64,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2074570,Peter Donat,64,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2074570,Peter Donat,64,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3311033,Michel Valette,65,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3311033,Michel Valette,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3311033,Michel Valette,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3311033,Michel Valette,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7175772,Peter McDougall,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7175772,Peter McDougall,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7175772,Peter McDougall,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7175772,Peter McDougall,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q933856,Peter MacDonald,69,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q933856,Peter MacDonald,69,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q933856,Peter MacDonald,69,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q933856,Peter MacDonald,69,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q36476977,Don Hulette,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q36476977,Don Hulette,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q36476977,Don Hulette,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q36476977,Don Hulette,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q521262,Donald Petrie,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q521262,Donald Petrie,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q521262,Donald Petrie,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q521262,Donald Petrie,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q983530,Don Letts,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q983530,Don Letts,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q983530,Don Letts,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q983530,Don Letts,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2977916,Claude Paquette,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2977916,Claude Paquette,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2977916,Claude Paquette,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2977916,Claude Paquette,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372626,Paulette Bouvet,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372626,Paulette Bouvet,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372626,Paulette Bouvet,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372626,Paulette Bouvet,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3371080,Paul Dion,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3371080,Paul Dion,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3371080,Paul Dion,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3371080,Paul Dion,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3371098,Paul Donovan,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3371098,Paul Donovan,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3371098,Paul Donovan,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3371098,Paul Donovan,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q16732283,Phil McDonald,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q16732283,Phil McDonald,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q16732283,Phil McDonald,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q16732283,Phil McDonald,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q1493719,Irma St. Paule,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q1493719,Irma St. Paule,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q1493719,Irma St. Paule,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q1493719,Irma St. Paule,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q1712293,Juliette Caton,65,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q1712293,Juliette Caton,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q1712293,Juliette Caton,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q1712293,Juliette Caton,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3846341,Marco Parente,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3846341,Marco Parente,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3846341,Marco Parente,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3846341,Marco Parente,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q299621,Pauline Moran,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q299621,Pauline Moran,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q299621,Pauline Moran,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q299621,Pauline Moran,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q213076,Pete Conrad,64,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q213076,Pete Conrad,64,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q213076,Pete Conrad,64,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q213076,Pete Conrad,64,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q16732273,Philomena McDonagh,69,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q16732273,Philomena McDonagh,69,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q16732273,Philomena McDonagh,69,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q16732273,Philomena McDonagh,69,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q445125,Neal McDonough,65,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q445125,Neal McDonough,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q445125,Neal McDonough,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q445125,Neal McDonough,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3310627,Michel Poulette,69,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3310627,Michel Poulette,69,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3310627,Michel Poulette,69,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3310627,Michel Poulette,69,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q234344,Monica Potter,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q234344,Monica Potter,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q234344,Monica Potter,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q234344,Monica Potter,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2655230,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2655230,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2655230,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2655230,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q5158111,Conan Lee,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q5158111,Conan Lee,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q5158111,Conan Lee,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q5158111,Conan Lee,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q428942,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q428942,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q428942,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q428942,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q469145,Peter Mensah,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q469145,Peter Mensah,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q469145,Peter Mensah,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q469145,Peter Mensah,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2600875,Paulette Bourgeois,63,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2600875,Paulette Bourgeois,63,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2600875,Paulette Bourgeois,63,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2600875,Paulette Bourgeois,63,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q519985,Deborah Pratt,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q519985,Deborah Pratt,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q519985,Deborah Pratt,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q519985,Deborah Pratt,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q12611257,Lee Dong-jun,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q12611257,Lee Dong-jun,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q12611257,Lee Dong-jun,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q12611257,Lee Dong-jun,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2076976,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2076976,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2076976,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2076976,Peter McDonald,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q26156298,Walter Donado,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q26156298,Walter Donado,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q26156298,Walter Donado,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q26156298,Walter Donado,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q5214150,Dan Ouellette,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q5214150,Dan Ouellette,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q5214150,Dan Ouellette,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q5214150,Dan Ouellette,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q23822524,Tamsen McDonough,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q23822524,Tamsen McDonough,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q23822524,Tamsen McDonough,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q23822524,Tamsen McDonough,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q19059607,Paul Monaghan,73,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q19059607,Paul Monaghan,73,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q19059607,Paul Monaghan,73,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q19059607,Paul Monaghan,73,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7175591,Peter Macon,64,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7175591,Peter Macon,64,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7175591,Peter Macon,64,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7175591,Peter Macon,64,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q7704779,Terry McDonough,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q7704779,Terry McDonough,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q7704779,Terry McDonough,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q7704779,Terry McDonough,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q18013648,Lee Dong-hwi,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q18013648,Lee Dong-hwi,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q18013648,Lee Dong-hwi,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q18013648,Lee Dong-hwi,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q6513480,Lee Dong-ha,64,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q6513480,Lee Dong-ha,64,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q6513480,Lee Dong-ha,64,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q6513480,Lee Dong-ha,64,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q16090036,Paul Danquah,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q16090036,Paul Danquah,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q16090036,Paul Danquah,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q16090036,Paul Danquah,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3310488,Michel Ouellette,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3310488,Michel Ouellette,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3310488,Michel Ouellette,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3310488,Michel Ouellette,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q52372707,Lee Dong-eun,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q52372707,Lee Dong-eun,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q52372707,Lee Dong-eun,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q52372707,Lee Dong-eun,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q29109390,Paulette Arnoux,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q29109390,Paulette Arnoux,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q29109390,Paulette Arnoux,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q29109390,Paulette Arnoux,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q21208839,Marco Paoletti,65,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q21208839,Marco Paoletti,65,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q21208839,Marco Paoletti,65,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q21208839,Marco Paoletti,65,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3370713,Paul Boujenah,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3370713,Paul Boujenah,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3370713,Paul Boujenah,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3370713,Paul Boujenah,60,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q49823491,Paula MacDougall,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q49823491,Paula MacDougall,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q49823491,Paula MacDougall,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q49823491,Paula MacDougall,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q65115400,Peter Molnar,62,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q65115400,Peter Molnar,62,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q65115400,Peter Molnar,62,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q65115400,Peter Molnar,62,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q26899434,Dong-ha Lee,64,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q26899434,Dong-ha Lee,64,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q26899434,Dong-ha Lee,64,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q26899434,Dong-ha Lee,64,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q3372635,Paulette Darty,71,Q3163578,Je Te Confie Ma Femme,35
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q3372635,Paulette Darty,71,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q3372635,Paulette Darty,71,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q3372635,Paulette Darty,71,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q21091510,Paulette Élambert,61,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q21091510,Paulette Élambert,61,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q21091510,Paulette Élambert,61,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q21091510,Paulette Élambert,61,,,0
+Q646,Paulette Mcdonagh,Q275,Two Minutes Silence,Q2545547,Walter Morath,60,,,0
+Q646,Paulette Mcdonagh,Q262,The Cheaters,Q2545547,Walter Morath,60,,,0
+Q646,Paulette Mcdonagh,Q253,The Far Paradise,Q2545547,Walter Morath,60,,,0
+Q646,Paulette Mcdonagh,Q237,Those Who Love,Q2545547,Walter Morath,60,,,0

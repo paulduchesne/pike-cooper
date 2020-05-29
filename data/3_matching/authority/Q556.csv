@@ -1,0 +1,106 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q556,F. W. Thring,Q272,Harmony Row,Q1399937,Ford Sterling,61,Q1120277,Alice in Wonderland,27
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q1399937,Ford Sterling,61,Q1120277,Alice in Wonderland,33
+Q556,F. W. Thring,Q266,Diggers,Q1399937,Ford Sterling,61,Q3785082,Her Majesty,33
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q1399937,Ford Sterling,61,Q3785082,Her Majesty,31
+Q556,F. W. Thring,Q286,The Streets Of London,Q1399937,Ford Sterling,61,Q1120277,Alicia en el pais de las maravillas,29
+Q556,F. W. Thring,Q283,Clara Gibbings,Q1399937,Ford Sterling,61,Q1120277,Alicia en el pais de las maravillas,33
+Q556,F. W. Thring,Q270,His Royal Highness,Q1399937,Ford Sterling,61,Q1648026,Stout Hearts and Willing Hands,38
+Q556,F. W. Thring,Q272,Harmony Row,Q55412,F. W. Murnau,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q55412,F. W. Murnau,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q55412,F. W. Murnau,60,Q1085177,Intruse,43
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q55412,F. W. Murnau,60,Q587579,Tabu,16
+Q556,F. W. Thring,Q286,The Streets Of London,Q55412,F. W. Murnau,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q55412,F. W. Murnau,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q55412,F. W. Murnau,60,Q587579,Tabu,9
+Q556,F. W. Thring,Q272,Harmony Row,Q5424085,Francis William Thring,62,Q5659602,Harmony Row,100
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q5424085,Francis William Thring,62,Q4660128,A Ticket in Tatts,100
+Q556,F. W. Thring,Q266,Diggers,Q5424085,Francis William Thring,62,Q5275641,Diggers,100
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q5424085,Francis William Thring,62,Q7763311,The Sentimental Bloke,100
+Q556,F. W. Thring,Q286,The Streets Of London,Q5424085,Francis William Thring,62,Q7767008,The Streets of London,100
+Q556,F. W. Thring,Q283,Clara Gibbings,Q5424085,Francis William Thring,62,Q5125989,Clara Gibbings,100
+Q556,F. W. Thring,Q270,His Royal Highness,Q5424085,Francis William Thring,62,Q5772181,His Royal Highness,100
+Q556,F. W. Thring,Q272,Harmony Row,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q266,Diggers,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q9259952,Finn Methling,61,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q266,Diggers,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q327356,Frank Thring,73,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q266,Diggers,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q955307,H. R. F. Keating,61,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q266,Diggers,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q29932088,Ev-Katrin Weiß,61,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q558522,M. F. Husain,60,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q320696,P. W. Singer,60,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q266,Diggers,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q18549399,Jack Farthing,61,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q15902596,Hsing Feng,60,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q7218759,Wong Ching,60,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q266,Diggers,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q27113712,Tshering Wangyel,62,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q266,Diggers,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q6720846,Ma Wing-shing,61,,,0
+Q556,F. W. Thring,Q272,Harmony Row,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q278,A Ticket In Tatts,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q266,Diggers,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q268,The Sentimental Bloke,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q286,The Streets Of London,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q283,Clara Gibbings,Q8956325,Tien-Yu Fu,60,,,0
+Q556,F. W. Thring,Q270,His Royal Highness,Q8956325,Tien-Yu Fu,60,,,0

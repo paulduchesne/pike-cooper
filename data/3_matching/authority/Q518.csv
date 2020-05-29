@@ -1,0 +1,292 @@
+dir_id,dir_lab,film_id,film_lab,cand_id,cand_lab,cand_score,cand_film_id,cand_film_lab,score
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7701975,Terence O'Brien,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7701975,Terence O'Brien,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7701975,Terence O'Brien,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q121175,Richard Angst,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q121175,Richard Angst,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q121175,Richard Angst,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3115400,Grant Richards,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3115400,Grant Richards,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3115400,Grant Richards,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q316003,Richard Farnsworth,62,Q596965,Papillon,32
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q316003,Richard Farnsworth,62,Q477630,The outlaw Josey Wales,46
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q316003,Richard Farnsworth,62,Q596965,Papillon,13
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q74342,Fritz Reinhardt,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q74342,Fritz Reinhardt,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q74342,Fritz Reinhardt,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q22101610,Elizabeth Reinhardt,60,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q22101610,Elizabeth Reinhardt,60,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q22101610,Elizabeth Reinhardt,60,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q446404,N. Richard Nash,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q446404,N. Richard Nash,63,Q7093261,One Summer Love,29
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q446404,N. Richard Nash,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7324148,Richard Best,61,Q710850,The Dam Busters,44
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7324148,Richard Best,61,Q710850,Guastatori delle dighe,40
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7324148,Richard Best,61,Q710850,The Dam Busters,38
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q506404,Richard L. Breen,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q506404,Richard L. Breen,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q506404,Richard L. Breen,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q5986386,Louis Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q5986386,Louis Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q5986386,Louis Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1149764,Richard Bishop,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1149764,Richard Bishop,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1149764,Richard Bishop,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q28555967,Jean Taylor Smith,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q28555967,Jean Taylor Smith,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q28555967,Jean Taylor Smith,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1528694,Richard Eastham,61,Q7751721,The Missiles of October,45
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1528694,Richard Eastham,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1528694,Richard Eastham,61,Q7751721,The Missiles of October,40
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7324136,Richard Bernstein,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7324136,Richard Bernstein,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7324136,Richard Bernstein,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q786720,Richard Bright,63,Q184768,Der Pate - Teil II,48
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q786720,Richard Bright,63,Q184768,The Godfather 2,50
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q786720,Richard Bright,63,Q184768,The Godfather Part 2,43
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q2734945,Richard Briers,63,Q470584,The Four Musketeers (film),44
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q2734945,Richard Briers,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q2734945,Richard Briers,63,Q470584,Die vier Halunken der Königin,44
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q982182,Richard O'Brien,67,Q751921,The Rocky Horror Picture Show,43
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q982182,Richard O'Brien,67,Q751921,Festival Rocky de Terror,38
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q982182,Richard O'Brien,67,Q751921,The Rocky Horror Show,47
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q37491757,Katja Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q37491757,Katja Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q37491757,Katja Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1363700,Richard Libertini,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1363700,Richard Libertini,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1363700,Richard Libertini,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4859353,Barbara T. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4859353,Barbara T. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4859353,Barbara T. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q913154,Brian Trenchard-Smith,100,Q7748903,The Love Epidemic,100
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q913154,Brian Trenchard-Smith,100,Q5247671,Deathcheaters,100
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q913154,Brian Trenchard-Smith,100,Q7750035,The Man from Hong Kong,100
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3161756,Jan Smithers,61,Q17049853,Where the Lilies Bloom,41
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3161756,Jan Smithers,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3161756,Jan Smithers,61,Q17049853,Where the Lilies Bloom,32
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3431072,Richard O'Brien,67,Q7033911,Deadly Honeymoon,36
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3431072,Richard O'Brien,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3431072,Richard O'Brien,67,Q7033911,Nightmare Honeymoon,49
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q376995,Martin Miehe-Renard,70,Q12311032,Familien Gyldenkål,35
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q376995,Martin Miehe-Renard,70,Q7730749,The Double Man,44
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q376995,Martin Miehe-Renard,70,Q12311032,Familien Gyldenkål,31
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q20653582,Richard Ashe,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q20653582,Richard Ashe,61,Q2169472,Track of the Moon Beast,39
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q20653582,Richard Ashe,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q2314663,Richard Band,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q2314663,Richard Band,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q2314663,Richard Band,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1578162,Hans-Reinhard Müller,60,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1578162,Hans-Reinhard Müller,60,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1578162,Hans-Reinhard Müller,60,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q22004065,Richard Dimitri,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q22004065,Richard Dimitri,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q22004065,Richard Dimitri,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q194419,Richard Branson,67,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q194419,Richard Branson,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q194419,Richard Branson,67,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q518823,Richard Bassett,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q518823,Richard Bassett,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q518823,Richard Bassett,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q314831,Richard Griffiths,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q314831,Richard Griffiths,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q314831,Richard Griffiths,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7324323,Richard Brennan,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7324323,Richard Brennan,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7324323,Richard Brennan,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1153718,Richard Rich,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1153718,Richard Rich,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1153718,Richard Rich,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1763128,Reinhard Priessnitz,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1763128,Reinhard Priessnitz,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1763128,Reinhard Priessnitz,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q20031580,Richard Briggs,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q20031580,Richard Briggs,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q20031580,Richard Briggs,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q2925008,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q2925008,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q2925008,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q16534090,Brigitte Chamarande,60,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q16534090,Brigitte Chamarande,60,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q16534090,Brigitte Chamarande,60,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7327672,Richard Martini,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7327672,Richard Martini,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7327672,Richard Martini,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7325925,Richard Gilbert Abramson,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7325925,Richard Gilbert Abramson,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7325925,Richard Gilbert Abramson,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q442025,Deborah Rennard,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q442025,Deborah Rennard,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q442025,Deborah Rennard,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q453074,Brian Setzer,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q453074,Brian Setzer,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q453074,Brian Setzer,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3430640,Richard Christian Matheson,64,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3430640,Richard Christian Matheson,64,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3430640,Richard Christian Matheson,64,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q380856,Richard E. Grant,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q380856,Richard E. Grant,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q380856,Richard E. Grant,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1280821,Richard Gant,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1280821,Richard Gant,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1280821,Richard Gant,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q125448,Reinhard Baumgart,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q125448,Reinhard Baumgart,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q125448,Reinhard Baumgart,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q6880818,Mitch Brian,69,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q6880818,Mitch Brian,69,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q6880818,Mitch Brian,69,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3644511,Brian Stokes Mitchell,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3644511,Brian Stokes Mitchell,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3644511,Brian Stokes Mitchell,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q264559,Ariana Richards,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q264559,Ariana Richards,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q264559,Ariana Richards,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7324002,Richard Baskin,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7324002,Richard Baskin,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7324002,Richard Baskin,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q110045,Reinhard Münster,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q110045,Reinhard Münster,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q110045,Reinhard Münster,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q16735187,Richard M. Bracken,68,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q16735187,Richard M. Bracken,68,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q16735187,Richard M. Bracken,68,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q912720,Brian McCardie,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q912720,Brian McCardie,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q912720,Brian McCardie,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q19470967,Dan Warry-Smith,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q19470967,Dan Warry-Smith,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q19470967,Dan Warry-Smith,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q94618,Marion Mitterhammer,60,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q94618,Marion Mitterhammer,60,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q94618,Marion Mitterhammer,60,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7839430,Trevor Smith,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7839430,Trevor Smith,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7839430,Trevor Smith,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3659120,Carlo Briani,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3659120,Carlo Briani,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3659120,Carlo Briani,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q5584847,Richard Brandes,67,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q5584847,Richard Brandes,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q5584847,Richard Brandes,67,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q23910840,Reinhard Friedrich,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q23910840,Reinhard Friedrich,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q23910840,Reinhard Friedrich,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q42313987,Brian Stark,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q42313987,Brian Stark,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q42313987,Brian Stark,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q27185702,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q27185702,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q27185702,Brian Smith,69,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3485254,Sirena Irwin,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3485254,Sirena Irwin,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3485254,Sirena Irwin,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q18697461,Brian Ireland,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q18697461,Brian Ireland,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q18697461,Brian Ireland,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q12318600,Isabella Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q12318600,Isabella Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q12318600,Isabella Miehe-Renard,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7822214,Tony Dean Smith,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7822214,Tony Dean Smith,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7822214,Tony Dean Smith,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4963740,Brian Finch,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4963740,Brian Finch,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4963740,Brian Finch,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1077763,Richard Christy,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1077763,Richard Christy,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1077763,Richard Christy,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4965419,Brian Sumner,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4965419,Brian Sumner,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4965419,Brian Sumner,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3934777,Richard Cant,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3934777,Richard Cant,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3934777,Richard Cant,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3431023,Richard Martin-Jordan,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3431023,Richard Martin-Jordan,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3431023,Richard Martin-Jordan,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q7608548,Stephen A. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q7608548,Stephen A. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q7608548,Stephen A. Smith,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q42531658,Brian Tester,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q42531658,Brian Tester,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q42531658,Brian Tester,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q912401,Brian J. Smith,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q912401,Brian J. Smith,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q912401,Brian J. Smith,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q24073711,Brian Schaeffer,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q24073711,Brian Schaeffer,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q24073711,Brian Schaeffer,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q47001226,Richard Raskin,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q47001226,Richard Raskin,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q47001226,Richard Raskin,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q18537667,Richard Balint,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q18537667,Richard Balint,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q18537667,Richard Balint,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1566889,Richard Bing,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1566889,Richard Bing,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1566889,Richard Bing,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q6881653,Mithra Kurian,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q6881653,Mithra Kurian,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q6881653,Mithra Kurian,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4965386,Brian Stelter,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4965386,Brian Stelter,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4965386,Brian Stelter,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q2197160,Richard Bekins,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q2197160,Richard Bekins,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q2197160,Richard Bekins,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q61948282,Ben Smithard,67,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q61948282,Ben Smithard,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q61948282,Ben Smithard,67,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q81891151,Reinhard Brundig,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q81891151,Reinhard Brundig,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q81891151,Reinhard Brundig,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q2791120,Grant Orchard,65,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q2791120,Grant Orchard,65,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q2791120,Grant Orchard,65,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q28065414,Iván Steinhardt,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q28065414,Iván Steinhardt,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q28065414,Iván Steinhardt,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q1298435,Richard Blanshard,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q1298435,Richard Blanshard,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q1298435,Richard Blanshard,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4965465,Brian Thomas Smith,77,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4965465,Brian Thomas Smith,77,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4965465,Brian Thomas Smith,77,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q16222401,Richard Rankin,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q16222401,Richard Rankin,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q16222401,Richard Rankin,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q566391,Christopher Reinhard,63,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q566391,Christopher Reinhard,63,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q566391,Christopher Reinhard,63,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q42602363,Teana-Marie Smith,68,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q42602363,Teana-Marie Smith,68,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q42602363,Teana-Marie Smith,68,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q60041870,Brian Reich,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q60041870,Brian Reich,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q60041870,Brian Reich,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q88965812,Brian Girard,67,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q88965812,Brian Girard,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q88965812,Brian Girard,67,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q64827192,Tyler Burton Smith,67,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q64827192,Tyler Burton Smith,67,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q64827192,Tyler Burton Smith,67,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q63514190,Jodie Turner-Smith,62,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q63514190,Jodie Turner-Smith,62,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q63514190,Jodie Turner-Smith,62,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q4355640,Richard Cansino,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q4355640,Richard Cansino,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q4355640,Richard Cansino,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q15973588,Richard Bean,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q15973588,Richard Bean,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q15973588,Richard Bean,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q47464931,Richa Singh Thakuri,60,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q47464931,Richa Singh Thakuri,60,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q47464931,Richa Singh Thakuri,60,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q26906904,Richard Nash,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q26906904,Richard Nash,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q26906904,Richard Nash,61,,,0
+Q518,Brian Trenchard Smith,Q429,The Love Epidemic,Q3944379,Sabrina Sirchia,61,,,0
+Q518,Brian Trenchard Smith,Q467,Deathcheaters,Q3944379,Sabrina Sirchia,61,,,0
+Q518,Brian Trenchard Smith,Q435,The Man From Hong Kong,Q3944379,Sabrina Sirchia,61,,,0

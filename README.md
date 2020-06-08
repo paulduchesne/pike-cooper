@@ -1,6 +1,8 @@
-# Pike-Cooper.
+# Pike-Cooper
 
 This project works through the process of standing up a custom Wikibase instance via Docker and embedding film data. 
+
+The test data is sourced from Andrew Pike and Ross Cooper's excellent overview of the early Australian film industry, *Australian Film 1900-1977*, which can be purchased here: https://www.roninfilms.com.au/video/2221/0/2245.html
 
 Prerequisite steps:
 1. Download and install Docker Desktop (https://www.docker.com/products/docker-desktop).

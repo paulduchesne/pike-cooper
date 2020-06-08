@@ -1,8 +1,0 @@
-{
-  "apiUrl": "http://localhost:8181/w/api.php",
-  "loginCredentials": {
-    "botUsername": "JupiterJones",
-    "botPassword": "ghosttoghost"
-  },
-  "summary": "data added via wikibase-api"
-}

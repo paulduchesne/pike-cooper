@@ -1,489 +1,489 @@
-pike_cooper_id,year,title,director,wikidata_id
-1,1900,Soldiers Of The Cross,"Joseph Perry, Herbert Booth",Q20649328
-2,1906,The Story Of The Kelly Gang,Charles Tait,Q1212945
-3,1907,Eureka Stockade,"George Cornwell, Arthur Cornwell",Q5411237
-4,1907,Robbery Under Arms,Charles MacMahon,Q7340830
-5,1908,For The Term Of His Natural Life,Charles MacMahon,Q5467143
-6,1910,"The Life And Adventures Of John Vane, The Notorious Australian Bushranger",S. A. Fitzgerald,Q7747142
-7,1910,"The Squatter's Daughter, Or The Land Of The Wattle",Bert Bailey,Q7766106
-8,1910,Thunderbolt,John Gavin,Q7799108
-9,1910,Moonlite,John Gavin,Q15039601
-10,1911,It Is Never Too Late To Mend,W. J. Lincoln,Q6091844
-11,1911,Ben Hall And His Gang,John Gavin,Q4885775
-12,1911,"Captain Midnight, The Bush King",Alfred Rolfe,Q5036733
-13,1911,"Frank Gardiner, The King Of The Road",John Gavin,Q5486791
-14,1911,The Mystery Of A Hansom Cab,W. J. Lincoln,Q15039603
-15,1911,"Captain Starlight, Or Gentleman Of The Road",Alfred Rolfe,Q5036807
-16,1911,A Tale Of The Australian Bush,Gaston Mervale,Q3602786
-17,1911,The Luck Of Roaring Camp,W. J. Lincoln,Q15039597
-18,1911,The Golden West,George Young,Q7737123
-19,1911,"A Bushranger's Ransom, Or A Ride For A Life",E. J. Cole,Q5001566
-20,1911,The Assigned Servant,John Gavin,Q7714712
-21,1911,Three Strings To Her Bow,George Young,Q7797855
-22,1911,Called Back,W. J. Lincoln,Q5021873
-23,1911,The Squatter's Son,E. J. Cole,Q7766108
-24,1911,The Fatal Wedding,Raymond Longford,Q7733529
-25,1911,Keane Of Kalgoorlie,John Gavin,Q15039593
-26,1911,One Hundred Years Ago,Gaston Mervale,Q3882498
-27,1911,"The Five Of Hearts, Or Buffalo Bill's Love Story",E. J. Cole,Q7734297
-28,1911,The Lost Chord,W. J. Lincoln,Q7748580
-29,1911,Dan Morgan,,Q5214050
-30,1911,Sentenced For Life,E. J. Cole,Q7451202
-31,1911,The Life Of Rufus Dawes,Alfred Rolfe,Q15039595
-32,1911,A Ticket In Tatts,Gaston Mervale,Q3602796
-33,1911,Attack On The Gold Escort,,Q18708895
-34,1911,The Miner's Daughter,,Q117457099
-35,1911,In The Days Of 49,,Q3797421
-36,1911,"Moora Neya, Or The Message Of The Spear",Alfred Rolfe,Q6908063
-37,1911,The Mark Of The Lash,John Gavin,Q7750366
-38,1911,The Drover's Sweetheart,John Gavin,Q7731061
-39,1911,The Romantic Story Of Margaret Catchpole,Raymond Longford,Q7761427
-40,1911,Only A Factory Girl,,Q20002334
-41,1911,The Squatter And The Clown,,Q18709080
-42,1911,The Sundowner,E. J. Cole,Q7767404
-43,1911,The Lady Outlaw,Alfred Rolfe,Q7745142
-44,1911,In The Nick Of Time,Alfred Rolfe,Q15039592
-45,1911,Mates Of The Murrumbidgee,Alfred Rolfe,Q6786661
-46,1911,The Colleen Bawn,Gaston Mervale,Q3986351
-47,1911,Way Outback,Alfred Rolfe,Q7975793
-48,1911,What Women Suffer,Alfred Rolfe,Q7991439
-49,1911,The Bells,W. J. Lincoln,Q7716442
-50,1911,"All For Gold, Or Jumping The Claim",Franklyn Barrett,Q4729949
-51,1911,Assigned To His Wife,John Gavin,Q4808851
-52,1911,The Double Event,W. J. Lincoln,Q7730734
-53,1911,The Girl From Outback,,Q17056382
-54,1911,The Cup Winner,Alfred Rolfe,Q7728410
-55,1911,"Caloola, Or The Adventures Of A Jackeroo",Alfred Rolfe,Q5023176
-56,1911,Driving A Girl To Destruction,George Marlow,Q5308076
-57,1911,The Christian,Franklyn Barrett,Q7722714
-58,1911,Sweet Nell Of Old Drury,Raymond Longford,Q7655431
-59,1911,Gambler's Gold,George Young,Q5519668
-60,1911,The Miner's Curse,Alfred Rolfe,Q7751549
-61,1912,King Of The Coiners,Alfred Rolfe,Q6412331
-62,1912,Do Men Love Women?,Alfred Rolfe,Q5286136
-63,1912,The Sin Of A Woman,Alfred Rolfe,Q7764377
-64,1912,Angel Of His Dreams,George Marlow,Q4762335
-65,1912,The Strangler's Grip,,Q7766963
-66,1912,Hands Across The Sea,Gaston Mervale,Q3783012
-67,1912,A Daughter Of Australia,Gaston Mervale,Q3602421
-68,1912,The Crime And The Criminal,Alfred Rolfe,Q7728064
-69,1912,The Octoroon,George Young,Q7754682
-70,1912,Cooee And The Echo,Alfred Rolfe,Q5166839
-71,1912,Breaking The News,W. J. Lincoln,Q15039589
-72,1912,The Mystery Of The Black Pearl,,Q7752902
-73,1912,"Conn, The Shaughraun",Gaston Mervale,Q5161258
-74,1912,Strike,George Young,Q7623764
-75,1912,The Love Tyrant,Alfred Rolfe,Q7748987
-76,1912,Rip Van Winkle,W. J. Lincoln,Q7335543
-77,1912,The Eleventh Hour,,Q7731783
-78,1912,The Tide Of Death,Raymond Longford,Q7769215
-79,1912,The Cheat,Alfred Rolfe,Q7722263
-80,1912,Percy Gets A Job,,Q17021247
-81,1912,The Bushman's Bride,,Q20649640
-82,1912,A Silent Witness,Franklyn Barrett,Q4659518
-83,1912,Won On The Post,Alfred Rolfe,Q8031696
-84,1912,"The Wreck Of The Dunbar, Or The Yeoman's Wedding",Gaston Mervale,Q3990118
-85,1912,Whose Was The Hand?,Alfred Rolfe,Q7997675
-86,1912,"Moira, Or The Mystery Of The Bush",Alfred Rolfe,Q7751906
-87,1912,The Ticket Of Leave Man,Gaston Mervale,Q3989638
-88,1912,The Midnight Wedding,Raymond Longford,Q7751333
-89,1912,Call Of The Bush,,Q5021642
-90,1912,"The Life Story Of John Lee, Or The Man They Could Not Hang",Robert Scott,Q15039596
-91,1913,The Opium Runners,,Q20649859
-92,1913,A Melbourne Mystery,,Q4658192
-93,1913,Australia Calls,Raymond Longford,Q4823565
-94,1913,A Blue Gum Romance,Franklyn Barrett,Q4655524
-95,1913,The Life Of A Jackeroo,Franklyn Barrett,Q7747217
-96,1913,The Bondage Of The Bush,Charles Woods,Q7719094
-97,1913,Pommy Arrives In Australia,Raymond Longford,Q7227355
-98,1913,The Sick Stockrider,W. J. Lincoln,Q7764090
-99,1913,Moondyne,W. J. Lincoln,Q6907722
-100,1913,The Remittance Man,W. J. Lincoln,Q7760148
-101,1913,Transported,W. J. Lincoln,Q7835300
-102,1913,The Road To Ruin,W. J. Lincoln,Q7761145
-103,1913,The Reprieve,W. J. Lincoln,Q7760227
-104,1913,The Crisis,W. J. Lincoln,Q7728109
-105,1913,The Wreck,W. J. Lincoln,Q7776268
-106,1913,Sea Dogs Of Australia,Martyn Keith,Q7439874
-107,1913,'Neath Austral Skies,Raymond Longford,Q4540499
-108,1914,The Shepherd Of The Southern Cross,Alexander Butler,Q7763777
-109,1914,The Silence Of Dean Maitland,Raymond Longford,Q7764194
-110,1914,"A Long, Long Way To Tipperary",George Dean,Q4657909
-111,1914,The Day,Alfred Rolfe,Q7729142
-112,1915,"The Sunny South, Or The Whirlwind Of Fate",Alfred Rolfe,Q7767432
-113,1915,My Partner,,Q117457091
-114,1915,The Rebel,J. E. Mathews,Q7759738
-115,1915,The Hero Of The Dardanelles,Alfred Rolfe,Q7739495
-116,1915,"Within Our Gates, Or Deeds That Won Gallipoli",Frank Harvey,Q13422558
-117,1915,The Loyal Rebel,Alfred Rolfe,Q7749124
-118,1915,For Australia,Monte Luke,Q5466672
-119,1915,How We Beat The Emden,Alfred Rolfe,Q5918188
-120,1916,A Maori Maid's Love,Raymond Longford,Q4658119
-121,1916,Within The Law,Monte Luke,Q8028194
-122,1916,Get-Rich-Quick Wallingford,Fred Niblo,Q151588
-123,1916,The Martyrdom Of Nurse Cavell,"John Gavin, C. Post Mason",Q7750470
-124,1916,Nurse Cavell,W. J. Lincoln,Q7070190
-125,1916,Officer 666,Fred Niblo,Q7079442
-126,1916,La Revanche,W. J. Lincoln,Q15039606
-127,1916,Murphy Of Anzac,J. E. Mathews,Q15039602
-128,1916,The Joan Of Arc Of Loos,George Willoughby,Q7743312
-129,1916,In The Last Stride,Martyn Keith,Q6012411
-130,1916,Seven Keys To Baldpate,Monte Luke,Q7457302
-131,1916,If The Huns Came To Melbourne,George Coates,Q5991074
-132,1916,The Woman In The Case,George Willoughby,Q7775547
-133,1916,The Mutiny Of The Bounty,Raymond Longford,Q10381639
-134,1916,The Life's Romance Of Adam Lindsay Gordon,W. J. Lincoln,Q7747107
-135,1916,The Pioneers,Franklyn Barrett,Q7757231
-136,1917,"Remorse, A Story Of The Red Plague",J. E. Mathews,Q7312069
-137,1917,The Murder Of Captain Fryatt,John Gavin,Q7752674
-138,1917,"Our Friends, The Hayseeds",Beaumont Smith,Q7110641
-139,1917,Australia's Peril,Franklyn Barrett,Q4823511
-140,1917,The Hayseeds Come To Sydney,Beaumont Smith,Q7739087
-141,1917,The Monk And The Woman,Franklyn Barrett,Q7752031
-142,1917,The Church And The Woman,Raymond Longford,Q7722865
-143,1917,The Hayseeds' Back-Blocks Show,Beaumont Smith,Q7739085
-144,1918,A Coo-ee From Home,Charles Woods,Q4656099
-145,1918,The Hayseeds' Melbourne Cup,Beaumont Smith,Q7739086
-146,1918,His Convict Bride,John Gavin,Q5771948
-147,1918,The Laugh On Dad,A. C. Tinsdale,Q7746352
-148,1918,The Enemy Within,Roland Stavely,Q15039590
-149,1918,The Woman Suffers,Raymond Longford,Q15039609
-150,1918,"Yachts And Hearts, Or The Opium Smugglers",Charles Byers Coates,Q15039610
-151,1918,The Waybacks,Arthur W. Sterry,Q15039608
-152,1918,His Only Chance,Dick Shortland,Q5772164
-153,1918,Cupid Camouflaged,Alfred Rolfe,Q5194504
-154,1918,Satan In Sydney,Beaumont Smith,Q7425905
-155,1918,Just Peggy,J. A. Lipman,Q6316299
-156,1918,Algie's Romance,Leonard Doogood,Q4724215
-157,1918,A Romance Of The Burke And Wills Expedition Of 1860,Charles Byers Coates,Q4659263
-158,1918,The Lure Of The Bush,Claude Flemming,Q7749194
-159,1918,Scars Of Love,Walter S. McColl,Q7430526
-160,1918,What Happened To Jean,Herbert Walsh,Q7991121
-161,1918,£500 Reward,Claude Flemming,Q8084057
-162,1919,Australia's Own,J. E. Ward,Q4823509
-163,1919,Desert Gold,Beaumont Smith,Q5263931
-164,1919,Does The Jazz Lead To Destruction?,,Q5288109
-165,1919,Barry Butts In,Beaumont Smith,Q4864065
-166,1919,The Sentimental Bloke,Raymond Longford,Q3989208
-167,1919,Struck Oil,Franklyn Barrett,Q7624973
-168,1919,The Face At The Window,Charles Villiers,Q7733022
-169,1920,The Man From Kangaroo,Wilfred Lucas,Q7750037
-170,1920,Ginger Mick,Raymond Longford,Q3764507
-171,1920,The Kelly Gang,Harry Southwell,Q15039594
-172,1920,The Shadow Of Lightning Ridge,Wilfred Lucas,Q7763563
-173,1920,The Breaking Of The Drought,Franklyn Barrett,Q7719923
-174,1920,On Our Selection,Raymond Longford,Q7091100
-175,1920,The Man From Snowy River,"Beaumont Smith, John K. Wells",Q7750059
-176,1920,Robbery Under Arms,Kenneth Brampton,Q7340828
-177,1920,The Jackeroo Of Coolabong,Wilfred Lucas,Q7742854
-178,1920,The Hordern Mystery,Harry Southwell,Q7740276
-179,1921,'Possum Paddock,"Charles Villiers, Kate Howarde",Q7233444
-180,1921,Silks And Saddles,John K. Wells,Q7515270
-181,1921,The Betrayer,Beaumont Smith,Q16953737
-182,1921,A Girl Of The Bush,Franklyn Barrett,Q4657048
-183,1921,Rudd's New Selection,Raymond Longford,Q7376827
-184,1921,The Guyra Ghost Mystery,John Cosgrove,Q7738566
-185,1921,Mated In The Wilds,P. J. Ramster,Q6786365
-186,1921,While The Billy Boils,Beaumont Smith,Q7993637
-187,1921,Know Thy Child,Franklyn Barrett,Q6423167
-188,1921,Retribution,Armand Lionello,Q7316938
-189,1921,The Blue Mountains Mystery,"Raymond Longford, Lottie Lyell",Q7718807
-190,1921,"The Life Story Of John Lee, Or The Man They Could Not Hang",Arthur W. Sterry,Q7747138
-191,1921,The Gentleman Bushranger,Beaumont Smith,Q7736132
-192,1922,Circumstance,Lawson Harris,Q5121763
-193,1922,The Triumph Of Love,P. J. Ramster,Q7770288
-194,1922,A Rough Passage,Franklyn Barrett,Q4659285
-195,1922,A Daughter Of Australia,Lawson Harris,Q4656275
-196,1922,East Lynne,Charles Hardy,Q5328902
-197,1922,Sunshine Sally,Lawson Harris,Q7641562
-198,1922,The Lust For Gold,Roy Darling,Q7749197
-199,1923,The Dinkum Bloke,Raymond Longford,Q7730217
-200,1923,The Dingo,Kenneth Brampton,Q7730210
-201,1923,The Twins,Leslie McCallum,Q7770885
-202,1923,Townies And Hayseeds,Beaumont Smith,Q7830132
-203,1923,When The Kellys Were Out,Harry Southwell,Q7992991
-204,1923,Should A Doctor Tell?,P. J. Ramster,Q7502679
-205,1923,Australia Calls,Raymond Longford,Q4823566
-206,1923,Prehistoric Hayseeds,Beaumont Smith,Q7239930
-207,1924,The Digger Earl,Beaumont Smith,Q7730168
-208,1924,Dope,Dunstan Webb,Q5297296
-209,1924,Joe,Beaumont Smith,Q6208254
-210,1924,Daughter Of The East,Roy Darling,Q5227922
-211,1924,Fisher's Ghost,Raymond Longford,Q5454722
-212,1924,The Price,Dunstan Webb,Q7758123
-213,1924,The Rev. Dell's Secret,P. J. Ramster,Q7760482
-214,1924,How Mcdougall Topped The Score,V. Upton Brown,Q5917986
-215,1924,Hullo Marmaduke,Beaumont Smith,Q5936100
-216,1925,The Mystery Of A Hansom Cab,Arthur Shirley,Q7752899
-217,1925,Painted Daughters,F. Stuart-Whyte,Q7125003
-218,1925,The Adventures Of Algy,Beaumont Smith,Q7712490
-219,1925,The Bushwhackers,Raymond Longford,Q7720732
-220,1925,Those Terrible Twins,J. E. Ward,Q7796847
-221,1925,Around The Boree Log,Phil K. Walsh,Q4795621
-222,1925,Jewelled Nights,"Louise Lovely, Wilton Welch",Q6189574
-223,1926,The Moth Of Moonbi,Charles Chauvel,Q7752407
-224,1926,The Tenth Straw,Robert G. Mcanderson,Q7768481
-225,1926,Sydney's Darlings,Thomas Marinato,Q7659804
-226,1926,Peter Vernon's Silence,Raymond Longford,Q7177495
-227,1926,Should A Girl Propose?,P. J. Ramster,Q15039607
-228,1926,The Jungle Woman,Frank Hurley,Q15039742
-229,1926,The Pioneers,Raymond Longford,Q15039604
-230,1926,The Sealed Room,Arthur Shirley,Q7762815
-231,1926,Tall Timber,Dunstan Webb,Q7679979
-232,1926,Sunrise,"F. Stuart-Whyte, Raymond Longford",Q14156944
-233,1926,The Hound Of The Deep,Frank Hurley,Q7740465
-234,1926,Greenhide,Charles Chauvel,Q5604098
-235,1926,Those Who Love,"P. J. Ramster, Paulette Mcdonagh",Q7796876
-236,1926,Hills Of Hate,Raymond Longford,Q5763506
-237,1927,Down Under,Harry Southwell,Q5302881
-238,1927,The Kid Stakes,Tal Ordell,Q7744230
-239,1927,For The Term Of His Natural Life,Norman Dawn,Q5467144
-240,1927,Environment,Gerald M. Hayle,Q5381006
-241,1927,The Rushing Tide,Gerald M. Hayle,Q7761876
-242,1927,The Man Who Forgot,A. R. Harwood,Q7749934
-243,1927,The Miner's Daughter,Leo Forbert,Q7751550
-244,1928,The Romance Of Runnibede,Scott R. Dunlap,Q7761404
-245,1928,The Shattered Illusion,A. G. Harbrow,Q7763706
-246,1928,The Menace,Cyril J. Sharpe,Q7751005
-247,1928,The Spirit Of Gallipoli,"Keith Gategood, William Green",Q7765936
-248,1928,Trooper O'Brien,John Gavin,Q7845565
-249,1928,The Adorable Outcast,Norman Dawn,Q7712405
-250,1928,Caught In The Net,Vaughan C. Marshall,Q5054462
-251,1928,The Far Paradise,Paulette Mcdonagh,Q7733414
-252,1928,The Grey Glove,Dunstan Webb,Q7738274
-253,1928,The Birth Of White Australia,Phil K. Walsh,Q7718132
-254,1928,The Exploits Of The Emden,Ken G. Hall,Q7732846
-255,1928,The Russell Affair,P. J. Ramster,Q3989113
-256,1928,Odds On,Arthur Higgins,Q7077531
-257,1928,The Devil's Playground,Victor Bindley,Q7729942
-258,1929,The Kingdom Of Twilight,Alexander Macdonald,Q7744639
-259,1930,Tiger Island,Gerald M. Hayle,Q7801422
-260,1930,The Cheaters,Paulette Mcdonagh,Q7722268
-261,1930,Fellers,"Arthur Higgins, Austin Fay",Q5442455
-262,1931,Spur Of The Moment,A. R. Harwood,Q7581550
-263,1931,Isle Of Intrigue,A. R. Harwood,Q6083930
-264,1931,Diggers,F. W. Thring,Q5275641
-265,1931,Showsgirl's Luck,Norman Dawn,Q7503239
-266,1932,The Sentimental Bloke,F. W. Thring,Q7763311
-267,1932,On Our Selection,Ken G. Hall,Q7091101
-268,1932,His Royal Highness,F. W. Thring,Q5772181
-269,1933,Diggers In Blighty,Pat Hanna,Q5275649
-270,1933,Harmony Row,F. W. Thring,Q5659602
-271,1933,In The Wake Of The Bounty,Charles Chauvel,Q3149754
-272,1933,The Squatter's Daughter,Ken G. Hall,Q7766105
-273,1933,Two Minutes Silence,Paulette Mcdonagh,Q7859110
-274,1933,Waltzing Matilda,Pat Hanna,Q7966850
-275,1933,The Hayseeds,Beaumont Smith,Q7739084
-276,1934,A Ticket In Tatts,F. W. Thring,Q4660128
-277,1934,Secret Of The Skies,A. R. Harwood,Q15039747
-278,1934,The Silence Of Dean Maitland,Ken G. Hall,Q7764196
-279,1934,The Man They Could Not Hang,Raymond Longford,Q7749894
-280,1934,When The Kellys Rode,Harry Southwell,Q7992989
-281,1934,Clara Gibbings,F. W. Thring,Q5125989
-282,1934,Strike Me Lucky,Ken G. Hall,Q7623787
-283,1934,Splendid Fellows,Beaumont Smith,Q7578451
-284,1934,The Streets Of London,F. W. Thring,Q7767008
-285,1935,Grandad Rudd,Ken G. Hall,Q5595279
-286,1935,Heritage,Charles Chauvel,Q5738637
-287,1935,The Burgomeister,Harry Southwell,Q7720639
-288,1936,Thoroughbred,Ken G. Hall,Q7796630
-289,1936,The Flying Doctor,Miles Mander,Q7734577
-290,1936,Uncivilised,Charles Chauvel,Q7882671
-291,1936,White Death,Edwin G. Bowen,Q7994637
-292,1936,Orphan Of The Wilderness,Ken G. Hall,Q7103933
-293,1936,Rangle River,Clarence Badger,Q7292876
-294,1937,It Isn't Done,Ken G. Hall,Q6091875
-295,1937,Mystery Island,J. A. Lipman,Q6948844
-296,1937,Phantom Gold,Rupert Kathner,Q7180562
-297,1937,Tall Timbers,Ken G. Hall,Q7679985
-298,1937,The Avenger,A. R. Harwood,Q7715011
-299,1937,Lovers And Luggers,Ken G. Hall,Q6692460
-300,1938,The Broken Melody,Ken G. Hall,Q12104370
-301,1938,Let George Do It,Ken G. Hall,Q6532660
-302,1938,Show Business,A. R. Harwood,Q7502936
-303,1938,Typhoon Treasure,Noel Monkman,Q7861333
-304,1938,Dad And Dave Come To Town,Ken G. Hall,Q5207859
-305,1938,Below The Surface,Rupert Kathner,Q12102124
-306,1939,Mr Chedworth Steps Out,Ken G. Hall,Q6928519
-307,1939,Gone To The Dogs,Ken G. Hall,Q5581634
-308,1939,Come Up Smiling,William Freshman,Q5151292
-309,1939,Seven Little Australians,Arthur Greville Collins,Q7457324
-310,1940,"Dad Rudd, M.P.",Ken G. Hall,Q5207855
-311,1940,Wings Of Destiny,Rupert Kathner,Q8025290
-312,1940,Forty Thousand Horsemen,Charles Chauvel,Q5472997
-313,1941,That Certain Something,Clarence Badger,Q7711150
-314,1941,The Power And The Glory,Noel Monkman,Q7757927
-315,1941,Racing Luck,Rupert Kathner,Q7279685
-316,1942,A Yank In Australia,Alf Goulding,Q4660844
-317,1944,The Rats Of Tobruk,Charles Chauvel,Q3522429
-318,1944,Red Sky At Morning,Hartney Arthur,Q7305051
-319,1945,Harvest Gold,Mervyn Murphy,Q5676779
-320,1946,Smithy,Ken G. Hall,Q12127551
-321,1946,A Son Is Born,Eric Porter,Q4659657
-322,1946,The Overlanders,Harry Watt,Q7755740
-323,1947,Bush Christmas,Ralph Smart,Q5001367
-324,1947,Always Another Dawn,T. O. McCreadie,Q4738397
-325,1949,Eureka Stockade,Harry Watt,Q5411239
-326,1949,Strong Is The Seed,Arthur Greville Collins,Q7624500
-327,1949,Into The Straight,T. O. McCreadie,Q6058168
-328,1949,Sons Of Matthew,Charles Chauvel,Q7562326
-329,1950,Bitter Springs,Ralph Smart,Q4919025
-330,1950,The Kangaroo Kid,Lesley Selander,Q7743960
-331,1951,Wherever She Goes,Michael S. Gordon,Q7993502
-332,1951,The Glenrowan Affair,Rupert Kathner,Q7736766
-333,1952,Mike And Stefani,R. Maslyn Williams,Q6849376
-334,1952,Kangaroo,Lewis Milestone,Q3210106
-335,1952,Night Club,A. R. Harwood,Q7033248
-336,1953,Captain Thunderbolt,Cecil Holmes,Q5036825
-337,1953,The Phantom Stockman,Lee Robinson,Q7756849
-338,1954,King Of The Coral Sea,Lee Robinson,Q6412332
-339,1954,The Back Of Beyond,John Heyer,Q7715248
-340,1954,Long John Silver.,Byron Haskin,Q6672759
-341,1955,Jedda,Charles Chauvel,Q3176350
-342,1956,Smiley,Anthony Kimmins,Q7544693
-343,1956,Walk Into Paradise,"Lee Robinson, Marcel Pagliero",Q7962022
-344,1957,Three In One,Cecil Holmes,Q7797967
-345,1957,The Shiralee,Leslie Norman,Q7763858
-346,1957,Robbery Under Arms,Jack Lee,Q7340832
-347,1958,The Stowaway,"Lee Robinson, Ralph Habib",Q3225286
-348,1958,Smiley Gets A Gun,Anthony Kimmins,Q7544703
-349,1958,Dust In The Sun,Lee Robinson,Q5317009
-350,1959,The Restless And The Damned,Yves Allegret,Q3201772
-351,1959,Summer Of The Seventeenth Doll,Leslie Norman,Q3012988
-352,1959,On The Beach,Stanley Kramer,Q1469774
-353,1959,The Siege Of Pinchgut,Harry Watt,Q3205730
-354,1960,Shadow Of The Boomerang,Dick Ross,Q7460671
-355,1960,The Sundowners,Fred Zinnemann,Q1198545
-356,1961,Bungala Boys,Jim Jeffrey,Q4997601
-357,1962,They Found A Cave,Andrew Steane,Q7783711
-358,1965,Clay,Giorgio Mangiamele,Q5129821
-359,1965,Funny Things Happen Down Under,Joe McCormick,Q1004363
-360,1966,They're A Weird Mob,Michael Powell,Q7783640
-361,1967,Pudding Thieves,Brian Davies,Q7758708
-362,1967,Journey Out Of Darkness,James Trainor,Q12125270
-363,1968,Time In Summer,Ludwik Dutkiewicz,Q87203764
-364,1968,Koya No Toseinin,Junya Sato,Q17036710
-365,1968,Moeru Tairiku,Shogoro Nishimura,Q16963252
-366,1969,You Can't See 'Round Corners,David Cahill,Q8057049
-367,1969,Age Of Consent,Michael Powell,Q4691874
-368,1969,Two Thousand Weeks,Tim Burstall,Q4597966
-369,1969,It Takes All Kinds,Eddie Davis,Q16997392
-370,1969,The Intruders,Lee Robinson,Q7742391
-371,1970,The Set,Frank Brittain,Q7763401
-372,1970,Squeeze A Flower,Marc Daniels,Q7582212
-373,1970,Jack And Jill: A Postscript,"Phillip Adams, Brian Robinson",Q12125196
-374,1970,Color Me Dead,Eddie Davis,Q5148562
-375,1970,Nothing Like Experience,Peter Carmody,Q7062802
-376,1970,Adam's Woman,Philip Leacock,Q3281502
-377,1970,Beyond Reason,Giorgio Mangiamele,Q4900017
-378,1970,Dead Easy,Nigel Buesst,Q5245148
-379,1970,Ned Kelly,Tony Richardson,Q3112204
-380,1970,Strange Holiday,Mende Brown,Q7621408
-381,1970,Little Jungle Boy,Mende Brown,Q6650565
-382,1970,The Naked Bunyip,John B. Murray,Q7753012
-383,1970,That Lady From Peking,Eddie Davis,Q7711221
-384,1971,Sympathy In Summer,Antony I. Ginnane,Q12128666
-385,1971,Three To Go,"Peter Weir, Brian Hannant, Oliver Howes",Q7798017
-386,1971,Nickel Queen,John McCallum,Q7028273
-387,1971,Demonstrator,Warwick Freeman,Q5256327
-388,1971,Homesdale,Peter Weir,Q3417503
-389,1971,Country Town,Peter Maxwell,Q5177448
-390,1971,Walkabout,Nicolas Roeg,Q1342653
-391,1971,Wake In Fright,Ted Kotcheff,Q7961003
-392,1971,And The Word Was Made Flesh,Dusan Marek,Q4753453
-393,1971,Bonjour Balwyn,Nigel Buesst,Q4942103
-394,1971,Stockade,Hans Pomeranz,Q7617927
-395,1971,Stork,Tim Burstall,Q7620062
-396,1971,Bello Onesto Emigrato Australia Sposerebbecompaesana Illibata,Luigi Zampa,Q2894960
-397,1972,A City's Child,Brian Kavanagh,Q4655932
-398,1972,Shirley Thompson Versus The Aliens,Jim Sharman,Q7498866
-399,1972,Private Collection,Keith Salvat,Q7246061
-400,1972,The Adventures Of Barry Mckenzie,Bruce Beresford,Q7712494
-401,1972,The Office Picnic,Tom Cowan,Q7754723
-402,1972,Sunstruck,James Gilbert,Q7641656
-403,1972,Marco Polo Jnr Versus The Red Dragon,Eric Porter,Q6757681
-404,1972,Flashpoint,Brian Hannant,Q5457663
-405,1972,Gentle Strangers,Cecil Holmes,Q5533689
-406,1973,Night Of Fear,Terry Bourke,Q7033649
-407,1973,Libido,"John B. Murray, Tim Burstall, Fred Schepisi, David Baker",Q6542266
-408,1973,The Sabbat Of The Black Cat,Ralph Lawrence Marsden,Q117457083
-409,1973,An Essay On Pornography,Christopher Cary,Q19870676
-410,1973,Lost In The Bush,Peter Dodds,Q6684450
-411,1973,Don Quixote,"Rudolf Nureyev, Robert Helpmann",Q5293358
-412,1973,Come Out Fighting,Nigel Buesst,Q5151242
-413,1973,Avengers Of The Reef,Chris McCullugh,Q4828080
-414,1973,Dalmas,Bert Deling,Q5211523
-415,1973,Alvin Purple,Tim Burstall,Q4738201
-416,1974,Moving On,Richard Mason,Q6927077
-417,1974,Matchless,John Papadopoulos,Q117457074
-418,1974,Number 96,Peter Benardos,Q104875997
-419,1974,27A,Esben Storm,Q4632540
-420,1974,The Cars That Ate Paris,Peter Weir,Q926678
-421,1974,Stone,Sandy Harbutt,Q7618838
-422,1974,Yackety Yack,Dave Jones,Q8046466
-423,1974,Petersen,Tim Burstall,Q7178200
-424,1974,Between Wars,Michael Thornhill,Q4899130
-425,1974,Alvin Rides Again,"David Bilcock, Robin Copping",Q4738206
-426,1974,Barry Mckenzie Holds His Own,Bruce Beresford,Q4864500
-427,1975,The Love Epidemic,Brian Trenchard Smith,Q7748903
-428,1975,The Firm Man,John Duigan,Q7734059
-429,1975,Promised Woman,Tom Cowan,Q7249802
-430,1975,The True Story Of Eskimo Nell,Richard Franklin,Q12129827
-431,1975,Sidecar Racers,Earl Bellamy,Q7508363
-432,1975,Sunday Too Far Away,Ken Hannam,Q3503837
-433,1975,The Man From Hong Kong,Brian Trenchard Smith,Q7750035
-434,1975,The Great Macarthy,David Baker,Q7737838
-435,1975,The Box,Paul Eddey,Q104875525
-436,1975,Picnic At Hanging Rock,Peter Weir,Q1421747
-437,1975,Pure S,Bert Deling,Q7261128
-438,1975,The Golden Cage,Ayten Kuyululu,Q15039748
-439,1975,How Willingly You Sing,Garry Patterson,Q16963692
-440,1975,Down The Wind,"Kim Mckenzie, Scott Hicks",Q5303019
-441,1975,Plugg,Terry Bourke,Q7205267
-442,1975,Scobie Malone,Terry Ohlsson,Q7434226
-443,1975,The Removalists,Tom Jeffrey,Q7760180
-444,1975,Solo Flight,Ian Mills,Q117457057
-445,1975,Protected,Alessandro Cavadini,Q7251254
-446,1975,Inn Of The Damned,Terry Bourke,Q6035127
-447,1975,"Nuts, Bolts And Bedroom Springs",Gary Young,Q7070534
-448,1975,The Lost Islands,Bill Hughes,Q117457036
-449,1975,Ride A Wild Pony,Don Chaffey,Q7332514
-450,1976,End Play,Tim Burstall,Q5375802
-451,1976,Caddie,Donald Crombie,Q5016297
-452,1976,Illuminations,Paul Cox,Q6000394
-453,1976,Betty Blokk-Buster Follies,Peter Batey,Q4898722
-454,1976,Mad Dog Morgan,Philippe Mora,Q1257078
-455,1976,The Fourth Wish,Don Chaffey,Q7735084
-456,1976,Fantasm,Richard Franklin,Q5434158
-457,1976,Queensland,John Ruane,Q7270879
-458,1976,Oz,Chris Lofven,Q7116409
-459,1976,The Devil's Playground,Fred Schepisi,Q3520601
-460,1976,The Trespassers,John Duigan,Q7770125
-461,1976,Surrender In Paradise,Peter Cox,Q7646705
-462,1976,Don's Party,Bruce Beresford,Q5291409
-463,1976,Storm Boy,Henri Safran,Q958772
-464,1976,Barney,David Waddington,Q4861680
-465,1976,Deathcheaters,Brian Trenchard Smith,Q5247671
-466,1976,Eliza Fraser,Tim Burstall,Q5362135
-467,1976,Let The Balloon Go,Oliver Howes,Q6533067
-468,1976,Summer Of Secrets,Jim Sharman,Q7637519
-469,1976,Break Of Day,Ken Hannam,Q4959331
-470,1977,Raw Deal,Russell Hagg,Q7296856
-471,1977,The Singer And The Dancer,Gillian Armstrong,Q7764395
-472,1977,The FJ Holden,Michael Thornhill,Q7732966
-473,1977,The Picture Show Man,John Power,Q7757054
-474,1977,Backroads,Phillip Noyce,Q4839718
-475,1977,Out Of It,Ken Cameron,Q117456999
-476,1977,The Love-Letters From Teralba Road,Stephen Wallace,Q7748932
-477,1977,High Rolling,Igor Auzins,Q5756374
-478,1977,The Getting Of Wisdom,Bruce Beresford,Q7736240
-479,1977,Journey Among Women,Tom Cowan,Q6296331
-480,1977,Listen To The Lion,Henri Safran,Q6646428
-481,1977,Summerfield,Ken Hannam,Q3503675
-482,1977,Inside Looking Out,Paul Cox,Q12125099
-483,1977,Blue Fire Lady,Ross Dimsey,Q4929113
-484,1977,The Mango Tree,Kevin Dobson,Q7750183
-485,1977,Dot And The Kangaroo,Yoram Gross,Q16833576
-486,1977,The Last Wave,Peter Weir,Q1218841
-487,1977,Summer City,Christopher Fraser,Q1753929
-488,1977,Fantasm Comes Again,Colin Eggleston,Q5434157
+wikidata,label
+Q20649328,"Soldiers Of The Cross (Perry/Booth, 1900)"
+Q1212945,"The Story Of The Kelly Gang (Tait, 1906)"
+Q5411237,"Eureka Stockade (Cornwell/Cornwell, 1907)"
+Q7340830,"Robbery Under Arms (MacMahon, 1907)"
+Q5467143,"For The Term Of His Natural Life (MacMahon, 1908)"
+Q7747142,"The Life And Adventures Of John Vane, The Notorious Australian Bushranger (Fitzgerald, 1910)"
+Q7766106,"The Squatter's Daughter, Or The Land Of The Wattle (Bailey, 1910)"
+Q7799108,"Thunderbolt (Gavin, 1910)"
+Q15039601,"Moonlite (Gavin, 1910)"
+Q6091844,"It Is Never Too Late To Mend (Lincoln, 1911)"
+Q4885775,"Ben Hall And His Gang (Gavin, 1911)"
+Q5036733,"Captain Midnight, The Bush King (Rolfe, 1911)"
+Q5486791,"Frank Gardiner, The King Of The Road (Gavin, 1911)"
+Q15039603,"The Mystery Of A Hansom Cab (Lincoln, 1911)"
+Q5036807,"Captain Starlight, Or Gentleman Of The Road (Rolfe, 1911)"
+Q3602786,"A Tale Of The Australian Bush (Mervale, 1911)"
+Q15039597,"The Luck Of Roaring Camp (Lincoln, 1911)"
+Q7737123,"The Golden West (Young, 1911)"
+Q5001566,"A Bushranger's Ransom, Or A Ride For A Life (Cole, 1911)"
+Q7714712,"The Assigned Servant (Gavin, 1911)"
+Q7797855,"Three Strings To Her Bow (Young, 1911)"
+Q5021873,"Called Back (Lincoln, 1911)"
+Q7766108,"The Squatter's Son (Cole, 1911)"
+Q7733529,"The Fatal Wedding (Longford, 1911)"
+Q15039593,"Keane Of Kalgoorlie (Gavin, 1911)"
+Q3882498,"One Hundred Years Ago (Mervale, 1911)"
+Q7734297,"The Five Of Hearts, Or Buffalo Bill's Love Story (Cole, 1911)"
+Q7748580,"The Lost Chord (Lincoln, 1911)"
+Q5214050,Dan Morgan (1911)
+Q7451202,"Sentenced For Life (Cole, 1911)"
+Q15039595,"The Life Of Rufus Dawes (Rolfe, 1911)"
+Q3602796,"A Ticket In Tatts (Mervale, 1911)"
+Q18708895,Attack On The Gold Escort (1911)
+Q117457099,The Miner's Daughter (1911)
+Q3797421,In The Days Of 49 (1911)
+Q6908063,"Moora Neya, Or The Message Of The Spear (Rolfe, 1911)"
+Q7750366,"The Mark Of The Lash (Gavin, 1911)"
+Q7731061,"The Drover's Sweetheart (Gavin, 1911)"
+Q7761427,"The Romantic Story Of Margaret Catchpole (Longford, 1911)"
+Q20002334,Only A Factory Girl (1911)
+Q18709080,The Squatter And The Clown (1911)
+Q7767404,"The Sundowner (Cole, 1911)"
+Q7745142,"The Lady Outlaw (Rolfe, 1911)"
+Q15039592,"In The Nick Of Time (Rolfe, 1911)"
+Q6786661,"Mates Of The Murrumbidgee (Rolfe, 1911)"
+Q3986351,"The Colleen Bawn (Mervale, 1911)"
+Q7975793,"Way Outback (Rolfe, 1911)"
+Q7991439,"What Women Suffer (Rolfe, 1911)"
+Q7716442,"The Bells (Lincoln, 1911)"
+Q4729949,"All For Gold, Or Jumping The Claim (Barrett, 1911)"
+Q4808851,"Assigned To His Wife (Gavin, 1911)"
+Q7730734,"The Double Event (Lincoln, 1911)"
+Q17056382,The Girl From Outback (1911)
+Q7728410,"The Cup Winner (Rolfe, 1911)"
+Q5023176,"Caloola, Or The Adventures Of A Jackeroo (Rolfe, 1911)"
+Q5308076,"Driving A Girl To Destruction (Marlow, 1911)"
+Q7722714,"The Christian (Barrett, 1911)"
+Q7655431,"Sweet Nell Of Old Drury (Longford, 1911)"
+Q5519668,"Gambler's Gold (Young, 1911)"
+Q7751549,"The Miner's Curse (Rolfe, 1911)"
+Q6412331,"King Of The Coiners (Rolfe, 1912)"
+Q5286136,"Do Men Love Women? (Rolfe, 1912)"
+Q7764377,"The Sin Of A Woman (Rolfe, 1912)"
+Q4762335,"Angel Of His Dreams (Marlow, 1912)"
+Q7766963,The Strangler's Grip (1912)
+Q3783012,"Hands Across The Sea (Mervale, 1912)"
+Q3602421,"A Daughter Of Australia (Mervale, 1912)"
+Q7728064,"The Crime And The Criminal (Rolfe, 1912)"
+Q7754682,"The Octoroon (Young, 1912)"
+Q5166839,"Cooee And The Echo (Rolfe, 1912)"
+Q15039589,"Breaking The News (Lincoln, 1912)"
+Q7752902,The Mystery Of The Black Pearl (1912)
+Q5161258,"Conn, The Shaughraun (Mervale, 1912)"
+Q7623764,"Strike (Young, 1912)"
+Q7748987,"The Love Tyrant (Rolfe, 1912)"
+Q7335543,"Rip Van Winkle (Lincoln, 1912)"
+Q7731783,The Eleventh Hour (1912)
+Q7769215,"The Tide Of Death (Longford, 1912)"
+Q7722263,"The Cheat (Rolfe, 1912)"
+Q17021247,Percy Gets A Job (1912)
+Q20649640,The Bushman's Bride (1912)
+Q4659518,"A Silent Witness (Barrett, 1912)"
+Q8031696,"Won On The Post (Rolfe, 1912)"
+Q3990118,"The Wreck Of The Dunbar, Or The Yeoman's Wedding (Mervale, 1912)"
+Q7997675,"Whose Was The Hand? (Rolfe, 1912)"
+Q7751906,"Moira, Or The Mystery Of The Bush (Rolfe, 1912)"
+Q3989638,"The Ticket Of Leave Man (Mervale, 1912)"
+Q7751333,"The Midnight Wedding (Longford, 1912)"
+Q5021642,Call Of The Bush (1912)
+Q15039596,"The Life Story Of John Lee, Or The Man They Could Not Hang (Scott, 1912)"
+Q20649859,The Opium Runners (1913)
+Q4658192,A Melbourne Mystery (1913)
+Q4823565,"Australia Calls (Longford, 1913)"
+Q4655524,"A Blue Gum Romance (Barrett, 1913)"
+Q7747217,"The Life Of A Jackeroo (Barrett, 1913)"
+Q7719094,"The Bondage Of The Bush (Woods, 1913)"
+Q7227355,"Pommy Arrives In Australia (Longford, 1913)"
+Q7764090,"The Sick Stockrider (Lincoln, 1913)"
+Q6907722,"Moondyne (Lincoln, 1913)"
+Q7760148,"The Remittance Man (Lincoln, 1913)"
+Q7835300,"Transported (Lincoln, 1913)"
+Q7761145,"The Road To Ruin (Lincoln, 1913)"
+Q7760227,"The Reprieve (Lincoln, 1913)"
+Q7728109,"The Crisis (Lincoln, 1913)"
+Q7776268,"The Wreck (Lincoln, 1913)"
+Q7439874,"Sea Dogs Of Australia (Keith, 1913)"
+Q4540499,"'Neath Austral Skies (Longford, 1913)"
+Q7763777,"The Shepherd Of The Southern Cross (Butler, 1914)"
+Q7764194,"The Silence Of Dean Maitland (Longford, 1914)"
+Q4657909,"A Long, Long Way To Tipperary (Dean, 1914)"
+Q7729142,"The Day (Rolfe, 1914)"
+Q7767432,"The Sunny South, Or The Whirlwind Of Fate (Rolfe, 1915)"
+Q117457091,My Partner (1915)
+Q7759738,"The Rebel (Mathews, 1915)"
+Q7739495,"The Hero Of The Dardanelles (Rolfe, 1915)"
+Q13422558,"Within Our Gates, Or Deeds That Won Gallipoli (Harvey, 1915)"
+Q7749124,"The Loyal Rebel (Rolfe, 1915)"
+Q5466672,"For Australia (Luke, 1915)"
+Q5918188,"How We Beat The Emden (Rolfe, 1915)"
+Q4658119,"A Maori Maid's Love (Longford, 1916)"
+Q8028194,"Within The Law (Luke, 1916)"
+Q151588,"Get-Rich-Quick Wallingford (Niblo, 1916)"
+Q7750470,"The Martyrdom Of Nurse Cavell (Gavin/Mason, 1916)"
+Q7070190,"Nurse Cavell (Lincoln, 1916)"
+Q7079442,"Officer 666 (Niblo, 1916)"
+Q15039606,"La Revanche (Lincoln, 1916)"
+Q15039602,"Murphy Of Anzac (Mathews, 1916)"
+Q7743312,"The Joan Of Arc Of Loos (Willoughby, 1916)"
+Q6012411,"In The Last Stride (Keith, 1916)"
+Q7457302,"Seven Keys To Baldpate (Luke, 1916)"
+Q5991074,"If The Huns Came To Melbourne (Coates, 1916)"
+Q7775547,"The Woman In The Case (Willoughby, 1916)"
+Q10381639,"The Mutiny Of The Bounty (Longford, 1916)"
+Q7747107,"The Life's Romance Of Adam Lindsay Gordon (Lincoln, 1916)"
+Q7757231,"The Pioneers (Barrett, 1916)"
+Q7312069,"Remorse, A Story Of The Red Plague (Mathews, 1917)"
+Q7752674,"The Murder Of Captain Fryatt (Gavin, 1917)"
+Q7110641,"Our Friends, The Hayseeds (Smith, 1917)"
+Q4823511,"Australia's Peril (Barrett, 1917)"
+Q7739087,"The Hayseeds Come To Sydney (Smith, 1917)"
+Q7752031,"The Monk And The Woman (Barrett, 1917)"
+Q7722865,"The Church And The Woman (Longford, 1917)"
+Q7739085,"The Hayseeds' Back-Blocks Show (Smith, 1917)"
+Q4656099,"A Coo-ee From Home (Woods, 1918)"
+Q7739086,"The Hayseeds' Melbourne Cup (Smith, 1918)"
+Q5771948,"His Convict Bride (Gavin, 1918)"
+Q7746352,"The Laugh On Dad (Tinsdale, 1918)"
+Q15039590,"The Enemy Within (Stavely, 1918)"
+Q15039609,"The Woman Suffers (Longford, 1918)"
+Q15039610,"Yachts And Hearts, Or The Opium Smugglers (Coates, 1918)"
+Q15039608,"The Waybacks (Sterry, 1918)"
+Q5772164,"His Only Chance (Shortland, 1918)"
+Q5194504,"Cupid Camouflaged (Rolfe, 1918)"
+Q7425905,"Satan In Sydney (Smith, 1918)"
+Q6316299,"Just Peggy (Lipman, 1918)"
+Q4724215,"Algie's Romance (Doogood, 1918)"
+Q4659263,"A Romance Of The Burke And Wills Expedition Of 1860 (Coates, 1918)"
+Q7749194,"The Lure Of The Bush (Flemming, 1918)"
+Q7430526,"Scars Of Love (McColl, 1918)"
+Q7991121,"What Happened To Jean (Walsh, 1918)"
+Q8084057,"£500 Reward (Flemming, 1918)"
+Q4823509,"Australia's Own (Ward, 1919)"
+Q5263931,"Desert Gold (Smith, 1919)"
+Q5288109,Does The Jazz Lead To Destruction? (1919)
+Q4864065,"Barry Butts In (Smith, 1919)"
+Q3989208,"The Sentimental Bloke (Longford, 1919)"
+Q7624973,"Struck Oil (Barrett, 1919)"
+Q7733022,"The Face At The Window (Villiers, 1919)"
+Q7750037,"The Man From Kangaroo (Lucas, 1920)"
+Q3764507,"Ginger Mick (Longford, 1920)"
+Q15039594,"The Kelly Gang (Southwell, 1920)"
+Q7763563,"The Shadow Of Lightning Ridge (Lucas, 1920)"
+Q7719923,"The Breaking Of The Drought (Barrett, 1920)"
+Q7091100,"On Our Selection (Longford, 1920)"
+Q7750059,"The Man From Snowy River (Smith/Wells, 1920)"
+Q7340828,"Robbery Under Arms (Brampton, 1920)"
+Q7742854,"The Jackeroo Of Coolabong (Lucas, 1920)"
+Q7740276,"The Hordern Mystery (Southwell, 1920)"
+Q7233444,"'Possum Paddock (Villiers/Howarde, 1921)"
+Q7515270,"Silks And Saddles (Wells, 1921)"
+Q16953737,"The Betrayer (Smith, 1921)"
+Q4657048,"A Girl Of The Bush (Barrett, 1921)"
+Q7376827,"Rudd's New Selection (Longford, 1921)"
+Q7738566,"The Guyra Ghost Mystery (Cosgrove, 1921)"
+Q6786365,"Mated In The Wilds (Ramster, 1921)"
+Q7993637,"While The Billy Boils (Smith, 1921)"
+Q6423167,"Know Thy Child (Barrett, 1921)"
+Q7316938,"Retribution (Lionello, 1921)"
+Q7718807,"The Blue Mountains Mystery (Longford/Lyell, 1921)"
+Q7747138,"The Life Story Of John Lee, Or The Man They Could Not Hang (Sterry, 1921)"
+Q7736132,"The Gentleman Bushranger (Smith, 1921)"
+Q5121763,"Circumstance (Harris, 1922)"
+Q7770288,"The Triumph Of Love (Ramster, 1922)"
+Q4659285,"A Rough Passage (Barrett, 1922)"
+Q4656275,"A Daughter Of Australia (Harris, 1922)"
+Q5328902,"East Lynne (Hardy, 1922)"
+Q7641562,"Sunshine Sally (Harris, 1922)"
+Q7749197,"The Lust For Gold (Darling, 1922)"
+Q7730217,"The Dinkum Bloke (Longford, 1923)"
+Q7730210,"The Dingo (Brampton, 1923)"
+Q7770885,"The Twins (McCallum, 1923)"
+Q7830132,"Townies And Hayseeds (Smith, 1923)"
+Q7992991,"When The Kellys Were Out (Southwell, 1923)"
+Q7502679,"Should A Doctor Tell? (Ramster, 1923)"
+Q4823566,"Australia Calls (Longford, 1923)"
+Q7239930,"Prehistoric Hayseeds (Smith, 1923)"
+Q7730168,"The Digger Earl (Smith, 1924)"
+Q5297296,"Dope (Webb, 1924)"
+Q6208254,"Joe (Smith, 1924)"
+Q5227922,"Daughter Of The East (Darling, 1924)"
+Q5454722,"Fisher's Ghost (Longford, 1924)"
+Q7758123,"The Price (Webb, 1924)"
+Q7760482,"The Rev. Dell's Secret (Ramster, 1924)"
+Q5917986,"How Mcdougall Topped The Score (Brown, 1924)"
+Q5936100,"Hullo Marmaduke (Smith, 1924)"
+Q7752899,"The Mystery Of A Hansom Cab (Shirley, 1925)"
+Q7125003,"Painted Daughters (Stuart-Whyte, 1925)"
+Q7712490,"The Adventures Of Algy (Smith, 1925)"
+Q7720732,"The Bushwhackers (Longford, 1925)"
+Q7796847,"Those Terrible Twins (Ward, 1925)"
+Q4795621,"Around The Boree Log (Walsh, 1925)"
+Q6189574,"Jewelled Nights (Lovely/Welch, 1925)"
+Q7752407,"The Moth Of Moonbi (Chauvel, 1926)"
+Q7768481,"The Tenth Straw (Mcanderson, 1926)"
+Q7659804,"Sydney's Darlings (Marinato, 1926)"
+Q7177495,"Peter Vernon's Silence (Longford, 1926)"
+Q15039607,"Should A Girl Propose? (Ramster, 1926)"
+Q15039742,"The Jungle Woman (Hurley, 1926)"
+Q15039604,"The Pioneers (Longford, 1926)"
+Q7762815,"The Sealed Room (Shirley, 1926)"
+Q7679979,"Tall Timber (Webb, 1926)"
+Q14156944,"Sunrise (Stuart-Whyte/Longford, 1926)"
+Q7740465,"The Hound Of The Deep (Hurley, 1926)"
+Q5604098,"Greenhide (Chauvel, 1926)"
+Q7796876,"Those Who Love (Ramster/Mcdonagh, 1926)"
+Q5763506,"Hills Of Hate (Longford, 1926)"
+Q5302881,"Down Under (Southwell, 1927)"
+Q7744230,"The Kid Stakes (Ordell, 1927)"
+Q5467144,"For The Term Of His Natural Life (Dawn, 1927)"
+Q5381006,"Environment (Hayle, 1927)"
+Q7761876,"The Rushing Tide (Hayle, 1927)"
+Q7749934,"The Man Who Forgot (Harwood, 1927)"
+Q7751550,"The Miner's Daughter (Forbert, 1927)"
+Q7761404,"The Romance Of Runnibede (Dunlap, 1928)"
+Q7763706,"The Shattered Illusion (Harbrow, 1928)"
+Q7751005,"The Menace (Sharpe, 1928)"
+Q7765936,"The Spirit Of Gallipoli (Gategood/Green, 1928)"
+Q7845565,"Trooper O'Brien (Gavin, 1928)"
+Q7712405,"The Adorable Outcast (Dawn, 1928)"
+Q5054462,"Caught In The Net (Marshall, 1928)"
+Q7733414,"The Far Paradise (Mcdonagh, 1928)"
+Q7738274,"The Grey Glove (Webb, 1928)"
+Q7718132,"The Birth Of White Australia (Walsh, 1928)"
+Q7732846,"The Exploits Of The Emden (Hall, 1928)"
+Q3989113,"The Russell Affair (Ramster, 1928)"
+Q7077531,"Odds On (Higgins, 1928)"
+Q7729942,"The Devil's Playground (Bindley, 1928)"
+Q7744639,"The Kingdom Of Twilight (Macdonald, 1929)"
+Q7801422,"Tiger Island (Hayle, 1930)"
+Q7722268,"The Cheaters (Mcdonagh, 1930)"
+Q5442455,"Fellers (Higgins/Fay, 1930)"
+Q7581550,"Spur Of The Moment (Harwood, 1931)"
+Q6083930,"Isle Of Intrigue (Harwood, 1931)"
+Q5275641,"Diggers (Thring, 1931)"
+Q7503239,"Showsgirl's Luck (Dawn, 1931)"
+Q7763311,"The Sentimental Bloke (Thring, 1932)"
+Q7091101,"On Our Selection (Hall, 1932)"
+Q5772181,"His Royal Highness (Thring, 1932)"
+Q5275649,"Diggers In Blighty (Hanna, 1933)"
+Q5659602,"Harmony Row (Thring, 1933)"
+Q3149754,"In The Wake Of The Bounty (Chauvel, 1933)"
+Q7766105,"The Squatter's Daughter (Hall, 1933)"
+Q7859110,"Two Minutes Silence (Mcdonagh, 1933)"
+Q7966850,"Waltzing Matilda (Hanna, 1933)"
+Q7739084,"The Hayseeds (Smith, 1933)"
+Q4660128,"A Ticket In Tatts (Thring, 1934)"
+Q15039747,"Secret Of The Skies (Harwood, 1934)"
+Q7764196,"The Silence Of Dean Maitland (Hall, 1934)"
+Q7749894,"The Man They Could Not Hang (Longford, 1934)"
+Q7992989,"When The Kellys Rode (Southwell, 1934)"
+Q5125989,"Clara Gibbings (Thring, 1934)"
+Q7623787,"Strike Me Lucky (Hall, 1934)"
+Q7578451,"Splendid Fellows (Smith, 1934)"
+Q7767008,"The Streets Of London (Thring, 1934)"
+Q5595279,"Grandad Rudd (Hall, 1935)"
+Q5738637,"Heritage (Chauvel, 1935)"
+Q7720639,"The Burgomeister (Southwell, 1935)"
+Q7796630,"Thoroughbred (Hall, 1936)"
+Q7734577,"The Flying Doctor (Mander, 1936)"
+Q7882671,"Uncivilised (Chauvel, 1936)"
+Q7994637,"White Death (Bowen, 1936)"
+Q7103933,"Orphan Of The Wilderness (Hall, 1936)"
+Q7292876,"Rangle River (Badger, 1936)"
+Q6091875,"It Isn't Done (Hall, 1937)"
+Q6948844,"Mystery Island (Lipman, 1937)"
+Q7180562,"Phantom Gold (Kathner, 1937)"
+Q7679985,"Tall Timbers (Hall, 1937)"
+Q7715011,"The Avenger (Harwood, 1937)"
+Q6692460,"Lovers And Luggers (Hall, 1937)"
+Q12104370,"The Broken Melody (Hall, 1938)"
+Q6532660,"Let George Do It (Hall, 1938)"
+Q7502936,"Show Business (Harwood, 1938)"
+Q7861333,"Typhoon Treasure (Monkman, 1938)"
+Q5207859,"Dad And Dave Come To Town (Hall, 1938)"
+Q12102124,"Below The Surface (Kathner, 1938)"
+Q6928519,"Mr Chedworth Steps Out (Hall, 1939)"
+Q5581634,"Gone To The Dogs (Hall, 1939)"
+Q5151292,"Come Up Smiling (Freshman, 1939)"
+Q7457324,"Seven Little Australians (Collins, 1939)"
+Q5207855,"Dad Rudd, M.P. (Hall, 1940)"
+Q8025290,"Wings Of Destiny (Kathner, 1940)"
+Q5472997,"Forty Thousand Horsemen (Chauvel, 1940)"
+Q7711150,"That Certain Something (Badger, 1941)"
+Q7757927,"The Power And The Glory (Monkman, 1941)"
+Q7279685,"Racing Luck (Kathner, 1941)"
+Q4660844,"A Yank In Australia (Goulding, 1942)"
+Q3522429,"The Rats Of Tobruk (Chauvel, 1944)"
+Q7305051,"Red Sky At Morning (Arthur, 1944)"
+Q5676779,"Harvest Gold (Murphy, 1945)"
+Q12127551,"Smithy (Hall, 1946)"
+Q4659657,"A Son Is Born (Porter, 1946)"
+Q7755740,"The Overlanders (Watt, 1946)"
+Q5001367,"Bush Christmas (Smart, 1947)"
+Q4738397,"Always Another Dawn (McCreadie, 1947)"
+Q5411239,"Eureka Stockade (Watt, 1949)"
+Q7624500,"Strong Is The Seed (Collins, 1949)"
+Q6058168,"Into The Straight (McCreadie, 1949)"
+Q7562326,"Sons Of Matthew (Chauvel, 1949)"
+Q4919025,"Bitter Springs (Smart, 1950)"
+Q7743960,"The Kangaroo Kid (Selander, 1950)"
+Q7993502,"Wherever She Goes (Gordon, 1951)"
+Q7736766,"The Glenrowan Affair (Kathner, 1951)"
+Q6849376,"Mike And Stefani (Williams, 1952)"
+Q3210106,"Kangaroo (Milestone, 1952)"
+Q7033248,"Night Club (Harwood, 1952)"
+Q5036825,"Captain Thunderbolt (Holmes, 1953)"
+Q7756849,"The Phantom Stockman (Robinson, 1953)"
+Q6412332,"King Of The Coral Sea (Robinson, 1954)"
+Q7715248,"The Back Of Beyond (Heyer, 1954)"
+Q6672759,"Long John Silver. (Haskin, 1954)"
+Q3176350,"Jedda (Chauvel, 1955)"
+Q7544693,"Smiley (Kimmins, 1956)"
+Q7962022,"Walk Into Paradise (Robinson/Pagliero, 1956)"
+Q7797967,"Three In One (Holmes, 1957)"
+Q7763858,"The Shiralee (Norman, 1957)"
+Q7340832,"Robbery Under Arms (Lee, 1957)"
+Q3225286,"The Stowaway (Robinson/Habib, 1958)"
+Q7544703,"Smiley Gets A Gun (Kimmins, 1958)"
+Q5317009,"Dust In The Sun (Robinson, 1958)"
+Q3201772,"The Restless And The Damned (Allegret, 1959)"
+Q3012988,"Summer Of The Seventeenth Doll (Norman, 1959)"
+Q1469774,"On The Beach (Kramer, 1959)"
+Q3205730,"The Siege Of Pinchgut (Watt, 1959)"
+Q7460671,"Shadow Of The Boomerang (Ross, 1960)"
+Q1198545,"The Sundowners (Zinnemann, 1960)"
+Q4997601,"Bungala Boys (Jeffrey, 1961)"
+Q7783711,"They Found A Cave (Steane, 1962)"
+Q5129821,"Clay (Mangiamele, 1965)"
+Q1004363,"Funny Things Happen Down Under (McCormick, 1965)"
+Q7783640,"They're A Weird Mob (Powell, 1966)"
+Q7758708,"Pudding Thieves (Davies, 1967)"
+Q12125270,"Journey Out Of Darkness (Trainor, 1967)"
+Q87203764,"Time In Summer (Dutkiewicz, 1968)"
+Q17036710,"Koya No Toseinin (Sato, 1968)"
+Q16963252,"Moeru Tairiku (Nishimura, 1968)"
+Q8057049,"You Can't See 'Round Corners (Cahill, 1969)"
+Q4691874,"Age Of Consent (Powell, 1969)"
+Q4597966,"Two Thousand Weeks (Burstall, 1969)"
+Q16997392,"It Takes All Kinds (Davis, 1969)"
+Q7742391,"The Intruders (Robinson, 1969)"
+Q7763401,"The Set (Brittain, 1970)"
+Q7582212,"Squeeze A Flower (Daniels, 1970)"
+Q12125196,"Jack And Jill: A Postscript (Adams/Robinson, 1970)"
+Q5148562,"Color Me Dead (Davis, 1970)"
+Q7062802,"Nothing Like Experience (Carmody, 1970)"
+Q3281502,"Adam's Woman (Leacock, 1970)"
+Q4900017,"Beyond Reason (Mangiamele, 1970)"
+Q5245148,"Dead Easy (Buesst, 1970)"
+Q3112204,"Ned Kelly (Richardson, 1970)"
+Q7621408,"Strange Holiday (Brown, 1970)"
+Q6650565,"Little Jungle Boy (Brown, 1970)"
+Q7753012,"The Naked Bunyip (Murray, 1970)"
+Q7711221,"That Lady From Peking (Davis, 1970)"
+Q12128666,"Sympathy In Summer (Ginnane, 1971)"
+Q7798017,"Three To Go (Weir/Hannant/Howes, 1971)"
+Q7028273,"Nickel Queen (McCallum, 1971)"
+Q5256327,"Demonstrator (Freeman, 1971)"
+Q3417503,"Homesdale (Weir, 1971)"
+Q5177448,"Country Town (Maxwell, 1971)"
+Q1342653,"Walkabout (Roeg, 1971)"
+Q7961003,"Wake In Fright (Kotcheff, 1971)"
+Q4753453,"And The Word Was Made Flesh (Marek, 1971)"
+Q4942103,"Bonjour Balwyn (Buesst, 1971)"
+Q7617927,"Stockade (Pomeranz, 1971)"
+Q7620062,"Stork (Burstall, 1971)"
+Q2894960,"Bello Onesto Emigrato Australia Sposerebbecompaesana Illibata (Zampa, 1971)"
+Q4655932,"A City's Child (Kavanagh, 1972)"
+Q7498866,"Shirley Thompson Versus The Aliens (Sharman, 1972)"
+Q7246061,"Private Collection (Salvat, 1972)"
+Q7712494,"The Adventures Of Barry Mckenzie (Beresford, 1972)"
+Q7754723,"The Office Picnic (Cowan, 1972)"
+Q7641656,"Sunstruck (Gilbert, 1972)"
+Q6757681,"Marco Polo Jnr Versus The Red Dragon (Porter, 1972)"
+Q5457663,"Flashpoint (Hannant, 1972)"
+Q5533689,"Gentle Strangers (Holmes, 1972)"
+Q7033649,"Night Of Fear (Bourke, 1973)"
+Q6542266,"Libido (Murray/Burstall/Schepisi/Baker, 1973)"
+Q117457083,"The Sabbat Of The Black Cat (Marsden, 1973)"
+Q19870676,"An Essay On Pornography (Cary, 1973)"
+Q6684450,"Lost In The Bush (Dodds, 1973)"
+Q5293358,"Don Quixote (Nureyev/Helpmann, 1973)"
+Q5151242,"Come Out Fighting (Buesst, 1973)"
+Q4828080,"Avengers Of The Reef (McCullugh, 1973)"
+Q5211523,"Dalmas (Deling, 1973)"
+Q4738201,"Alvin Purple (Burstall, 1973)"
+Q6927077,"Moving On (Mason, 1974)"
+Q117457074,"Matchless (Papadopoulos, 1974)"
+Q104875997,"Number 96 (Benardos, 1974)"
+Q4632540,"27A (Storm, 1974)"
+Q926678,"The Cars That Ate Paris (Weir, 1974)"
+Q7618838,"Stone (Harbutt, 1974)"
+Q8046466,"Yackety Yack (Jones, 1974)"
+Q7178200,"Petersen (Burstall, 1974)"
+Q4899130,"Between Wars (Thornhill, 1974)"
+Q4738206,"Alvin Rides Again (Bilcock/Copping, 1974)"
+Q4864500,"Barry Mckenzie Holds His Own (Beresford, 1974)"
+Q7748903,"The Love Epidemic (Smith, 1975)"
+Q7734059,"The Firm Man (Duigan, 1975)"
+Q7249802,"Promised Woman (Cowan, 1975)"
+Q12129827,"The True Story Of Eskimo Nell (Franklin, 1975)"
+Q7508363,"Sidecar Racers (Bellamy, 1975)"
+Q3503837,"Sunday Too Far Away (Hannam, 1975)"
+Q7750035,"The Man From Hong Kong (Smith, 1975)"
+Q7737838,"The Great Macarthy (Baker, 1975)"
+Q104875525,"The Box (Eddey, 1975)"
+Q1421747,"Picnic At Hanging Rock (Weir, 1975)"
+Q7261128,"Pure S (Deling, 1975)"
+Q15039748,"The Golden Cage (Kuyululu, 1975)"
+Q16963692,"How Willingly You Sing (Patterson, 1975)"
+Q5303019,"Down The Wind (Mckenzie/Hicks, 1975)"
+Q7205267,"Plugg (Bourke, 1975)"
+Q7434226,"Scobie Malone (Ohlsson, 1975)"
+Q7760180,"The Removalists (Jeffrey, 1975)"
+Q117457057,"Solo Flight (Mills, 1975)"
+Q7251254,"Protected (Cavadini, 1975)"
+Q6035127,"Inn Of The Damned (Bourke, 1975)"
+Q7070534,"Nuts, Bolts And Bedroom Springs (Young, 1975)"
+Q117457036,"The Lost Islands (Hughes, 1975)"
+Q7332514,"Ride A Wild Pony (Chaffey, 1975)"
+Q5375802,"End Play (Burstall, 1976)"
+Q5016297,"Caddie (Crombie, 1976)"
+Q6000394,"Illuminations (Cox, 1976)"
+Q4898722,"Betty Blokk-Buster Follies (Batey, 1976)"
+Q1257078,"Mad Dog Morgan (Mora, 1976)"
+Q7735084,"The Fourth Wish (Chaffey, 1976)"
+Q5434158,"Fantasm (Franklin, 1976)"
+Q7270879,"Queensland (Ruane, 1976)"
+Q7116409,"Oz (Lofven, 1976)"
+Q3520601,"The Devil's Playground (Schepisi, 1976)"
+Q7770125,"The Trespassers (Duigan, 1976)"
+Q7646705,"Surrender In Paradise (Cox, 1976)"
+Q5291409,"Don's Party (Beresford, 1976)"
+Q958772,"Storm Boy (Safran, 1976)"
+Q4861680,"Barney (Waddington, 1976)"
+Q5247671,"Deathcheaters (Smith, 1976)"
+Q5362135,"Eliza Fraser (Burstall, 1976)"
+Q6533067,"Let The Balloon Go (Howes, 1976)"
+Q7637519,"Summer Of Secrets (Sharman, 1976)"
+Q4959331,"Break Of Day (Hannam, 1976)"
+Q7296856,"Raw Deal (Hagg, 1977)"
+Q7764395,"The Singer And The Dancer (Armstrong, 1977)"
+Q7732966,"The FJ Holden (Thornhill, 1977)"
+Q7757054,"The Picture Show Man (Power, 1977)"
+Q4839718,"Backroads (Noyce, 1977)"
+Q117456999,"Out Of It (Cameron, 1977)"
+Q7748932,"The Love-Letters From Teralba Road (Wallace, 1977)"
+Q5756374,"High Rolling (Auzins, 1977)"
+Q7736240,"The Getting Of Wisdom (Beresford, 1977)"
+Q6296331,"Journey Among Women (Cowan, 1977)"
+Q6646428,"Listen To The Lion (Safran, 1977)"
+Q3503675,"Summerfield (Hannam, 1977)"
+Q12125099,"Inside Looking Out (Cox, 1977)"
+Q4929113,"Blue Fire Lady (Dimsey, 1977)"
+Q7750183,"The Mango Tree (Dobson, 1977)"
+Q16833576,"Dot And The Kangaroo (Gross, 1977)"
+Q1218841,"The Last Wave (Weir, 1977)"
+Q1753929,"Summer City (Fraser, 1977)"
+Q5434157,"Fantasm Comes Again (Eggleston, 1977)"
